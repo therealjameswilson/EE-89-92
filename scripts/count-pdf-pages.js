@@ -8,6 +8,7 @@ const ROOT = path.resolve(__dirname, "..");
 const DATA_PATH = path.join(ROOT, "data", "records.json");
 const MIRROR_PATH = path.join(ROOT, "data", "records.js");
 const REPORT_PATH = path.join(ROOT, "reports", "scowcroft-memcon-telcon-search.json");
+const LEADER_AUDIT_PATH = path.join(ROOT, "reports", "bush-eastern-europe-leader-memcon-telcon-audit.json");
 const CACHE_DIR = path.join("/private/tmp", "ee-89-92-pdfs");
 
 function formatJson(value, indent = 0) {
@@ -129,6 +130,27 @@ function updateReport(records) {
   fs.writeFileSync(REPORT_PATH, `${JSON.stringify(report, null, 2)}\n`);
 }
 
+function updateLeaderAudit(records) {
+  if (!fs.existsSync(LEADER_AUDIT_PATH)) return;
+
+  const audit = JSON.parse(fs.readFileSync(LEADER_AUDIT_PATH, "utf8"));
+  const leaderRecords = records.filter((record) => record.id.startsWith("bush-ee-"));
+  const byId = Object.fromEntries(leaderRecords.map((record) => [record.id, record]));
+
+  if (audit.harvestedRecords?.records) {
+    for (const record of audit.harvestedRecords.records) {
+      const current = byId[record.id];
+      if (current) record.pageCount = current.pageCount || 0;
+    }
+    audit.harvestedRecords.totalPages = audit.harvestedRecords.records.reduce(
+      (sum, record) => sum + (record.pageCount || 0),
+      0
+    );
+  }
+
+  fs.writeFileSync(LEADER_AUDIT_PATH, `${JSON.stringify(audit, null, 2)}\n`);
+}
+
 async function main() {
   fs.mkdirSync(CACHE_DIR, { recursive: true });
   const records = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
@@ -146,6 +168,7 @@ async function main() {
   fs.writeFileSync(DATA_PATH, `${formatJson(records)}\n`);
   fs.writeFileSync(MIRROR_PATH, `window.EE_RECORDS = ${JSON.stringify(records, null, 2)};\n`);
   updateReport(records);
+  updateLeaderAudit(records);
 }
 
 main().catch((error) => {

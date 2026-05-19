@@ -87,6 +87,8 @@ function createMeta(record) {
   const values = [
     record.type,
     record.pageCount ? `${record.pageCount.toLocaleString()} pages` : "Pages pending",
+    record.releaseStatus ? `${record.releaseStatus} release` : "",
+    record.coverageRole,
     record.countries.join(", "),
     record.sourceFamily,
     record.status

@@ -1,0 +1,1919 @@
+{
+  "generatedAt": "2026-05-19T22:03:37.854Z",
+  "source": {
+    "name": "George H. W. Bush Presidential Library Memcons and Telcons table",
+    "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+  },
+  "scope": "All table rows with Type Memcon or Telcon and an Eastern Europe country/leader signal. This is the authoritative Bush Library public table pass before item-level Catalog enrichment.",
+  "totalTableRows": 1365,
+  "totalEasternEuropeLeaderRows": 64,
+  "rowsByCountry": {
+    "Bulgaria": 2,
+    "Czech and Slovak Federal Republic": 1,
+    "Czechoslovakia": 16,
+    "Estonia": 3,
+    "Hungary": 13,
+    "Hungary, Canada": 1,
+    "Latvia": 2,
+    "Lithuania": 1,
+    "Poland": 13,
+    "Romania": 1,
+    "Slovak Republic": 1,
+    "Ukraine": 6,
+    "Ukrainian": 1,
+    "Yugoslavia": 3
+  },
+  "broadSanitySearch": {
+    "terms": [
+      "Albania",
+      "Alia",
+      "Berisha",
+      "Bosnia",
+      "Croatia",
+      "Estonia",
+      "Gligorov",
+      "Izetbegovic",
+      "Kravchuk",
+      "Kucan",
+      "Landsbergis",
+      "Latvia",
+      "Lithuania",
+      "Macedonia",
+      "Milosevic",
+      "Serbia",
+      "Slovenia",
+      "Tudjman",
+      "Ukraine"
+    ],
+    "totalRows": 13,
+    "notAlreadyIncluded": []
+  },
+  "rows": [
+    {
+      "date": "5/15/1989",
+      "type": "Memcon",
+      "participants": "Czyrek, Josef",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080021",
+      "tablePage": 67,
+      "catalogUrl": "https://catalog.archives.gov/id/428080021",
+      "isoDate": "1989-05-15",
+      "rowKey": "1989-05-15-Memcon-428080021"
+    },
+    {
+      "date": "7/10/1989",
+      "type": "Memcon",
+      "participants": "Jaruzelski, Wojciech",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080083",
+      "tablePage": 9,
+      "catalogUrl": "https://catalog.archives.gov/id/428080083",
+      "isoDate": "1989-07-10",
+      "rowKey": "1989-07-10-Memcon-428080083"
+    },
+    {
+      "date": "7/10/1989",
+      "type": "Memcon",
+      "participants": "Rakowski, Meiczyslaw",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080085",
+      "tablePage": 9,
+      "catalogUrl": "https://catalog.archives.gov/id/428080085",
+      "isoDate": "1989-07-10",
+      "rowKey": "1989-07-10-Memcon-428080085"
+    },
+    {
+      "date": "7/10/1989",
+      "type": "Memcon",
+      "participants": "Rakowski, Meiczyslaw",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080087",
+      "tablePage": 9,
+      "catalogUrl": "https://catalog.archives.gov/id/428080087",
+      "isoDate": "1989-07-10",
+      "rowKey": "1989-07-10-Memcon-428080087"
+    },
+    {
+      "date": "7/11/1989",
+      "type": "Memcon",
+      "participants": "Straub, Bruno",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080089",
+      "tablePage": 9,
+      "catalogUrl": "https://catalog.archives.gov/id/428080089",
+      "isoDate": "1989-07-11",
+      "rowKey": "1989-07-11-Memcon-428080089"
+    },
+    {
+      "date": "7/12/1989",
+      "type": "Memcon",
+      "participants": "Nemeth, Miklos",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080091",
+      "tablePage": 9,
+      "catalogUrl": "https://catalog.archives.gov/id/428080091",
+      "isoDate": "1989-07-12",
+      "rowKey": "1989-07-12-Memcon-428080091"
+    },
+    {
+      "date": "7/12/1989",
+      "type": "Memcon",
+      "participants": "Poszgay, Imre",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080093",
+      "tablePage": 9,
+      "catalogUrl": "https://catalog.archives.gov/id/428080093",
+      "isoDate": "1989-07-12",
+      "rowKey": "1989-07-12-Memcon-428080093"
+    },
+    {
+      "date": "9/25/1989",
+      "type": "Memcon",
+      "participants": "Drnovsek, Janez",
+      "country": "Yugoslavia",
+      "status": "Full",
+      "naid": "428080195",
+      "tablePage": 12,
+      "catalogUrl": "https://catalog.archives.gov/id/428080195",
+      "isoDate": "1989-09-25",
+      "rowKey": "1989-09-25-Memcon-428080195"
+    },
+    {
+      "date": "9/25/1989",
+      "type": "Memcon",
+      "participants": "Horn, Gyula",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080225",
+      "tablePage": 12,
+      "catalogUrl": "https://catalog.archives.gov/id/428080225",
+      "isoDate": "1989-09-25",
+      "rowKey": "1989-09-25-Memcon-428080225"
+    },
+    {
+      "date": "9/25/1989",
+      "type": "Memcon",
+      "participants": "Skubiszewsk, Krzysztof",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080233",
+      "tablePage": 12,
+      "catalogUrl": "https://catalog.archives.gov/id/428080233",
+      "isoDate": "1989-09-25",
+      "rowKey": "1989-09-25-Memcon-428080233"
+    },
+    {
+      "date": "10/24/1989",
+      "type": "Memcon",
+      "participants": "Varkonyi, Peter",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080279",
+      "tablePage": 66,
+      "catalogUrl": "https://catalog.archives.gov/id/428080279",
+      "isoDate": "1989-10-24",
+      "rowKey": "1989-10-24-Memcon-428080279"
+    },
+    {
+      "date": "11/2/1989",
+      "type": "Memcon",
+      "participants": "Poszgay, Imre",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080285",
+      "tablePage": 14,
+      "catalogUrl": "https://catalog.archives.gov/id/428080285",
+      "isoDate": "1989-11-02",
+      "rowKey": "1989-11-02-Memcon-428080285"
+    },
+    {
+      "date": "2/20/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428080527",
+      "tablePage": 19,
+      "catalogUrl": "https://catalog.archives.gov/id/428080527",
+      "isoDate": "1990-02-20",
+      "rowKey": "1990-02-20-Memcon-428080527"
+    },
+    {
+      "date": "2/20/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428080529",
+      "tablePage": 19,
+      "catalogUrl": "https://catalog.archives.gov/id/428080529",
+      "isoDate": "1990-02-20",
+      "rowKey": "1990-02-20-Memcon-428080529"
+    },
+    {
+      "date": "2/20/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428080531",
+      "tablePage": 19,
+      "catalogUrl": "https://catalog.archives.gov/id/428080531",
+      "isoDate": "1990-02-20",
+      "rowKey": "1990-02-20-Memcon-428080531"
+    },
+    {
+      "date": "2/21/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428080535",
+      "tablePage": 19,
+      "catalogUrl": "https://catalog.archives.gov/id/428080535",
+      "isoDate": "1990-02-21",
+      "rowKey": "1990-02-21-Memcon-428080535"
+    },
+    {
+      "date": "3/21/1990",
+      "type": "Memcon",
+      "participants": "Mazowiecki, Tadeusz",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080589",
+      "tablePage": 21,
+      "catalogUrl": "https://catalog.archives.gov/id/428080589",
+      "isoDate": "1990-03-21",
+      "rowKey": "1990-03-21-Memcon-428080589"
+    },
+    {
+      "date": "3/21/1990",
+      "type": "Memcon",
+      "participants": "Mazowiecki, Tadeusz",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080591",
+      "tablePage": 21,
+      "catalogUrl": "https://catalog.archives.gov/id/428080591",
+      "isoDate": "1990-03-21",
+      "rowKey": "1990-03-21-Memcon-428080591"
+    },
+    {
+      "date": "3/22/1990",
+      "type": "Memcon",
+      "participants": "Mazowiecki, Tadeusz",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428080593",
+      "tablePage": 21,
+      "catalogUrl": "https://catalog.archives.gov/id/428080593",
+      "isoDate": "1990-03-22",
+      "rowKey": "1990-03-22-Memcon-428080593"
+    },
+    {
+      "date": "5/18/1990",
+      "type": "Memcon",
+      "participants": "Goncz, Arpad",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428080701",
+      "tablePage": 23,
+      "catalogUrl": "https://catalog.archives.gov/id/428080701",
+      "isoDate": "1990-05-18",
+      "rowKey": "1990-05-18-Memcon-428080701"
+    },
+    {
+      "date": "7/30/1990",
+      "type": "Memcon",
+      "participants": "Godmanis, Ivars",
+      "country": "Latvia",
+      "status": "Full",
+      "naid": "428080845",
+      "tablePage": 27,
+      "catalogUrl": "https://catalog.archives.gov/id/428080845",
+      "isoDate": "1990-07-30",
+      "rowKey": "1990-07-30-Memcon-428080845"
+    },
+    {
+      "date": "9/28/1990",
+      "type": "Memcon",
+      "participants": "Zhelev, Zhelyu",
+      "country": "Bulgaria",
+      "status": "Full",
+      "naid": "428081041",
+      "tablePage": 32,
+      "catalogUrl": "https://catalog.archives.gov/id/428081041",
+      "isoDate": "1990-09-28",
+      "rowKey": "1990-09-28-Memcon-428081041"
+    },
+    {
+      "date": "9/29/1990",
+      "type": "Memcon",
+      "participants": "Mazowiecki, Tadeusz",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428081081",
+      "tablePage": 32,
+      "catalogUrl": "https://catalog.archives.gov/id/428081081",
+      "isoDate": "1990-09-29",
+      "rowKey": "1990-09-29-Memcon-428081081"
+    },
+    {
+      "date": "9/30/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081089",
+      "tablePage": 32,
+      "catalogUrl": "https://catalog.archives.gov/id/428081089",
+      "isoDate": "1990-09-30",
+      "rowKey": "1990-09-30-Memcon-428081089"
+    },
+    {
+      "date": "10/1/1990",
+      "type": "Memcon",
+      "participants": "Jovic, Borisav",
+      "country": "Yugoslavia",
+      "status": "Full",
+      "naid": "428081101",
+      "tablePage": 33,
+      "catalogUrl": "https://catalog.archives.gov/id/428081101",
+      "isoDate": "1990-10-01",
+      "rowKey": "1990-10-01-Memcon-428081101"
+    },
+    {
+      "date": "10/18/1990",
+      "type": "Memcon",
+      "participants": "Antall, Jozsef",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428081125",
+      "tablePage": 34,
+      "catalogUrl": "https://catalog.archives.gov/id/428081125",
+      "isoDate": "1990-10-18",
+      "rowKey": "1990-10-18-Memcon-428081125"
+    },
+    {
+      "date": "10/18/1990",
+      "type": "Memcon",
+      "participants": "Antall, Jozsef",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428081127",
+      "tablePage": 34,
+      "catalogUrl": "https://catalog.archives.gov/id/428081127",
+      "isoDate": "1990-10-18",
+      "rowKey": "1990-10-18-Memcon-428081127"
+    },
+    {
+      "date": "11/17/1990",
+      "type": "Memcon",
+      "participants": "Czech Leaders: Pithart, Petr; Dienstbier, Jiri; Bresova, Dagmar; Hradska, Victoria; Brabcova, Alexandra",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081179",
+      "tablePage": 35,
+      "catalogUrl": "https://catalog.archives.gov/id/428081179",
+      "isoDate": "1990-11-17",
+      "rowKey": "1990-11-17-Memcon-428081179"
+    },
+    {
+      "date": "11/17/1990",
+      "type": "Memcon",
+      "participants": "Federal Leaders: Calfa, Marian; Dienstbier, Jiri; Vosicky, Emilian; Prusa, Ivan; Brabcova, Alexandra",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081181",
+      "tablePage": 35,
+      "catalogUrl": "https://catalog.archives.gov/id/428081181",
+      "isoDate": "1990-11-17",
+      "rowKey": "1990-11-17-Memcon-428081181"
+    },
+    {
+      "date": "11/17/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081183",
+      "tablePage": 35,
+      "catalogUrl": "https://catalog.archives.gov/id/428081183",
+      "isoDate": "1990-11-17",
+      "rowKey": "1990-11-17-Memcon-428081183"
+    },
+    {
+      "date": "11/17/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081185",
+      "tablePage": 35,
+      "catalogUrl": "https://catalog.archives.gov/id/428081185",
+      "isoDate": "1990-11-17",
+      "rowKey": "1990-11-17-Memcon-428081185"
+    },
+    {
+      "date": "11/17/1990",
+      "type": "Memcon",
+      "participants": "Slovak Leaders: Meciar, Vladimir; Dienstbier; Miklosko, Frantisek",
+      "country": "Slovak Republic",
+      "status": "Full",
+      "naid": "428081187",
+      "tablePage": 35,
+      "catalogUrl": "https://catalog.archives.gov/id/428081187",
+      "isoDate": "1990-11-17",
+      "rowKey": "1990-11-17-Memcon-428081187"
+    },
+    {
+      "date": "11/18/1990",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081189",
+      "tablePage": 35,
+      "catalogUrl": "https://catalog.archives.gov/id/428081189",
+      "isoDate": "1990-11-18",
+      "rowKey": "1990-11-18-Memcon-428081189"
+    },
+    {
+      "date": "2/26/1991",
+      "type": "Telcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081501",
+      "tablePage": 42,
+      "catalogUrl": "https://catalog.archives.gov/id/428081501",
+      "isoDate": "1991-02-26",
+      "rowKey": "1991-02-26-Telcon-428081501"
+    },
+    {
+      "date": "3/20/1991",
+      "type": "Memcon",
+      "participants": "Walesa, Lech",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428081539",
+      "tablePage": 44,
+      "catalogUrl": "https://catalog.archives.gov/id/428081539",
+      "isoDate": "1991-03-20",
+      "rowKey": "1991-03-20-Memcon-428081539"
+    },
+    {
+      "date": "3/29/1991",
+      "type": "Memcon",
+      "participants": "Ruutel, Arnold",
+      "country": "Estonia",
+      "status": "Full",
+      "naid": "428081545",
+      "tablePage": 44,
+      "catalogUrl": "https://catalog.archives.gov/id/428081545",
+      "isoDate": "1991-03-29",
+      "rowKey": "1991-03-29-Memcon-428081545"
+    },
+    {
+      "date": "4/12/1991",
+      "type": "Telcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081601",
+      "tablePage": 45,
+      "catalogUrl": "https://catalog.archives.gov/id/428081601",
+      "isoDate": "1991-04-12",
+      "rowKey": "1991-04-12-Telcon-428081601"
+    },
+    {
+      "date": "4/16/1991",
+      "type": "Memcon",
+      "participants": "Dienstbier, Jiri",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081583",
+      "tablePage": 45,
+      "catalogUrl": "https://catalog.archives.gov/id/428081583",
+      "isoDate": "1991-04-16",
+      "rowKey": "1991-04-16-Memcon-428081583"
+    },
+    {
+      "date": "5/20/1991",
+      "type": "Telcon",
+      "participants": "Markovic, Ante",
+      "country": "Yugoslavia",
+      "status": "Full",
+      "naid": "428081697",
+      "tablePage": 47,
+      "catalogUrl": "https://catalog.archives.gov/id/428081697",
+      "isoDate": "1991-05-20",
+      "rowKey": "1991-05-20-Telcon-428081697"
+    },
+    {
+      "date": "5/23/1991",
+      "type": "Memcon",
+      "participants": "Goncz, Arpad",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428081677",
+      "tablePage": 47,
+      "catalogUrl": "https://catalog.archives.gov/id/428081677",
+      "isoDate": "1991-05-23",
+      "rowKey": "1991-05-23-Memcon-428081677"
+    },
+    {
+      "date": "8/1/1991",
+      "type": "Memcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukraine",
+      "status": "Partial",
+      "naid": "428081807",
+      "tablePage": 50,
+      "catalogUrl": "https://catalog.archives.gov/id/428081807",
+      "isoDate": "1991-08-01",
+      "rowKey": "1991-08-01-Memcon-428081807"
+    },
+    {
+      "date": "8/19/1991",
+      "type": "Telcon",
+      "participants": "Antall, Jozsef",
+      "country": "Hungary",
+      "status": "Partial",
+      "naid": "428081819",
+      "tablePage": 50,
+      "catalogUrl": "https://catalog.archives.gov/id/428081819",
+      "isoDate": "1991-08-19",
+      "rowKey": "1991-08-19-Telcon-428081819"
+    },
+    {
+      "date": "8/19/1991",
+      "type": "Telcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081823",
+      "tablePage": 50,
+      "catalogUrl": "https://catalog.archives.gov/id/428081823",
+      "isoDate": "1991-08-19",
+      "rowKey": "1991-08-19-Telcon-428081823"
+    },
+    {
+      "date": "8/19/1991",
+      "type": "Telcon",
+      "participants": "Walesa, Lech",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428081815",
+      "tablePage": 51,
+      "catalogUrl": "https://catalog.archives.gov/id/428081815",
+      "isoDate": "1991-08-19",
+      "rowKey": "1991-08-19-Telcon-428081815"
+    },
+    {
+      "date": "8/26/1991",
+      "type": "Telcon",
+      "participants": "Antall, Jozsef; Mulroney, Brian",
+      "country": "Hungary, Canada",
+      "status": "Partial",
+      "naid": "428081853",
+      "tablePage": 51,
+      "catalogUrl": "https://catalog.archives.gov/id/428081853",
+      "isoDate": "1991-08-26",
+      "rowKey": "1991-08-26-Telcon-428081853"
+    },
+    {
+      "date": "8/31/1991",
+      "type": "Telcon",
+      "participants": "Landsbergis, Vytautas",
+      "country": "Lithuania",
+      "status": "Full",
+      "naid": "428081867",
+      "tablePage": 51,
+      "catalogUrl": "https://catalog.archives.gov/id/428081867",
+      "isoDate": "1991-08-31",
+      "rowKey": "1991-08-31-Telcon-428081867"
+    },
+    {
+      "date": "9/2/1991",
+      "type": "Telcon",
+      "participants": "Gorbunovs, Anatoliy",
+      "country": "Latvia",
+      "status": "Full",
+      "naid": "428081869",
+      "tablePage": 52,
+      "catalogUrl": "https://catalog.archives.gov/id/428081869",
+      "isoDate": "1991-09-02",
+      "rowKey": "1991-09-02-Telcon-428081869"
+    },
+    {
+      "date": "9/2/1991",
+      "type": "Telcon",
+      "participants": "Ruutel, Arnold",
+      "country": "Estonia",
+      "status": "Full",
+      "naid": "428081907",
+      "tablePage": 52,
+      "catalogUrl": "https://catalog.archives.gov/id/428081907",
+      "isoDate": "1991-09-02",
+      "rowKey": "1991-09-02-Telcon-428081907"
+    },
+    {
+      "date": "9/11/1991",
+      "type": "Memcon",
+      "participants": "Bielecki, Jan Krzysztof",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428081875",
+      "tablePage": 57,
+      "catalogUrl": "https://catalog.archives.gov/id/428081875",
+      "isoDate": "1991-09-11",
+      "rowKey": "1991-09-11-Memcon-428081875"
+    },
+    {
+      "date": "9/20/1991",
+      "type": "Telcon",
+      "participants": "Antall, Jozsef",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428081915",
+      "tablePage": 52,
+      "catalogUrl": "https://catalog.archives.gov/id/428081915",
+      "isoDate": "1991-09-20",
+      "rowKey": "1991-09-20-Telcon-428081915"
+    },
+    {
+      "date": "9/25/1991",
+      "type": "Memcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukrainian",
+      "status": "Full",
+      "naid": "428081923",
+      "tablePage": 58,
+      "catalogUrl": "https://catalog.archives.gov/id/428081923",
+      "isoDate": "1991-09-25",
+      "rowKey": "1991-09-25-Memcon-428081923"
+    },
+    {
+      "date": "10/22/1991",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428081983",
+      "tablePage": 53,
+      "catalogUrl": "https://catalog.archives.gov/id/428081983",
+      "isoDate": "1991-10-22",
+      "rowKey": "1991-10-22-Memcon-428081983"
+    },
+    {
+      "date": "12/3/1991",
+      "type": "Telcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukraine",
+      "status": "Full",
+      "naid": "428082065",
+      "tablePage": 55,
+      "catalogUrl": "https://catalog.archives.gov/id/428082065",
+      "isoDate": "1991-12-03",
+      "rowKey": "1991-12-03-Telcon-428082065"
+    },
+    {
+      "date": "3/3/1992",
+      "type": "Memcon",
+      "participants": "Dimitrov, Philip",
+      "country": "Bulgaria",
+      "status": "Full",
+      "naid": "428082137",
+      "tablePage": 59,
+      "catalogUrl": "https://catalog.archives.gov/id/428082137",
+      "isoDate": "1992-03-03",
+      "rowKey": "1992-03-03-Memcon-428082137"
+    },
+    {
+      "date": "4/10/1992",
+      "type": "Memcon",
+      "participants": "Calfa, Marian",
+      "country": "Czech and Slovak Federal Republic",
+      "status": "Full",
+      "naid": "428082157",
+      "tablePage": 59,
+      "catalogUrl": "https://catalog.archives.gov/id/428082157",
+      "isoDate": "1992-04-10",
+      "rowKey": "1992-04-10-Memcon-428082157"
+    },
+    {
+      "date": "4/10/1992",
+      "type": "Telcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukraine",
+      "status": "Full",
+      "naid": "428082169",
+      "tablePage": 64,
+      "catalogUrl": "https://catalog.archives.gov/id/428082169",
+      "isoDate": "1992-04-10",
+      "rowKey": "1992-04-10-Telcon-428082169"
+    },
+    {
+      "date": "4/13/1992",
+      "type": "Memcon",
+      "participants": "Olszewski, Jan",
+      "country": "Poland",
+      "status": "Full",
+      "naid": "428082159",
+      "tablePage": 59,
+      "catalogUrl": "https://catalog.archives.gov/id/428082159",
+      "isoDate": "1992-04-13",
+      "rowKey": "1992-04-13-Memcon-428082159"
+    },
+    {
+      "date": "5/5/1992",
+      "type": "Memcon",
+      "participants": "Munteanu, Aurel Dragos",
+      "country": "Romania",
+      "status": "Full",
+      "naid": "428082181",
+      "tablePage": 59,
+      "catalogUrl": "https://catalog.archives.gov/id/428082181",
+      "isoDate": "1992-05-05",
+      "rowKey": "1992-05-05-Memcon-428082181"
+    },
+    {
+      "date": "5/6/1992",
+      "type": "Memcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukraine",
+      "status": "Partial",
+      "naid": "428082187",
+      "tablePage": 61,
+      "catalogUrl": "https://catalog.archives.gov/id/428082187",
+      "isoDate": "1992-05-06",
+      "rowKey": "1992-05-06-Memcon-428082187"
+    },
+    {
+      "date": "7/9/1992",
+      "type": "Memcon",
+      "participants": "Havel, Vaclav",
+      "country": "Czechoslovakia",
+      "status": "Full",
+      "naid": "428082287",
+      "tablePage": 56,
+      "catalogUrl": "https://catalog.archives.gov/id/428082287",
+      "isoDate": "1992-07-09",
+      "rowKey": "1992-07-09-Memcon-428082287"
+    },
+    {
+      "date": "7/9/1992",
+      "type": "Memcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukraine",
+      "status": "Partial",
+      "naid": "428082285",
+      "tablePage": 67,
+      "catalogUrl": "https://catalog.archives.gov/id/428082285",
+      "isoDate": "1992-07-09",
+      "rowKey": "1992-07-09-Memcon-428082285"
+    },
+    {
+      "date": "7/10/1992",
+      "type": "Memcon",
+      "participants": "Antall, Jozsef",
+      "country": "Hungary",
+      "status": "Full",
+      "naid": "428082299",
+      "tablePage": 56,
+      "catalogUrl": "https://catalog.archives.gov/id/428082299",
+      "isoDate": "1992-07-10",
+      "rowKey": "1992-07-10-Memcon-428082299"
+    },
+    {
+      "date": "7/10/1992",
+      "type": "Memcon",
+      "participants": "Ruutel, Arnold",
+      "country": "Estonia",
+      "status": "Full",
+      "naid": "428082301",
+      "tablePage": 62,
+      "catalogUrl": "https://catalog.archives.gov/id/428082301",
+      "isoDate": "1992-07-10",
+      "rowKey": "1992-07-10-Memcon-428082301"
+    },
+    {
+      "date": "12/24/1992",
+      "type": "Telcon",
+      "participants": "Kravchuk, Leonid",
+      "country": "Ukraine",
+      "status": "Full",
+      "naid": "428082439",
+      "tablePage": 63,
+      "catalogUrl": "https://catalog.archives.gov/id/428082439",
+      "isoDate": "1992-12-24",
+      "rowKey": "1992-12-24-Telcon-428082439"
+    }
+  ],
+  "harvestedRecords": {
+    "generatedAt": "2026-05-19T22:04:26.084Z",
+    "totalRecords": 64,
+    "totalPages": 288,
+    "headOfStateOrGovernmentRows": 56,
+    "seniorOfficialOrDelegationRows": 8,
+    "records": [
+      {
+        "id": "bush-ee-428080021",
+        "naid": "428080021",
+        "date": "1989-05-15",
+        "type": "Memcon",
+        "title": "Meeting with Josef Czyrek, Polish Politburo Member",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080021",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-15--Czyrek.pdf"
+      },
+      {
+        "id": "bush-ee-428080083",
+        "naid": "428080083",
+        "date": "1989-07-10",
+        "type": "Memcon",
+        "title": "Bilateral Meeting with Wojciech Jaruzelski, Chairman of Poland",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428080083",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-10--Jaruzelski.pdf"
+      },
+      {
+        "id": "bush-ee-428080085",
+        "naid": "428080085",
+        "date": "1989-07-10",
+        "type": "Memcon",
+        "title": "Meeting with Meiczyslaw Rakowski, Prime Minister of Poland (1 of 2)",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080085",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-10--Rakowski-1.pdf"
+      },
+      {
+        "id": "bush-ee-428080087",
+        "naid": "428080087",
+        "date": "1989-07-10",
+        "type": "Memcon",
+        "title": "Meeting with Meiczyslaw Rakowski, Prime Minister of Poland (2 of 2)",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428080087",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-10--Rakowski-2.pdf"
+      },
+      {
+        "id": "bush-ee-428080089",
+        "naid": "428080089",
+        "date": "1989-07-11",
+        "type": "Memcon",
+        "title": "Private Meeting with Bruno Straub, President of Hunaary",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080089",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-11--Straub.pdf"
+      },
+      {
+        "id": "bush-ee-428080091",
+        "naid": "428080091",
+        "date": "1989-07-12",
+        "type": "Memcon",
+        "title": "Meeting with Miklos Nemeth, Prime Minister of Hungary",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080091",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-12--Nemeth.pdf"
+      },
+      {
+        "id": "bush-ee-428080093",
+        "naid": "428080093",
+        "date": "1989-07-12",
+        "type": "Memcon",
+        "title": "Meeting with Imre Poszgay, Hungarian State Minister",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428080093",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-12--Poszgay.pdf"
+      },
+      {
+        "id": "bush-ee-428080195",
+        "naid": "428080195",
+        "date": "1989-09-25",
+        "type": "Memcon",
+        "title": "Meeting with President Janez Drnovsek of Yugoslavia, September 25, 1989",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080195",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Drnovsek.pdf"
+      },
+      {
+        "id": "bush-ee-428080225",
+        "naid": "428080225",
+        "date": "1989-09-25",
+        "type": "Memcon",
+        "title": "Meeting with Foreign Minister Gyula Horn of Hungary, September 25, 1989",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 2,
+        "catalogUrl": "https://catalog.archives.gov/id/428080225",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Horn.pdf"
+      },
+      {
+        "id": "bush-ee-428080233",
+        "naid": "428080233",
+        "date": "1989-09-25",
+        "type": "Memcon",
+        "title": "Meeting with Foreign Minister Krzysztof Skubiszewski of Poland, September 25, 1989",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080233",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Skubiszewski.pdf"
+      },
+      {
+        "id": "bush-ee-428080279",
+        "naid": "428080279",
+        "date": "1989-10-24",
+        "type": "Memcon",
+        "title": "Presentation of Credentials by Peter Varkonyi, Ambassador of Hungary",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 2,
+        "catalogUrl": "https://catalog.archives.gov/id/428080279",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-24--Varkonyi.pdf"
+      },
+      {
+        "id": "bush-ee-428080285",
+        "naid": "428080285",
+        "date": "1989-11-02",
+        "type": "Memcon",
+        "title": "Meeting with Imre Poszgay, Minister of State Of Hungary",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428080285",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-02--Poszgay.pdf"
+      },
+      {
+        "id": "bush-ee-428080527",
+        "naid": "428080527",
+        "date": "1990-02-20",
+        "type": "Memcon",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia (1 of 3)",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080527",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-20--Havel-1.pdf"
+      },
+      {
+        "id": "bush-ee-428080529",
+        "naid": "428080529",
+        "date": "1990-02-20",
+        "type": "Memcon",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia (2 of 3)",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080529",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-20--Havel-2.pdf"
+      },
+      {
+        "id": "bush-ee-428080531",
+        "naid": "428080531",
+        "date": "1990-02-20",
+        "type": "Memcon",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia (3 of 3)",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428080531",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-20--Havel-3.pdf"
+      },
+      {
+        "id": "bush-ee-428080535",
+        "naid": "428080535",
+        "date": "1990-02-21",
+        "type": "Memcon",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428080535",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-21--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428080589",
+        "naid": "428080589",
+        "date": "1990-03-21",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Tadeusz Mazowiecki of Poland, March 21, 1990 (1 of 2)",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080589",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-21--Mazowiecki-1.pdf"
+      },
+      {
+        "id": "bush-ee-428080591",
+        "naid": "428080591",
+        "date": "1990-03-21",
+        "type": "Memcon",
+        "title": "Expanded Meeting with Prime Minister Tadeusz Mazowiecki of Poland, March 21, 1990 (2 of 2)",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428080591",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-21--Mazowiecki-2.pdf"
+      },
+      {
+        "id": "bush-ee-428080593",
+        "naid": "428080593",
+        "date": "1990-03-22",
+        "type": "Memcon",
+        "title": "Follow-up Meeting with Prime Minister Tadeusz Mazowiecki of Poland, March 22, 1990",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080593",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-22--Mazowiecki.pdf"
+      },
+      {
+        "id": "bush-ee-428080701",
+        "naid": "428080701",
+        "date": "1990-05-18",
+        "type": "Memcon",
+        "title": "Meeting with Acting President Arpad Goncz of Hungary, May 18, 1990",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080701",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-18--Goncz.pdf"
+      },
+      {
+        "id": "bush-ee-428080845",
+        "naid": "428080845",
+        "date": "1990-07-30",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990",
+        "countries": [
+          "United States",
+          "Latvia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080845",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf"
+      },
+      {
+        "id": "bush-ee-428081041",
+        "naid": "428081041",
+        "date": "1990-09-28",
+        "type": "Memcon",
+        "title": "Meeting with Zhelyu Zhelev, Bulgaria",
+        "countries": [
+          "United States",
+          "Bulgaria"
+        ],
+        "chapter": "Romania, Bulgaria, and Albania",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081041",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-28--Zhelev.pdf"
+      },
+      {
+        "id": "bush-ee-428081081",
+        "naid": "428081081",
+        "date": "1990-09-29",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Mazowiecki of Poland, September 29, 1990",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081081",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--Mazowiecki.pdf"
+      },
+      {
+        "id": "bush-ee-428081089",
+        "naid": "428081089",
+        "date": "1990-09-30",
+        "type": "Memcon",
+        "title": "Meeting with President Vaclav Havel of Czechoslovakia, September 30, 1990",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081089",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428081101",
+        "naid": "428081101",
+        "date": "1990-10-01",
+        "type": "Memcon",
+        "title": "Meeting with President Jovic of Yugoslavia, October 1, 1990",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081101",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Jovic.pdf"
+      },
+      {
+        "id": "bush-ee-428081125",
+        "naid": "428081125",
+        "date": "1990-10-18",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Antall of Hungary, October 18, 1990 (1 of 2)",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081125",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-18--Antall-1.pdf"
+      },
+      {
+        "id": "bush-ee-428081127",
+        "naid": "428081127",
+        "date": "1990-10-18",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Jozsef Antall of Hungary, October 18, 1990 (2 of 2)",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081127",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-18--Antall-2.pdf"
+      },
+      {
+        "id": "bush-ee-428081179",
+        "naid": "428081179",
+        "date": "1990-11-17",
+        "type": "Memcon",
+        "title": "Meeting with Czech Leaders of Czechoslovakia, November 17, 1990",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081179",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Czech-Leaders.pdf"
+      },
+      {
+        "id": "bush-ee-428081181",
+        "naid": "428081181",
+        "date": "1990-11-17",
+        "type": "Memcon",
+        "title": "Meeting with Federal Leaders of Czechoslovakia, November 17, 1990",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081181",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Federal-Leaders.pdf"
+      },
+      {
+        "id": "bush-ee-428081183",
+        "naid": "428081183",
+        "date": "1990-11-17",
+        "type": "Memcon",
+        "title": "Meeting with President Havel of Czechoslovakia, November 17, 1990 (1 of 2)",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081183",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-1.pdf"
+      },
+      {
+        "id": "bush-ee-428081185",
+        "naid": "428081185",
+        "date": "1990-11-17",
+        "type": "Memcon",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081185",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-2.pdf"
+      },
+      {
+        "id": "bush-ee-428081187",
+        "naid": "428081187",
+        "date": "1990-11-17",
+        "type": "Memcon",
+        "title": "Meeting with Slovak Leaders, November 17, 1990",
+        "countries": [
+          "United States",
+          "Slovak Republic"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081187",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Slovak-Leaders.pdf"
+      },
+      {
+        "id": "bush-ee-428081189",
+        "naid": "428081189",
+        "date": "1990-11-18",
+        "type": "Memcon",
+        "title": "Expanded Meeting with President Havel of Czechoslovakia, November 18, 1990",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081189",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-18--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428081501",
+        "naid": "428081501",
+        "date": "1991-02-26",
+        "type": "Telcon",
+        "title": "Telcon with President Havel of Czechoslovakia, February 26, 1991",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081501",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-26--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428081539",
+        "naid": "428081539",
+        "date": "1991-03-20",
+        "type": "Memcon",
+        "title": "Expanded Meeting with Lech Walesa, President of Poland, March 20, 1991",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081539",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-20--Walesa.pdf"
+      },
+      {
+        "id": "bush-ee-428081545",
+        "naid": "428081545",
+        "date": "1991-03-29",
+        "type": "Memcon",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "countries": [
+          "United States",
+          "Estonia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428081545",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428081601",
+        "naid": "428081601",
+        "date": "1991-04-12",
+        "type": "Telcon",
+        "title": "Telephone Conversation with President Vaclav Havel of Czechoslovakia on April 12, 1991",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081601",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-12--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428081583",
+        "naid": "428081583",
+        "date": "1991-04-16",
+        "type": "Memcon",
+        "title": "Meeting with Foreign Minister Jiri Dienstbier of Czechoslovakia, April 16, 1991",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081583",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-16--Dienstbier.pdf"
+      },
+      {
+        "id": "bush-ee-428081697",
+        "naid": "428081697",
+        "date": "1991-05-20",
+        "type": "Telcon",
+        "title": "Telephone Call to Prime Minister Ante Markovic of Yugoslavia, May 20, 1991",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081697",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-05-20--Markovic.pdf"
+      },
+      {
+        "id": "bush-ee-428081677",
+        "naid": "428081677",
+        "date": "1991-05-23",
+        "type": "Memcon",
+        "title": "Meeting with President Arpad Goncz of Hungary, May 23, 1991",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081677",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-23--Goncz.pdf"
+      },
+      {
+        "id": "bush-ee-428081807",
+        "naid": "428081807",
+        "date": "1991-08-01",
+        "type": "Memcon",
+        "title": "Meeting with Ukrainian Supreme Soviet Chairman Leonid Kravchuk, August 1, 1991",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Partial",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081807",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf"
+      },
+      {
+        "id": "bush-ee-428081819",
+        "naid": "428081819",
+        "date": "1991-08-19",
+        "type": "Telcon",
+        "title": "Telcon with Jozsef Antall, Prime Minister of Hungary, August 19, 1991",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Partial",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428081819",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Antall.pdf"
+      },
+      {
+        "id": "bush-ee-428081823",
+        "naid": "428081823",
+        "date": "1991-08-19",
+        "type": "Telcon",
+        "title": "Telcon with Vaclav Havel, President of Czechoslovakia, August 19, 1991",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081823",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428081815",
+        "naid": "428081815",
+        "date": "1991-08-19",
+        "type": "Telcon",
+        "title": "Telcon with Lech Walesa, President of Poland, August 19, 1991",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081815",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Walesa.pdf"
+      },
+      {
+        "id": "bush-ee-428081853",
+        "naid": "428081853",
+        "date": "1991-08-26",
+        "type": "Telcon",
+        "title": "Telephone Conversation with Prime Minister Jozsef Antall of Hungary and Prime Minister Brian Mulroney of Canada, August 26, 1991",
+        "countries": [
+          "United States",
+          "Hungary",
+          "Canada"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Partial",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081853",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-26--Antall.pdf"
+      },
+      {
+        "id": "bush-ee-428081867",
+        "naid": "428081867",
+        "date": "1991-08-31",
+        "type": "Telcon",
+        "title": "Telcon with Lithuanian President Landsbergis on August 31, 1991",
+        "countries": [
+          "United States",
+          "Lithuania"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081867",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
+      },
+      {
+        "id": "bush-ee-428081869",
+        "naid": "428081869",
+        "date": "1991-09-02",
+        "type": "Telcon",
+        "title": "Telcon with Latvian President Gorbunovs, September 2, 1991",
+        "countries": [
+          "United States",
+          "Latvia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081869",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf"
+      },
+      {
+        "id": "bush-ee-428081907",
+        "naid": "428081907",
+        "date": "1991-09-02",
+        "type": "Telcon",
+        "title": "Telcon with Estonian President Arnold Ruutel, September 2, 1991",
+        "countries": [
+          "United States",
+          "Estonia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081907",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428081875",
+        "naid": "428081875",
+        "date": "1991-09-11",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Bielecki of Poland, September 11, 1991",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428081875",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-11--Bielecki.pdf"
+      },
+      {
+        "id": "bush-ee-428081915",
+        "naid": "428081915",
+        "date": "1991-09-20",
+        "type": "Telcon",
+        "title": "Telcon with Prime Minister Jozsef Antall of Hungary, September 20, 1991",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428081915",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-20--Antall.pdf"
+      },
+      {
+        "id": "bush-ee-428081923",
+        "naid": "428081923",
+        "date": "1991-09-25",
+        "type": "Memcon",
+        "title": "Meeting with Leonid Kravchuk, UkrainianSupreme Soviet Chairman, September 25, 1991",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428081923",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-25--Kravchuk.pdf"
+      },
+      {
+        "id": "bush-ee-428081983",
+        "naid": "428081983",
+        "date": "1991-10-22",
+        "type": "Memcon",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 9,
+        "catalogUrl": "https://catalog.archives.gov/id/428081983",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-22--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428082065",
+        "naid": "428082065",
+        "date": "1991-12-03",
+        "type": "Telcon",
+        "title": "Telcon with President Leonid Kravchuk of Ukraine on December 3, 1991",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428082065",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-03--Kravchuk.pdf"
+      },
+      {
+        "id": "bush-ee-428082137",
+        "naid": "428082137",
+        "date": "1992-03-03",
+        "type": "Memcon",
+        "title": "Meeting with Prime Miniter Dimitrov of Bulgaria, March 3, 1992",
+        "countries": [
+          "United States",
+          "Bulgaria"
+        ],
+        "chapter": "Romania, Bulgaria, and Albania",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428082137",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-03-03--Dimitrov.pdf"
+      },
+      {
+        "id": "bush-ee-428082157",
+        "naid": "428082157",
+        "date": "1992-04-10",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Calfa of the Czech and Slovak Federal Republic, April 10, 1992",
+        "countries": [
+          "United States",
+          "Czech and Slovak Federal Republic"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428082157",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-04-10--Calfa.pdf"
+      },
+      {
+        "id": "bush-ee-428082169",
+        "naid": "428082169",
+        "date": "1992-04-10",
+        "type": "Telcon",
+        "title": "Telcon with President Leonid Kravchuk of Ukraine, April 10, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428082169",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-10--Kravchuk.pdf"
+      },
+      {
+        "id": "bush-ee-428082159",
+        "naid": "428082159",
+        "date": "1992-04-13",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Jan Olszewski of Poland, April 13, 1992",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428082159",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-04-13--Olszewski.pdf"
+      },
+      {
+        "id": "bush-ee-428082181",
+        "naid": "428082181",
+        "date": "1992-05-05",
+        "type": "Memcon",
+        "title": "Presentation of Credetnials by Ambassador Aurel Dragos Munteanu of Romania, May 5, 1992",
+        "countries": [
+          "United States",
+          "Romania"
+        ],
+        "chapter": "Romania, Bulgaria, and Albania",
+        "coverageRole": "Senior official or delegation",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428082181",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-05--Munteanu.pdf"
+      },
+      {
+        "id": "bush-ee-428082187",
+        "naid": "428082187",
+        "date": "1992-05-06",
+        "type": "Memcon",
+        "title": "Meeting with President Leonid Kravchuk of Ukraine, May 6, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Partial",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428082187",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-06--Kravchuk.pdf"
+      },
+      {
+        "id": "bush-ee-428082287",
+        "naid": "428082287",
+        "date": "1992-07-09",
+        "type": "Memcon",
+        "title": "Meeting with President Havel of the Czech and Slovak Federal Republic, July 9, 1992",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428082287",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-09--Havel.pdf"
+      },
+      {
+        "id": "bush-ee-428082285",
+        "naid": "428082285",
+        "date": "1992-07-09",
+        "type": "Memcon",
+        "title": "Meeting With President Leonid Kravchuk of Ukraine, July 9, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Partial",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428082285",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-09--Kravchuk.pdf"
+      },
+      {
+        "id": "bush-ee-428082299",
+        "naid": "428082299",
+        "date": "1992-07-10",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Antall of Hungary, July 10, 1992",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428082299",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Antall.pdf"
+      },
+      {
+        "id": "bush-ee-428082301",
+        "naid": "428082301",
+        "date": "1992-07-10",
+        "type": "Memcon",
+        "title": "Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania",
+        "countries": [
+          "United States",
+          "Estonia"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428082301",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428082439",
+        "naid": "428082439",
+        "date": "1992-12-24",
+        "type": "Telcon",
+        "title": "Telcon with President Kravchuk of Ukraine, December 24, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Yugoslavia and Regional",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428082439",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-12-24--Kravchuk.pdf"
+      }
+    ]
+  }
+}

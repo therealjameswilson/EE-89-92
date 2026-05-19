@@ -75,8 +75,32 @@
         "Cross-volume overlap",
         "Gap check",
         "Declassification priority",
-        "Source folder found"
+        "Source folder found",
+        "Document found"
       ]
+    },
+    "releaseStatus": {
+      "type": "string"
+    },
+    "coverageRole": {
+      "type": "string"
+    },
+    "participants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "naid": {
+      "type": "string"
+    },
+    "catalogUrl": {
+      "type": "string",
+      "format": "uri-reference"
+    },
+    "pdfUrl": {
+      "type": "string",
+      "format": "uri-reference"
     },
     "sourceFamily": {
       "type": "string"

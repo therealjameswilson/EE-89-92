@@ -54,6 +54,16 @@ Eastern Europe candidate source-folder hits. Ten source-folder leads selected
 into the public chronology currently total 927 counted PDF pages: 210 pages in
 the Poland trip-window folders and 717 pages in regional Scowcroft folders.
 
+## Bush Leader Memcons and Telcons
+
+The report in `reports/bush-eastern-europe-leader-memcon-telcon-audit.json`
+records a full pass through the Bush Library public Memcons and Telcons table.
+It found 64 Eastern Europe memcon/telcon rows, including 56 head-of-state or
+head-of-government rows and 8 adjacent senior-official or delegation rows. Those
+64 official PDF records total 288 counted pages. The audit also runs a broad
+sanity search for Baltic, Ukraine, and Balkan leader names so regional boundary
+records are not missed by strict country labels.
+
 ## Local Preview
 
 Run a local static server so the page can fetch `data/records.json`:
@@ -67,6 +77,14 @@ Then open <http://127.0.0.1:4186/>.
 To refresh page counts for linked PDF scans:
 
 ```bash
+node scripts/count-pdf-pages.js
+```
+
+To rerun the Bush Library Eastern Europe leader coverage pass:
+
+```bash
+node scripts/audit-bush-eastern-europe-leaders.js
+node scripts/harvest-bush-eastern-europe-leaders.js
 node scripts/count-pdf-pages.js
 ```
 

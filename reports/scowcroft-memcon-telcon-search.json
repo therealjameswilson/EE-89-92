@@ -3226,11 +3226,31 @@
     }
   ],
   "countedSourceFolders": {
-    "generatedAt": "2026-05-19T21:48:44.019Z",
+    "generatedAt": "2026-05-19T22:03:53.243Z",
     "countMethod": "Downloaded official NARA PDF scans and read pdfinfo Pages values; counts are full source-folder scan pages.",
     "totalFolders": 10,
     "totalPages": 927,
     "folders": [
+      {
+        "id": "scowcroft-366551663",
+        "naid": "366551663",
+        "title": "Presidential Meetings memcon folder for Poland-Hungary trip window",
+        "chapter": "Poland",
+        "pageCount": 100,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551663",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-004.pdf"
+      },
+      {
+        "id": "scowcroft-366551687",
+        "naid": "366551687",
+        "title": "Presidential Telephone Calls telcon folder for Poland-Hungary trip window",
+        "chapter": "Poland",
+        "pageCount": 110,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551687",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf"
+      },
       {
         "id": "scowcroft-366551762",
         "naid": "366551762",
@@ -3260,26 +3280,6 @@
         "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
         "catalogUrl": "https://catalog.archives.gov/id/366551798",
         "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf"
-      },
-      {
-        "id": "scowcroft-366551663",
-        "naid": "366551663",
-        "title": "Presidential Meetings memcon folder for Poland-Hungary trip window",
-        "chapter": "Poland",
-        "pageCount": 100,
-        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
-        "catalogUrl": "https://catalog.archives.gov/id/366551663",
-        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-004.pdf"
-      },
-      {
-        "id": "scowcroft-366551687",
-        "naid": "366551687",
-        "title": "Presidential Telephone Calls telcon folder for Poland-Hungary trip window",
-        "chapter": "Poland",
-        "pageCount": 110,
-        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
-        "catalogUrl": "https://catalog.archives.gov/id/366551687",
-        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf"
       },
       {
         "id": "scowcroft-366551799",
