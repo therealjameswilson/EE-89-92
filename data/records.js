@@ -846,5 +846,427 @@ window.EE_RECORDS = [
         "url": "https://catalog.archives.gov/search?q=Yugoslavia%20sanctions%20May%201992%20Bush"
       }
     ]
+  },
+  {
+    "id": "scowcroft-366551762",
+    "date": "1989-03-01",
+    "sortDate": "1989-03-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe--SNF March 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe--SNF [Short-range Nuclear Forces] March 1989",
+    "subjectLine": "Short-range nuclear forces, NATO consultations, and Eastern Europe security posture.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91120-001; 41-bpr-scow-ussrch-snf-91120-001.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe",
+      "SNF"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551762"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-001.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551773",
+    "date": "1989-04-01",
+    "sortDate": "1989-04-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe--CFE source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe--CFE [Conventional Forces in Europe] April-June 1989",
+    "subjectLine": "CFE, NATO, Warsaw Pact military transition, and early 1989 Eastern Europe security policy.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91121-001; 41-bpr-scow-ussrch-cfe-91121-001.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe",
+      "CFE"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551773"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-cfe-91121-001.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551798",
+    "date": "1989-07-01",
+    "sortDate": "1989-07-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe July 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (July 1989)",
+    "subjectLine": "Regional Eastern Europe transition reporting around the Bush Poland-Hungary trip.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-004; 41-bpr-scow-ussrch-svp-91124-004.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551798"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551663",
+    "date": "1989-07-09",
+    "sortDate": "1989-07-09",
+    "type": "Source folder",
+    "title": "Presidential Meetings memcon folder for Poland-Hungary trip window",
+    "dateLine": "Presidential Meetings--Memorandum of Conversations 6/1/89-7/12/89",
+    "subjectLine": "Presidential meeting folder covering June 1-July 12, 1989, including the Poland and Hungary trip window.",
+    "countries": [
+      "Poland",
+      "Hungary",
+      "United States",
+      "Regional Eastern Europe"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "Poland"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91107-004; 41-bpr-scow-pcor-memcon-91107-004.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe",
+      "Poland",
+      "Hungary"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551663"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-004.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551687",
+    "date": "1989-07-09",
+    "sortDate": "1989-07-09",
+    "type": "Source folder",
+    "title": "Presidential Telephone Calls telcon folder for Poland-Hungary trip window",
+    "dateLine": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89",
+    "subjectLine": "Presidential telephone call folder covering May 10-July 27, 1989, useful for pre-trip and follow-up calls.",
+    "countries": [
+      "Poland",
+      "Hungary",
+      "United States",
+      "Regional Eastern Europe"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "Poland"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91111-002; 41-bpr-scow-pcor-telcon-91111-002.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe",
+      "Poland",
+      "Hungary"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551687"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551799",
+    "date": "1989-07-15",
+    "sortDate": "1989-07-15",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe July-August 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (July-August 1989)",
+    "subjectLine": "Follow-on regional transition reporting after the Poland-Hungary trip.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-005; 41-bpr-scow-ussrch-svp-91124-005.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551799"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551801",
+    "date": "1989-09-01",
+    "sortDate": "1989-09-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe September 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (September 1989)",
+    "subjectLine": "Hungarian border/refugee developments and accelerating Soviet bloc transition.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-007; 41-bpr-scow-ussrch-svp-91124-007.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe",
+      "Hungary"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551801"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-007.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551804",
+    "date": "1989-11-09",
+    "sortDate": "1989-11-09",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe--Berlin Wall source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe--Berlin Wall (November 1989)",
+    "subjectLine": "Berlin Wall, German question, and Eastern Europe cascade in November 1989.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-010; 41-bpr-scow-ussrch-svp-91124-010.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe",
+      "Berlin Wall"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551804"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-010.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366552050",
+    "date": "1990-01-01",
+    "sortDate": "1990-01-01",
+    "type": "Source folder",
+    "title": "Scowcroft Memcons/Telcons 1990 source folder set begins",
+    "dateLine": "Memcons/Telcons (January-December) 1990 [1]",
+    "subjectLine": "General Scowcroft memcon/telcon folder for 1990; search for Poland, Hungary, Czechoslovakia, Romania, Bulgaria, Albania, Yugoslavia, CSCE, and Warsaw Pact terms.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91156-001; 41-bpr-scow-mtg-memtel-91156-001.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366552050"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708328/41-bpr-scow-mtg-memtel-91156-001.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551815",
+    "date": "1991-02-01",
+    "sortDate": "1991-02-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe February-April 1991 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (February-April 1991)",
+    "subjectLine": "Regional transition, Soviet troop withdrawal, and post-1989 consolidation.",
+    "countries": [
+      "Regional Eastern Europe",
+      "United States"
+    ],
+    "chapter": {
+      "number": 5,
+      "name": "Yugoslavia and Regional"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91125-011; 41-bpr-scow-ussrch-svp-91125-011.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": [
+      "Brent Scowcroft Papers",
+      "declassified memcons and telcons",
+      "source folder",
+      "Eastern Europe"
+    ],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551815"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-011.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ]
   }
 ];

@@ -40,6 +40,14 @@ Western Europe project:
 The page also flags cross-volume overlap, especially where Western Europe,
 Germany, Soviet Union, NATO, or Vatican records discuss Eastern Europe.
 
+## Scowcroft Catalog Search
+
+The report in `reports/scowcroft-memcon-telcon-search.json` records a Catalog
+search of the Brent Scowcroft Papers collection, NAID 4522156, for declassified
+memcons and telcons. The first pass found 221 Scowcroft hits, including 26
+presidential meeting folders, 21 presidential telephone-call folders, and 69
+Eastern Europe candidate source-folder hits.
+
 ## Local Preview
 
 Run a local static server so the page can fetch `data/records.json`:
