@@ -887,7 +887,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 85
   },
   {
     "id": "scowcroft-366551773",
@@ -929,7 +930,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 150
   },
   {
     "id": "scowcroft-366551798",
@@ -970,7 +972,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 66
   },
   {
     "id": "scowcroft-366551663",
@@ -1015,7 +1018,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 100
   },
   {
     "id": "scowcroft-366551687",
@@ -1060,7 +1064,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 110
   },
   {
     "id": "scowcroft-366551799",
@@ -1101,7 +1106,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 102
   },
   {
     "id": "scowcroft-366551801",
@@ -1143,7 +1149,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 107
   },
   {
     "id": "scowcroft-366551804",
@@ -1185,7 +1192,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 26
   },
   {
     "id": "scowcroft-366552050",
@@ -1226,7 +1234,8 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 69
   },
   {
     "id": "scowcroft-366551815",
@@ -1267,6 +1276,7 @@ window.EE_RECORDS = [
         "label": "Search report",
         "url": "reports/scowcroft-memcon-telcon-search.json"
       }
-    ]
+    ],
+    "pageCount": 112
   }
 ];

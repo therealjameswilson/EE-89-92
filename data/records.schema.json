@@ -81,6 +81,11 @@
     "sourceFamily": {
       "type": "string"
     },
+    "pageCount": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of pages in the linked official PDF scan when counted. For source folders, this is the full folder scan, not a trimmed document excerpt."
+    },
     "sourceNote": {
       "type": "string"
     },

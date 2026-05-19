@@ -8,6 +8,7 @@ const CHAPTER_ORDER = [
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
+const totalPages = document.querySelector("#total-pages");
 const sourceFamilyCount = document.querySelector("#source-family-count");
 const chapterFilter = document.querySelector("#chapter-filter");
 const statusFilter = document.querySelector("#status-filter");
@@ -43,13 +44,21 @@ function byChapterThenDate(a, b) {
 
 function setSummary(records) {
   totalRecords.textContent = records.length.toString();
+  totalPages.textContent = records
+    .reduce((sum, record) => sum + (record.pageCount || 0), 0)
+    .toLocaleString();
   sourceFamilyCount.textContent = new Set(records.map((record) => record.sourceFamily)).size.toString();
 
   for (const chapterName of CHAPTER_ORDER) {
     const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
     const countNode = document.querySelector(`[data-chapter-count="${chapterName}"]`);
+    const pagesNode = document.querySelector(`[data-chapter-pages="${chapterName}"]`);
+    const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
     if (countNode) {
       countNode.textContent = chapterRecords.length.toString();
+    }
+    if (pagesNode) {
+      pagesNode.textContent = pageTotal.toLocaleString();
     }
   }
 }
@@ -77,6 +86,7 @@ function createMeta(record) {
 
   const values = [
     record.type,
+    record.pageCount ? `${record.pageCount.toLocaleString()} pages` : "Pages pending",
     record.countries.join(", "),
     record.sourceFamily,
     record.status
@@ -204,7 +214,8 @@ function renderRecords() {
 
     const count = document.createElement("p");
     count.className = "record-count";
-    count.textContent = `${chapterRecords.length} cues`;
+    const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
+    count.textContent = `${chapterRecords.length} cues / ${pageTotal.toLocaleString()} pages`;
     header.append(heading, count);
 
     const list = document.createElement("div");

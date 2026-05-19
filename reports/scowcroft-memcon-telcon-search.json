@@ -75,7 +75,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708328/41-bpr-scow-mtg-memtel-91156-001.pdf",
       "objectFileSize": 27246440,
       "seriesTitle": "Meeting Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 69
     },
     {
       "naid": "366552051",
@@ -372,7 +373,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-004.pdf",
       "objectFileSize": 43138660,
       "seriesTitle": "Presidential Correspondence Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 100
     },
     {
       "naid": "366551684",
@@ -603,7 +605,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
       "objectFileSize": 44517128,
       "seriesTitle": "Presidential Correspondence Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 110
     },
     {
       "naid": "366551700",
@@ -702,7 +705,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-011.pdf",
       "objectFileSize": 38110832,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 112
     },
     {
       "naid": "366551798",
@@ -713,7 +717,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf",
       "objectFileSize": 23294800,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 66
     },
     {
       "naid": "366551799",
@@ -724,7 +729,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf",
       "objectFileSize": 41476588,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 102
     },
     {
       "naid": "366551801",
@@ -735,7 +741,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-007.pdf",
       "objectFileSize": 38937264,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 107
     },
     {
       "naid": "366551804",
@@ -746,7 +753,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-010.pdf",
       "objectFileSize": 8012278,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 26
     },
     {
       "naid": "366551773",
@@ -757,7 +765,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-cfe-91121-001.pdf",
       "objectFileSize": 54338052,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 150
     },
     {
       "naid": "366551763",
@@ -779,7 +788,8 @@
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-001.pdf",
       "objectFileSize": 34854528,
       "seriesTitle": "USSR Chronological Files",
-      "collectionTitle": "Brent Scowcroft Papers"
+      "collectionTitle": "Brent Scowcroft Papers",
+      "pageCount": 85
     }
   ],
   "allScowcroftHits": [
@@ -3214,5 +3224,113 @@
       "seriesTitle": "Special Separate USSR Notes Files",
       "collectionTitle": "Brent Scowcroft Papers"
     }
-  ]
+  ],
+  "countedSourceFolders": {
+    "generatedAt": "2026-05-19T21:48:44.019Z",
+    "countMethod": "Downloaded official NARA PDF scans and read pdfinfo Pages values; counts are full source-folder scan pages.",
+    "totalFolders": 10,
+    "totalPages": 927,
+    "folders": [
+      {
+        "id": "scowcroft-366551762",
+        "naid": "366551762",
+        "title": "Soviet Power Collapse in Eastern Europe--SNF March 1989 source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 85,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551762",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-001.pdf"
+      },
+      {
+        "id": "scowcroft-366551773",
+        "naid": "366551773",
+        "title": "Soviet Power Collapse in Eastern Europe--CFE source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 150,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551773",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-cfe-91121-001.pdf"
+      },
+      {
+        "id": "scowcroft-366551798",
+        "naid": "366551798",
+        "title": "Soviet Power Collapse in Eastern Europe July 1989 source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 66,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551798",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf"
+      },
+      {
+        "id": "scowcroft-366551663",
+        "naid": "366551663",
+        "title": "Presidential Meetings memcon folder for Poland-Hungary trip window",
+        "chapter": "Poland",
+        "pageCount": 100,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551663",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-004.pdf"
+      },
+      {
+        "id": "scowcroft-366551687",
+        "naid": "366551687",
+        "title": "Presidential Telephone Calls telcon folder for Poland-Hungary trip window",
+        "chapter": "Poland",
+        "pageCount": 110,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551687",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf"
+      },
+      {
+        "id": "scowcroft-366551799",
+        "naid": "366551799",
+        "title": "Soviet Power Collapse in Eastern Europe July-August 1989 source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 102,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551799",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf"
+      },
+      {
+        "id": "scowcroft-366551801",
+        "naid": "366551801",
+        "title": "Soviet Power Collapse in Eastern Europe September 1989 source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 107,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551801",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-007.pdf"
+      },
+      {
+        "id": "scowcroft-366551804",
+        "naid": "366551804",
+        "title": "Soviet Power Collapse in Eastern Europe--Berlin Wall source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 26,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551804",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-010.pdf"
+      },
+      {
+        "id": "scowcroft-366552050",
+        "naid": "366552050",
+        "title": "Scowcroft Memcons/Telcons 1990 source folder set begins",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 69,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366552050",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708328/41-bpr-scow-mtg-memtel-91156-001.pdf"
+      },
+      {
+        "id": "scowcroft-366551815",
+        "naid": "366551815",
+        "title": "Soviet Power Collapse in Eastern Europe February-April 1991 source folder",
+        "chapter": "Yugoslavia and Regional",
+        "pageCount": 112,
+        "countMethod": "pdfinfo Pages value from downloaded official NARA PDF scan",
+        "catalogUrl": "https://catalog.archives.gov/id/366551815",
+        "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-011.pdf"
+      }
+    ]
+  }
 }

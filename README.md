@@ -15,6 +15,10 @@ citations. As source packets are confirmed, replace or supplement them with
 fully cited memcons, telcons, cables, memoranda, briefing materials, and
 declassification records.
 
+Confirmed source-folder records include `pageCount`, measured from the linked
+official PDF scan with `pdfinfo`. For folder-level leads, this counts the full
+source-folder PDF rather than a trimmed individual document excerpt.
+
 ## Chapter Arrangement
 
 1. Poland
@@ -46,7 +50,9 @@ The report in `reports/scowcroft-memcon-telcon-search.json` records a Catalog
 search of the Brent Scowcroft Papers collection, NAID 4522156, for declassified
 memcons and telcons. The first pass found 221 Scowcroft hits, including 26
 presidential meeting folders, 21 presidential telephone-call folders, and 69
-Eastern Europe candidate source-folder hits.
+Eastern Europe candidate source-folder hits. Ten source-folder leads selected
+into the public chronology currently total 927 counted PDF pages: 210 pages in
+the Poland trip-window folders and 717 pages in regional Scowcroft folders.
 
 ## Local Preview
 
@@ -57,6 +63,12 @@ python3 -m http.server 4186
 ```
 
 Then open <http://127.0.0.1:4186/>.
+
+To refresh page counts for linked PDF scans:
+
+```bash
+node scripts/count-pdf-pages.js
+```
 
 ## Source Anchors
 
