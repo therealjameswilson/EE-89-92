@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FRUS Eastern Europe Compiler Cue",
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "sortDate",
+    "type",
+    "title",
+    "countries",
+    "chapter",
+    "status",
+    "sourceFamily",
+    "sourceNote",
+    "nextAction",
+    "topics"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable local identifier, preferably country-date-topic."
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "sortDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "type": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "dateLine": {
+      "type": "string"
+    },
+    "subjectLine": {
+      "type": "string"
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "chapter": {
+      "type": "object",
+      "required": ["number", "name"],
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "name": {
+          "type": "string",
+          "enum": [
+            "Poland",
+            "Hungary",
+            "Czechoslovakia",
+            "Romania, Bulgaria, and Albania",
+            "Yugoslavia and Regional"
+          ]
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Harvest target",
+        "Cross-volume overlap",
+        "Gap check",
+        "Declassification priority"
+      ]
+    },
+    "sourceFamily": {
+      "type": "string"
+    },
+    "sourceNote": {
+      "type": "string"
+    },
+    "nextAction": {
+      "type": "string"
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "url"],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri-reference"
+          }
+        }
+      }
+    }
+  }
+}
