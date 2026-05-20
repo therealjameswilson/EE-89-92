@@ -83,9 +83,9 @@ const chapterGrid = document.querySelector("#chapter-grid");
 const totalRecords = document.querySelector("#total-records");
 const chapterTotal = document.querySelector("#chapter-total");
 const totalPages = document.querySelector("#total-pages");
-const sourceFamilyCount = document.querySelector("#source-family-count");
+const releaseStatusCount = document.querySelector("#release-status-count");
 const chapterFilter = document.querySelector("#chapter-filter");
-const statusFilter = document.querySelector("#status-filter");
+const releaseFilter = document.querySelector("#release-filter");
 const recordSearch = document.querySelector("#record-search");
 
 let allRecords = [];
@@ -116,13 +116,18 @@ function byChapterThenDate(a, b) {
   );
 }
 
+function chaptersWithRecords(records) {
+  const names = new Set(records.map((record) => record.chapter.name));
+  return CHAPTERS.filter((chapter) => names.has(chapter.name));
+}
+
 function setSummary(records) {
   totalRecords.textContent = records.length.toString();
-  chapterTotal.textContent = CHAPTERS.length.toString();
+  chapterTotal.textContent = chaptersWithRecords(records).length.toString();
   totalPages.textContent = records
     .reduce((sum, record) => sum + (record.pageCount || 0), 0)
     .toLocaleString();
-  sourceFamilyCount.textContent = new Set(records.map((record) => record.sourceFamily)).size.toString();
+  releaseStatusCount.textContent = new Set(records.map((record) => record.releaseStatus || "Not stated")).size.toString();
 
   for (const chapterName of CHAPTER_ORDER) {
     const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
@@ -142,7 +147,7 @@ function renderChapterCards(records) {
   if (!chapterGrid) return;
 
   chapterGrid.replaceChildren();
-  CHAPTERS.forEach((chapter, index) => {
+  chaptersWithRecords(records).forEach((chapter) => {
     const chapterRecords = records.filter((record) => record.chapter.name === chapter.name);
     const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
     const card = document.createElement("a");
@@ -152,21 +157,21 @@ function renderChapterCards(records) {
 
     const number = document.createElement("p");
     number.className = "chapter-number";
-    number.textContent = `Chapter ${index + 1}`;
+    number.textContent = `Chapter ${CHAPTER_ORDER.indexOf(chapter.name) + 1}`;
 
     const heading = document.createElement("h3");
     heading.textContent = chapter.name;
 
     const count = document.createElement("p");
     count.className = "chapter-count";
-    count.textContent = `${chapterRecords.length} cues / ${pageTotal.toLocaleString()} pages`;
+    count.textContent = `${chapterRecords.length} documents / ${pageTotal.toLocaleString()} pages`;
 
     const description = document.createElement("p");
     description.textContent = chapter.description;
 
     const action = document.createElement("span");
     action.className = "chapter-action";
-    action.textContent = "View chronological queue";
+    action.textContent = "View documents";
 
     card.append(number, heading, count, description, action);
     chapterGrid.append(card);
@@ -174,19 +179,19 @@ function renderChapterCards(records) {
 }
 
 function fillFilters(records) {
-  for (const chapterName of CHAPTER_ORDER) {
+  for (const { name: chapterName } of chaptersWithRecords(records)) {
     const option = document.createElement("option");
     option.value = chapterName;
     option.textContent = chapterName;
     chapterFilter.append(option);
   }
 
-  const statuses = [...new Set(records.map((record) => record.status))].sort();
-  for (const status of statuses) {
+  const releaseStatuses = [...new Set(records.map((record) => record.releaseStatus || "Not stated"))].sort();
+  for (const status of releaseStatuses) {
     const option = document.createElement("option");
     option.value = status;
     option.textContent = status;
-    statusFilter.append(option);
+    releaseFilter.append(option);
   }
 }
 
@@ -201,7 +206,7 @@ function createMeta(record) {
     record.coverageRole,
     record.countries.join(", "),
     record.sourceFamily,
-    record.status
+    record.naid ? `NAID ${record.naid}` : ""
   ];
 
   for (const value of values) {
@@ -274,11 +279,11 @@ function createRecordRow(record) {
 
 function recordMatches(record) {
   const selectedChapter = chapterFilter.value;
-  const selectedStatus = statusFilter.value;
+  const selectedRelease = releaseFilter.value;
   const query = recordSearch.value.trim().toLowerCase();
 
   if (selectedChapter !== "all" && record.chapter.name !== selectedChapter) return false;
-  if (selectedStatus !== "all" && record.status !== selectedStatus) return false;
+  if (selectedRelease !== "all" && (record.releaseStatus || "Not stated") !== selectedRelease) return false;
   if (!query) return true;
 
   const haystack = [
@@ -288,6 +293,8 @@ function recordMatches(record) {
     record.sourceFamily,
     record.sourceNote,
     record.nextAction,
+    record.naid,
+    record.releaseStatus,
     ...record.countries,
     ...record.topics
   ]
@@ -305,7 +312,7 @@ function renderRecords() {
   if (!filtered.length) {
     const empty = document.createElement("p");
     empty.className = "empty-state";
-    empty.textContent = "No chronology cues match the current filters.";
+    empty.textContent = "No declassified memcons or telcons match the current filters.";
     recordsRoot.append(empty);
     return;
   }
@@ -327,7 +334,7 @@ function renderRecords() {
     const count = document.createElement("p");
     count.className = "record-count";
     const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
-    count.textContent = `${chapterRecords.length} cues / ${pageTotal.toLocaleString()} pages`;
+    count.textContent = `${chapterRecords.length} documents / ${pageTotal.toLocaleString()} pages`;
     header.append(heading, count);
 
     const list = document.createElement("div");
@@ -372,7 +379,7 @@ async function init() {
     renderRecords();
     enableChapterCards();
 
-    for (const control of [chapterFilter, statusFilter, recordSearch]) {
+    for (const control of [chapterFilter, releaseFilter, recordSearch]) {
       control.addEventListener("input", renderRecords);
       control.addEventListener("change", renderRecords);
     }

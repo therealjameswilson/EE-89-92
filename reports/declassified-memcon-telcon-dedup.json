@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-05-20T00:50:35.403Z",
+  "scope": "Public chronology filtered to declassified/released memcons and telcons only. Event anchors, source-folder leads, presidential trip scaffolding, and regional diplomacy cues are excluded.",
+  "deduplicationKey": "NAID first, then PDF URL, then date/type/title fallback.",
+  "inputRecords": 100,
+  "candidateMemconTelconRecords": 64,
+  "retainedRecords": 64,
+  "retainedPages": 288,
+  "duplicatesRemoved": 0,
+  "duplicateRecords": [],
+  "droppedRecords": {
+    "total": 36,
+    "byType": {
+      "Event anchor": {
+        "records": 21,
+        "pages": 0
+      },
+      "Source folder": {
+        "records": 10,
+        "pages": 927
+      },
+      "Presidential trip": {
+        "records": 2,
+        "pages": 0
+      },
+      "Regional diplomacy": {
+        "records": 3,
+        "pages": 0
+      }
+    }
+  },
+  "retainedByType": {
+    "Memcon": {
+      "records": 50,
+      "pages": 233
+    },
+    "Telcon": {
+      "records": 14,
+      "pages": 55
+    }
+  },
+  "retainedByReleaseStatus": {
+    "Full": {
+      "records": 59,
+      "pages": 261
+    },
+    "Partial": {
+      "records": 5,
+      "pages": 27
+    }
+  },
+  "retainedByChapter": {
+    "Poland": {
+      "records": 13,
+      "pages": 63
+    },
+    "Hungary": {
+      "records": 14,
+      "pages": 60
+    },
+    "Czechoslovakia": {
+      "records": 18,
+      "pages": 81
+    },
+    "Bulgaria": {
+      "records": 2,
+      "pages": 9
+    },
+    "Romania": {
+      "records": 1,
+      "pages": 3
+    },
+    "Yugoslavia": {
+      "records": 3,
+      "pages": 11
+    },
+    "Estonia": {
+      "records": 3,
+      "pages": 16
+    },
+    "Latvia": {
+      "records": 2,
+      "pages": 8
+    },
+    "Lithuania": {
+      "records": 1,
+      "pages": 3
+    },
+    "Ukraine": {
+      "records": 7,
+      "pages": 34
+    }
+  }
+}

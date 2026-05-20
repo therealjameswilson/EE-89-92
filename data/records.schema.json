@@ -30,7 +30,8 @@
       "format": "date"
     },
     "type": {
-      "type": "string"
+      "type": "string",
+      "enum": ["Memcon", "Telcon"]
     },
     "title": {
       "type": "string"
@@ -80,17 +81,11 @@
     },
     "status": {
       "type": "string",
-      "enum": [
-        "Harvest target",
-        "Cross-volume overlap",
-        "Gap check",
-        "Declassification priority",
-        "Source folder found",
-        "Document found"
-      ]
+      "enum": ["Document found"]
     },
     "releaseStatus": {
-      "type": "string"
+      "type": "string",
+      "enum": ["Full", "Partial"]
     },
     "coverageRole": {
       "type": "string"
@@ -118,7 +113,7 @@
     "pageCount": {
       "type": "integer",
       "minimum": 0,
-      "description": "Number of pages in the linked official PDF scan when counted. For source folders, this is the full folder scan, not a trimmed document excerpt."
+      "description": "Number of pages in the linked official PDF scan for this declassified memcon or telcon."
     },
     "sourceNote": {
       "type": "string"

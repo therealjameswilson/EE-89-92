@@ -1,23 +1,21 @@
-# FRUS 1989-1992 Volume V Eastern Europe Compiler Workspace
+# FRUS 1989-1992 Volume V Eastern Europe Memcons and Telcons
 
-A GitHub Pages website for source discovery and chapter planning for
+A GitHub Pages website for declassified presidential memcons and telcons for
 *Foreign Relations of the United States, 1989-1992, Volume V, Eastern Europe*.
 
 The Office of the Historian lists this volume as **Being Researched**. This
-repository is a companion workspace for mapping likely document candidates,
-overlapping Bush 41 source families, and country-by-country chronological chapters before
-the full archival harvest is complete.
+repository is a companion workspace for the released Bush 41 memcon/telcon set:
+official Catalog/PDF records, counted pages, release status, and country chapter
+assignment.
 
 The current data lives in `data/records.json`, with a generated
 `data/records.js` mirror so the page can render when opened directly from the
-filesystem. The initial records are compiler cues, not finished FRUS document
-citations. As source packets are confirmed, replace or supplement them with
-fully cited memcons, telcons, cables, memoranda, briefing materials, and
-declassification records.
+filesystem. The public dataset is intentionally limited to declassified memcons
+and telcons. Event anchors, source-folder leads, presidential trip scaffolding,
+policy-gap records, and broader candidate packets are excluded from the page.
 
-Confirmed source-folder records include `pageCount`, measured from the linked
-official PDF scan with `pdfinfo`. For folder-level leads, this counts the full
-source-folder PDF rather than a trimmed individual document excerpt.
+Each retained record includes `pageCount`, measured from the linked official PDF
+scan with `pdfinfo`.
 
 ## Chapter Arrangement
 
@@ -37,33 +35,32 @@ source-folder PDF rather than a trimmed individual document excerpt.
 14. Lithuania
 15. Ukraine
 
-Records inside each chapter are arranged chronologically by `sortDate`.
+Only country chapters with retained declassified memcons or telcons appear on
+the public page. Records inside each chapter are arranged chronologically by
+`sortDate`.
+
+## Current Dataset
+
+- 64 retained declassified memcons/telcons
+- 288 counted PDF pages
+- 59 full releases and 5 partial releases
+- 0 duplicate document records removed in the current pass
+- 36 scaffolding/candidate records removed from the public chronology
+
+Deduplication uses NAID first, PDF URL second, and a date/type/title fallback
+only when a record has no Catalog identifier.
+
+The report in `reports/declassified-memcon-telcon-dedup.json` records the
+filtering and deduplication pass.
 
 ## Source Strategy
 
-This workspace deliberately starts from the same source model as the
-Western Europe project:
+This workspace now starts from the Bush Library Memcons and Telcons table,
+matches those rows to National Archives Catalog records and digital-object PDFs,
+and keeps only released memcons and telcons in the public chronology.
 
-- Bush Library memcons and telcons
-- FOIA 2000-0429-F presidential memcon/telcon finding aid
-- Brent Scowcroft Papers, especially Presidential Correspondence and telcon files
-- National Archives Catalog records and digital-object PDFs
-- State Department Central Foreign Policy Files and embassy reporting
-- NSC country, regional, NATO, CSCE, and Warsaw Pact transition files
-
-The page also flags cross-volume overlap, especially where Western Europe,
-Germany, Soviet Union, NATO, or Vatican records discuss Eastern Europe.
-
-## Scowcroft Catalog Search
-
-The report in `reports/scowcroft-memcon-telcon-search.json` records a Catalog
-search of the Brent Scowcroft Papers collection, NAID 4522156, for declassified
-memcons and telcons. The first pass found 221 Scowcroft hits, including 26
-presidential meeting folders, 21 presidential telephone-call folders, and 69
-Eastern Europe candidate source-folder hits. Ten source-folder leads selected
-into the public chronology currently total 927 counted PDF pages: 210 pages in
-the Poland trip-window folders and 717 pages in Scowcroft folders now assigned
-to country chapters for Poland, Hungary, and Czechoslovakia.
+The Scowcroft Catalog search report remains in `reports/` as background
+research, but source folders are no longer part of `data/records.json`.
 
 ## Bush Leader Memcons and Telcons
 
