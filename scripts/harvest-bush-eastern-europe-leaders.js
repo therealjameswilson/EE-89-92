@@ -244,18 +244,31 @@ function pageCount(pdfPath) {
   return Number(match[1]);
 }
 
-function sourceNoteFor(row, catalogRecord, digitalObject, pages) {
+function cleanFileUnitTitle(title = "") {
+  return title.replace(/^\[(.*)\](:?\s*)/, "$1$2").replace(/\s+/g, " ").trim();
+}
+
+function releasePhrase(status = "") {
+  return status ? `${status} release` : "Release status not stated";
+}
+
+function sourceNoteFor(row, catalogRecord, digitalObject) {
   const series = ancestor(catalogRecord, "series");
   const fileUnit = ancestor(catalogRecord, "fileUnit");
+  const archivePath = [
+    "George H.W. Bush Library",
+    "Records of the National Security Council (George H.W. Bush Administration)",
+    series?.title || `${row.type === "Telcon" ? "Presidential Telcon" : "Presidential Memcon"} Files`,
+    cleanFileUnitTitle(fileUnit?.title || "")
+  ].filter(Boolean);
+  const digitalObjectNote = digitalObject?.objectFilename
+    ? `digital object ${digitalObject.objectFilename}`
+    : "digital object filename not stated";
   const pieces = [
-    `Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, "Memcons and Telcons" table (${TABLE_URL}), row: Date ${row.date}; Type ${row.type}; Participants ${row.participants}; Country ${row.country}; Release Status ${row.status || "blank"}; NAID ${row.naid}.`,
-    `National Archives Catalog item: ${catalogRecord.title}, NAID ${catalogRecord.naId}.`,
-    `Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580.`,
-    series ? `Series: ${series.title}, NAID ${series.naId}.` : "",
-    fileUnit ? `File unit: ${fileUnit.title}, NAID ${fileUnit.naId}.` : "",
-    digitalObject ? `Digital object: ${digitalObject.objectFilename}, object ID ${digitalObject.objectId}, URL ${digitalObject.objectUrl}.` : "Digital object: none listed in Catalog.",
-    `Access restriction: ${catalogRecord.accessRestriction?.status || "not stated"}.`,
-    `Page count: ${pages} pages, measured from the linked PDF scan with pdfinfo.`
+    `Source: ${archivePath.join(", ")}.`,
+    `National Archives Catalog, NAID ${catalogRecord.naId}; ${digitalObjectNote}.`,
+    `${releasePhrase(row.status || catalogRecord.accessRestriction?.status)}.`,
+    "Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan."
   ];
   return pieces.filter(Boolean).join(" ");
 }
@@ -275,7 +288,7 @@ async function toRecord(row) {
   const chapter = chapterFor(row.country, row.participants);
   const role = coverageRole(row.participants);
   const countries = countryList(row.country);
-  const sourceNote = sourceNoteFor(row, catalogRecord, digitalObject, pages);
+  const sourceNote = sourceNoteFor(row, catalogRecord, digitalObject);
 
   return {
     id: `bush-ee-${row.naid}`,

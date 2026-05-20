@@ -53,9 +53,12 @@ Historian's "About the Series" note:
 - Rows are chronological and carry stable candidate numbers for review.
 - Release status, NAID, Catalog link, PDF link, page count, source note, and
   next action stay visible in each document packet.
+- Source notes follow the Volume XXXI pattern: repository and archival path
+  first, then Catalog/digital-object locator and release-status caveat.
 - Checklist badges flag source-note, Catalog, PDF, page-count, release-status,
   and conversation-time verification needs.
-- Source-note and citation copy buttons reduce repetitive compiler transcription.
+- Source-note and working-citation copy buttons reduce repetitive compiler
+  transcription.
 - Filters support country chapter, document type, release status, and text/NAID
   search.
 
@@ -107,6 +110,7 @@ node scripts/count-pdf-pages.js
 ## Source Anchors
 
 - FRUS 1989-1992, Volume V, Eastern Europe: <https://history.state.gov/historicaldocuments/frus1989-92v05>
+- FRUS 1989-1992, Volume XXXI, START I source-note model: <https://history.state.gov/historicaldocuments/frus1989-92v31>
 - Western Europe model repository: <https://github.com/therealjameswilson/Bush41-Western-Europe>
 - Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
 - FOIA 2000-0429-F finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991>

@@ -106,7 +106,8 @@
       "description": "Number of pages in the linked official PDF scan for this declassified memcon or telcon."
     },
     "sourceNote": {
-      "type": "string"
+      "type": "string",
+      "description": "FRUS-style source note beginning with repository and archival path; Catalog/PDF URLs and page counts remain separate compiler metadata."
     },
     "nextAction": {
       "type": "string"

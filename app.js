@@ -226,11 +226,11 @@ function createReadiness(record) {
 
 function citationText(record) {
   return [
-    record.title,
-    record.dateLine || record.date,
+    `${record.title}, ${record.dateLine || record.date}.`,
     record.sourceNote,
-    record.catalogUrl ? `Catalog: ${record.catalogUrl}.` : "",
-    record.pdfUrl ? `PDF: ${record.pdfUrl}.` : ""
+    record.pageCount ? `Compiler page count: ${record.pageCount.toLocaleString()} pages.` : "",
+    record.catalogUrl ? `Catalog reference: ${record.catalogUrl}.` : "",
+    record.pdfUrl ? `PDF scan: ${record.pdfUrl}.` : ""
   ]
     .filter(Boolean)
     .join(" ");
