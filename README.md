@@ -24,13 +24,6 @@ scan with `pdfinfo`.
 3. Czechoslovakia
 4. Bulgaria
 5. Romania
-6. Albania
-7. Yugoslavia
-8. Slovenia
-9. Croatia
-10. Bosnia and Herzegovina
-11. Serbia and Montenegro
-12. Ukraine
 
 Only country chapters with retained declassified memcons or telcons appear on
 the public page. Records inside each chapter are arranged chronologically by
@@ -38,10 +31,10 @@ the public page. Records inside each chapter are arranged chronologically by
 
 ## Current Dataset
 
-- 58 retained declassified memcons/telcons
-- 261 counted PDF pages
-- 53 full releases and 5 partial releases
-- 6 Estonia/Latvia/Lithuania records excluded for former-SSR volume scope
+- 48 retained declassified memcons/telcons
+- 216 counted PDF pages
+- 46 full releases and 2 partial releases
+- 16 Estonia/Latvia/Lithuania/Yugoslavia/Ukraine records excluded for adjacent-volume scope
 - 0 duplicate document records removed in the current pass
 - 36 scaffolding/candidate records removed from the public chronology
 
@@ -84,8 +77,8 @@ head-of-government rows and 8 adjacent senior-official or delegation rows. Those
 64 official PDF records total 288 counted pages. The audit also runs a broad
 sanity search for Baltic, Ukraine, and Balkan leader names so cross-border
 records are not missed by strict country labels. The public page excludes the
-six Estonia/Latvia/Lithuania records from that audit because former SSR material
-belongs in another volume.
+Estonia/Latvia/Lithuania, Yugoslavia, and Ukraine records from that audit
+because they belong in adjacent volume scopes.
 
 ## Local Preview
 

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-20T09:17:51.736Z",
-  "scope": "Public chronology filtered to declassified/released memcons and telcons only, excluding Estonia, Latvia, and Lithuania because former SSR material belongs in another volume. Event anchors, source-folder leads, presidential trip scaffolding, and regional diplomacy cues are excluded.",
+  "generatedAt": "2026-05-20T09:26:05.825Z",
+  "scope": "Public chronology filtered to declassified/released memcons and telcons only, excluding Estonia, Latvia, Lithuania, Yugoslavia, and Ukraine for adjacent-volume scope. Event anchors, source-folder leads, presidential trip scaffolding, and regional diplomacy cues are excluded.",
   "deduplicationKey": "NAID first, then PDF URL, then date/type/title fallback.",
   "inputRecords": 100,
   "candidateMemconTelconRecords": 64,
-  "retainedRecords": 58,
-  "retainedPages": 261,
+  "retainedRecords": 48,
+  "retainedPages": 216,
   "duplicatesRemoved": 0,
   "duplicateRecords": [],
   "droppedRecords": {
-    "total": 42,
+    "total": 52,
     "byType": {
       "Event anchor": {
         "records": 21,
@@ -28,29 +28,29 @@
         "pages": 0
       },
       "Volume scope exclusion": {
-        "records": 6,
-        "pages": 27
+        "records": 16,
+        "pages": 72
       }
     }
   },
   "retainedByType": {
     "Memcon": {
-      "records": 47,
-      "pages": 215
+      "records": 41,
+      "pages": 184
     },
     "Telcon": {
-      "records": 11,
-      "pages": 46
+      "records": 7,
+      "pages": 32
     }
   },
   "retainedByReleaseStatus": {
     "Full": {
-      "records": 53,
-      "pages": 234
+      "records": 46,
+      "pages": 206
     },
     "Partial": {
-      "records": 5,
-      "pages": 27
+      "records": 2,
+      "pages": 10
     }
   },
   "retainedByChapter": {
@@ -73,20 +73,12 @@
     "Romania": {
       "records": 1,
       "pages": 3
-    },
-    "Yugoslavia": {
-      "records": 3,
-      "pages": 11
-    },
-    "Ukraine": {
-      "records": 7,
-      "pages": 34
     }
   },
   "volumeScopeExclusions": {
-    "rule": "Exclude Estonia, Latvia, and Lithuania from this Eastern Europe volume workspace.",
-    "excludedRecords": 6,
-    "excludedPages": 27,
+    "rule": "Exclude Estonia, Latvia, Lithuania, Yugoslavia, and Ukraine from this Eastern Europe volume workspace.",
+    "excludedRecords": 16,
+    "excludedPages": 72,
     "excludedByChapter": {
       "Estonia": {
         "records": 3,
@@ -99,6 +91,14 @@
       "Lithuania": {
         "records": 1,
         "pages": 3
+      },
+      "Yugoslavia": {
+        "records": 3,
+        "pages": 11
+      },
+      "Ukraine": {
+        "records": 7,
+        "pages": 34
       }
     },
     "records": [
@@ -193,6 +193,166 @@
         "pageCount": 3,
         "catalogUrl": "https://catalog.archives.gov/id/428081867",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
+      },
+      {
+        "id": "bush-ee-428080195",
+        "naid": "428080195",
+        "date": "1989-09-25",
+        "type": "Memcon",
+        "title": "Meeting with President Janez Drnovsek of Yugoslavia, September 25, 1989",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080195",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Drnovsek.pdf",
+        "releaseStatus": "Full"
+      },
+      {
+        "id": "bush-ee-428081101",
+        "naid": "428081101",
+        "date": "1990-10-01",
+        "type": "Memcon",
+        "title": "Meeting with President Jovic of Yugoslavia, October 1, 1990",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081101",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Jovic.pdf",
+        "releaseStatus": "Full"
+      },
+      {
+        "id": "bush-ee-428081697",
+        "naid": "428081697",
+        "date": "1991-05-20",
+        "type": "Telcon",
+        "title": "Telephone Call to Prime Minister Ante Markovic of Yugoslavia, May 20, 1991",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081697",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-05-20--Markovic.pdf",
+        "releaseStatus": "Full"
+      },
+      {
+        "id": "bush-ee-428081807",
+        "naid": "428081807",
+        "date": "1991-08-01",
+        "type": "Memcon",
+        "title": "Meeting with Ukrainian Supreme Soviet Chairman Leonid Kravchuk, August 1, 1991",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081807",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf",
+        "releaseStatus": "Partial"
+      },
+      {
+        "id": "bush-ee-428081923",
+        "naid": "428081923",
+        "date": "1991-09-25",
+        "type": "Memcon",
+        "title": "Meeting with Leonid Kravchuk, UkrainianSupreme Soviet Chairman, September 25, 1991",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428081923",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-25--Kravchuk.pdf",
+        "releaseStatus": "Full"
+      },
+      {
+        "id": "bush-ee-428082065",
+        "naid": "428082065",
+        "date": "1991-12-03",
+        "type": "Telcon",
+        "title": "Telcon with President Leonid Kravchuk of Ukraine on December 3, 1991",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428082065",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-03--Kravchuk.pdf",
+        "releaseStatus": "Full"
+      },
+      {
+        "id": "bush-ee-428082169",
+        "naid": "428082169",
+        "date": "1992-04-10",
+        "type": "Telcon",
+        "title": "Telcon with President Leonid Kravchuk of Ukraine, April 10, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428082169",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-10--Kravchuk.pdf",
+        "releaseStatus": "Full"
+      },
+      {
+        "id": "bush-ee-428082187",
+        "naid": "428082187",
+        "date": "1992-05-06",
+        "type": "Memcon",
+        "title": "Meeting with President Leonid Kravchuk of Ukraine, May 6, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428082187",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-06--Kravchuk.pdf",
+        "releaseStatus": "Partial"
+      },
+      {
+        "id": "bush-ee-428082285",
+        "naid": "428082285",
+        "date": "1992-07-09",
+        "type": "Memcon",
+        "title": "Meeting With President Leonid Kravchuk of Ukraine, July 9, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428082285",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-09--Kravchuk.pdf",
+        "releaseStatus": "Partial"
+      },
+      {
+        "id": "bush-ee-428082439",
+        "naid": "428082439",
+        "date": "1992-12-24",
+        "type": "Telcon",
+        "title": "Telcon with President Kravchuk of Ukraine, December 24, 1992",
+        "countries": [
+          "United States",
+          "Ukraine"
+        ],
+        "chapter": "Ukraine",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428082439",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-12-24--Kravchuk.pdf",
+        "releaseStatus": "Full"
       }
     ]
   }

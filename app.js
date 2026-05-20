@@ -23,41 +23,6 @@ const CHAPTERS = [
     name: "Romania",
     description:
       "Ceausescu's fall, elections, Iliescu-era transition, credentials, human rights, and assistance questions."
-  },
-  {
-    name: "Albania",
-    description:
-      "Multiparty opening, late communist transition, democratic elections, and U.S. policy toward Tirana."
-  },
-  {
-    name: "Yugoslavia",
-    description:
-      "Federal crisis, Drnovsek, Jovic, Markovic, dissolution diplomacy, arms embargo, and sanctions policy."
-  },
-  {
-    name: "Slovenia",
-    description:
-      "Independence declaration, recognition issues, Yugoslav dissolution, and U.S.-European coordination."
-  },
-  {
-    name: "Croatia",
-    description:
-      "Independence declaration, recognition issues, conflict escalation, and cross-volume Yugoslavia diplomacy."
-  },
-  {
-    name: "Bosnia and Herzegovina",
-    description:
-      "Recognition, war outbreak, refugees, humanitarian policy, and European and UN diplomacy."
-  },
-  {
-    name: "Serbia and Montenegro",
-    description:
-      "Sanctions, arms embargo questions, Belgrade policy, and Yugoslav conflict diplomacy."
-  },
-  {
-    name: "Ukraine",
-    description:
-      "Kravchuk contacts, independence recognition, nuclear and Soviet succession issues, and post-Soviet transition."
   }
 ];
 
