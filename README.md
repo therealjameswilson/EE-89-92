@@ -5,7 +5,7 @@ A GitHub Pages website for source discovery and chapter planning for
 
 The Office of the Historian lists this volume as **Being Researched**. This
 repository is a companion workspace for mapping likely document candidates,
-overlapping Bush 41 source families, and chronological chapter queues before
+overlapping Bush 41 source families, and country-by-country chronological chapters before
 the full archival harvest is complete.
 
 The current data lives in `data/records.json`, with a generated
@@ -24,8 +24,18 @@ source-folder PDF rather than a trimmed individual document excerpt.
 1. Poland
 2. Hungary
 3. Czechoslovakia
-4. Romania, Bulgaria, and Albania
-5. Yugoslavia and Regional
+4. Bulgaria
+5. Romania
+6. Albania
+7. Yugoslavia
+8. Slovenia
+9. Croatia
+10. Bosnia and Herzegovina
+11. Serbia and Montenegro
+12. Estonia
+13. Latvia
+14. Lithuania
+15. Ukraine
 
 Records inside each chapter are arranged chronologically by `sortDate`.
 
@@ -52,7 +62,8 @@ memcons and telcons. The first pass found 221 Scowcroft hits, including 26
 presidential meeting folders, 21 presidential telephone-call folders, and 69
 Eastern Europe candidate source-folder hits. Ten source-folder leads selected
 into the public chronology currently total 927 counted PDF pages: 210 pages in
-the Poland trip-window folders and 717 pages in regional Scowcroft folders.
+the Poland trip-window folders and 717 pages in Scowcroft folders now assigned
+to country chapters for Poland, Hungary, and Czechoslovakia.
 
 ## Bush Leader Memcons and Telcons
 
@@ -61,7 +72,7 @@ records a full pass through the Bush Library public Memcons and Telcons table.
 It found 64 Eastern Europe memcon/telcon rows, including 56 head-of-state or
 head-of-government rows and 8 adjacent senior-official or delegation rows. Those
 64 official PDF records total 288 counted pages. The audit also runs a broad
-sanity search for Baltic, Ukraine, and Balkan leader names so regional boundary
+sanity search for Baltic, Ukraine, and Balkan leader names so cross-border
 records are not missed by strict country labels.
 
 ## Local Preview

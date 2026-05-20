@@ -33,8 +33,8 @@
           <p class="lede">
             A companion finding aid for the forthcoming <em>Foreign Relations of the
             United States, 1989-1992, Volume V, Eastern Europe</em>. The page starts
-            with a chapter-first chronology for Poland, Hungary, and the rest of
-            Eastern Europe, then points the compiler toward overlapping Bush 41
+            with country-by-country chronological chapters for Eastern Europe,
+            then points the compiler toward overlapping Bush 41
             source families already useful in the Western Europe project.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
@@ -62,8 +62,8 @@
           <p>chronology cues</p>
         </div>
         <div>
-          <span>5</span>
-          <p>chapter queues</p>
+          <span id="chapter-total">0</span>
+          <p>country chapters</p>
         </div>
         <div>
           <span id="source-family-count">0</span>
@@ -80,74 +80,7 @@
           <p class="kicker">Chapter Plan</p>
           <h2 id="chapters-title">Chronological Country Chapters</h2>
         </div>
-        <div class="chapter-grid">
-          <a class="chapter-card" href="#chapter-poland" aria-label="View Poland chronology">
-            <p class="chapter-number">Chapter 1</p>
-            <h3>Poland</h3>
-            <p class="chapter-count">
-              <span data-chapter-count="Poland">0</span> cues /
-              <span data-chapter-pages="Poland">0</span> pages
-            </p>
-            <p>
-              Round Table politics, June 1989 elections, Mazowiecki government,
-              Walesa transition, debt relief, military withdrawal, and U.S. assistance.
-            </p>
-            <span class="chapter-action">View chronological queue</span>
-          </a>
-          <a class="chapter-card" href="#chapter-hungary" aria-label="View Hungary chronology">
-            <p class="chapter-number">Chapter 2</p>
-            <h3>Hungary</h3>
-            <p class="chapter-count">
-              <span data-chapter-count="Hungary">0</span> cues /
-              <span data-chapter-pages="Hungary">0</span> pages
-            </p>
-            <p>
-              Border opening, Nagy reburial, East German refugee route, republic
-              proclamation, free elections, reform diplomacy, and U.S. economic support.
-            </p>
-            <span class="chapter-action">View chronological queue</span>
-          </a>
-          <a class="chapter-card" href="#chapter-czechoslovakia" aria-label="View Czechoslovakia chronology">
-            <p class="chapter-number">Chapter 3</p>
-            <h3>Czechoslovakia</h3>
-            <p class="chapter-count">
-              <span data-chapter-count="Czechoslovakia">0</span> cues /
-              <span data-chapter-pages="Czechoslovakia">0</span> pages
-            </p>
-            <p>
-              Velvet Revolution, Havel diplomacy, first free elections, reform
-              assistance, Soviet troop withdrawal, and the Czech-Slovak split.
-            </p>
-            <span class="chapter-action">View chronological queue</span>
-          </a>
-          <a class="chapter-card" href="#chapter-romania-bulgaria-albania" aria-label="View Romania, Bulgaria, and Albania chronology">
-            <p class="chapter-number">Chapter 4</p>
-            <h3>Romania, Bulgaria, and Albania</h3>
-            <p class="chapter-count">
-              <span data-chapter-count="Romania, Bulgaria, and Albania">0</span> cues /
-              <span data-chapter-pages="Romania, Bulgaria, and Albania">0</span> pages
-            </p>
-            <p>
-              Late communist transitions, democratic openings, human rights,
-              minority questions, and assistance policy across the southern tier.
-            </p>
-            <span class="chapter-action">View chronological queue</span>
-          </a>
-          <a class="chapter-card" href="#chapter-yugoslavia-and-regional" aria-label="View Yugoslavia and regional chronology">
-            <p class="chapter-number">Chapter 5</p>
-            <h3>Yugoslavia and Regional</h3>
-            <p class="chapter-count">
-              <span data-chapter-count="Yugoslavia and Regional">0</span> cues /
-              <span data-chapter-pages="Yugoslavia and Regional">0</span> pages
-            </p>
-            <p>
-              Yugoslav dissolution, Baltic and Ukraine boundary records, refugee
-              and sanctions policy, Warsaw Pact wind-down, CSCE, NATO outreach,
-              and cross-border regional diplomacy.
-            </p>
-            <span class="chapter-action">View chronological queue</span>
-          </a>
-        </div>
+        <div id="chapter-grid" class="chapter-grid"></div>
       </section>
 
       <section class="section source-overlap" id="sources" aria-labelledby="sources-title">
@@ -357,7 +290,7 @@
           </li>
           <li>
             <span class="step-number">02</span>
-            <span>Assign every item to Poland, Hungary, Czechoslovakia, Romania/Bulgaria/Albania, or Yugoslavia/Regional.</span>
+            <span>Assign every item to a single country chapter while preserving cross-volume country and source-family tags.</span>
           </li>
           <li>
             <span class="step-number">03</span>

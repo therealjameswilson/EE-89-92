@@ -54,7 +54,7 @@
         "number": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 5
+          "maximum": 15
         },
         "name": {
           "type": "string",
@@ -62,8 +62,18 @@
             "Poland",
             "Hungary",
             "Czechoslovakia",
-            "Romania, Bulgaria, and Albania",
-            "Yugoslavia and Regional"
+            "Bulgaria",
+            "Romania",
+            "Albania",
+            "Yugoslavia",
+            "Slovenia",
+            "Croatia",
+            "Bosnia and Herzegovina",
+            "Serbia and Montenegro",
+            "Estonia",
+            "Latvia",
+            "Lithuania",
+            "Ukraine"
           ]
         }
       }

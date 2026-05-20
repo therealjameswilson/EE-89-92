@@ -25,25 +25,52 @@ const CHAPTER_ALIASES = [
     countries: ["Czechoslovakia", "Czech Republic", "Czech and Slovak Federal Republic", "Slovak Republic", "Slovakia"]
   },
   {
-    chapter: { number: 4, name: "Romania, Bulgaria, and Albania" },
-    countries: ["Romania", "Bulgaria", "Albania"]
+    chapter: { number: 4, name: "Bulgaria" },
+    countries: ["Bulgaria"]
   },
   {
-    chapter: { number: 5, name: "Yugoslavia and Regional" },
-    countries: [
-      "Yugoslavia",
-      "Croatia",
-      "Slovenia",
-      "Serbia",
-      "Bosnia",
-      "Bosnia and Herzegovina",
-      "Macedonia",
-      "Estonia",
-      "Latvia",
-      "Lithuania",
-      "Ukraine",
-      "Ukrainian"
-    ]
+    chapter: { number: 5, name: "Romania" },
+    countries: ["Romania"]
+  },
+  {
+    chapter: { number: 6, name: "Albania" },
+    countries: ["Albania"]
+  },
+  {
+    chapter: { number: 7, name: "Yugoslavia" },
+    countries: ["Yugoslavia"]
+  },
+  {
+    chapter: { number: 8, name: "Slovenia" },
+    countries: ["Slovenia"]
+  },
+  {
+    chapter: { number: 9, name: "Croatia" },
+    countries: ["Croatia"]
+  },
+  {
+    chapter: { number: 10, name: "Bosnia and Herzegovina" },
+    countries: ["Bosnia", "Bosnia and Herzegovina"]
+  },
+  {
+    chapter: { number: 11, name: "Serbia and Montenegro" },
+    countries: ["Serbia", "Montenegro", "Serbia and Montenegro"]
+  },
+  {
+    chapter: { number: 12, name: "Estonia" },
+    countries: ["Estonia"]
+  },
+  {
+    chapter: { number: 13, name: "Latvia" },
+    countries: ["Latvia"]
+  },
+  {
+    chapter: { number: 14, name: "Lithuania" },
+    countries: ["Lithuania"]
+  },
+  {
+    chapter: { number: 15, name: "Ukraine" },
+    countries: ["Ukraine", "Ukrainian"]
   }
 ];
 
@@ -140,7 +167,7 @@ function countryList(rowCountry) {
 function chapterFor(rowCountry, participants) {
   const haystack = `${rowCountry} ${participants}`;
   const match = CHAPTER_ALIASES.find((entry) => entry.countries.some((country) => hasTerm(haystack, country)));
-  if (!match) return { number: 5, name: "Yugoslavia and Regional" };
+  if (!match) return { number: 7, name: "Yugoslavia" };
   return match.chapter;
 }
 

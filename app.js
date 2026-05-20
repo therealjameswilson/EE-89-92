@@ -1,13 +1,87 @@
-const CHAPTER_ORDER = [
-  "Poland",
-  "Hungary",
-  "Czechoslovakia",
-  "Romania, Bulgaria, and Albania",
-  "Yugoslavia and Regional"
+const CHAPTERS = [
+  {
+    name: "Poland",
+    description:
+      "Round Table politics, elections, presidential travel, debt relief, Walesa, and post-communist transition diplomacy."
+  },
+  {
+    name: "Hungary",
+    description:
+      "Border opening, Nagy reburial, East German refugee route, republic proclamation, Antall, Goncz, and reform diplomacy."
+  },
+  {
+    name: "Czechoslovakia",
+    description:
+      "Velvet Revolution, Havel diplomacy, federal and Czech-Slovak leadership, troop withdrawal, and reform assistance."
+  },
+  {
+    name: "Bulgaria",
+    description:
+      "Zhivkov's fall, constitutional transition, Zhelev, Dimitrov, reform policy, and U.S. assistance."
+  },
+  {
+    name: "Romania",
+    description:
+      "Ceausescu's fall, elections, Iliescu-era transition, credentials, human rights, and assistance questions."
+  },
+  {
+    name: "Albania",
+    description:
+      "Multiparty opening, late communist transition, democratic elections, and U.S. policy toward Tirana."
+  },
+  {
+    name: "Yugoslavia",
+    description:
+      "Federal crisis, Drnovsek, Jovic, Markovic, dissolution diplomacy, arms embargo, and sanctions policy."
+  },
+  {
+    name: "Slovenia",
+    description:
+      "Independence declaration, recognition issues, Yugoslav dissolution, and U.S.-European coordination."
+  },
+  {
+    name: "Croatia",
+    description:
+      "Independence declaration, recognition issues, conflict escalation, and cross-volume Yugoslavia diplomacy."
+  },
+  {
+    name: "Bosnia and Herzegovina",
+    description:
+      "Recognition, war outbreak, refugees, humanitarian policy, and European and UN diplomacy."
+  },
+  {
+    name: "Serbia and Montenegro",
+    description:
+      "Sanctions, arms embargo questions, Belgrade policy, and Yugoslav conflict diplomacy."
+  },
+  {
+    name: "Estonia",
+    description:
+      "Restored independence, Ruutel contacts, Baltic recognition, and Soviet collapse boundary records."
+  },
+  {
+    name: "Latvia",
+    description:
+      "Godmanis and Gorbunovs contacts, restored independence, Baltic recognition, and Soviet collapse boundary records."
+  },
+  {
+    name: "Lithuania",
+    description:
+      "Landsbergis contacts, restored independence, Baltic recognition, and Soviet collapse boundary records."
+  },
+  {
+    name: "Ukraine",
+    description:
+      "Kravchuk contacts, independence recognition, nuclear and Soviet succession issues, and post-Soviet transition."
+  }
 ];
 
+const CHAPTER_ORDER = CHAPTERS.map((chapter) => chapter.name);
+
 const recordsRoot = document.querySelector("#records-root");
+const chapterGrid = document.querySelector("#chapter-grid");
 const totalRecords = document.querySelector("#total-records");
+const chapterTotal = document.querySelector("#chapter-total");
 const totalPages = document.querySelector("#total-pages");
 const sourceFamilyCount = document.querySelector("#source-family-count");
 const chapterFilter = document.querySelector("#chapter-filter");
@@ -44,6 +118,7 @@ function byChapterThenDate(a, b) {
 
 function setSummary(records) {
   totalRecords.textContent = records.length.toString();
+  chapterTotal.textContent = CHAPTERS.length.toString();
   totalPages.textContent = records
     .reduce((sum, record) => sum + (record.pageCount || 0), 0)
     .toLocaleString();
@@ -61,6 +136,41 @@ function setSummary(records) {
       pagesNode.textContent = pageTotal.toLocaleString();
     }
   }
+}
+
+function renderChapterCards(records) {
+  if (!chapterGrid) return;
+
+  chapterGrid.replaceChildren();
+  CHAPTERS.forEach((chapter, index) => {
+    const chapterRecords = records.filter((record) => record.chapter.name === chapter.name);
+    const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
+    const card = document.createElement("a");
+    card.className = "chapter-card";
+    card.href = `#${chapterId(chapter.name)}`;
+    card.setAttribute("aria-label", `View ${chapter.name} chronology`);
+
+    const number = document.createElement("p");
+    number.className = "chapter-number";
+    number.textContent = `Chapter ${index + 1}`;
+
+    const heading = document.createElement("h3");
+    heading.textContent = chapter.name;
+
+    const count = document.createElement("p");
+    count.className = "chapter-count";
+    count.textContent = `${chapterRecords.length} cues / ${pageTotal.toLocaleString()} pages`;
+
+    const description = document.createElement("p");
+    description.textContent = chapter.description;
+
+    const action = document.createElement("span");
+    action.className = "chapter-action";
+    action.textContent = "View chronological queue";
+
+    card.append(number, heading, count, description, action);
+    chapterGrid.append(card);
+  });
 }
 
 function fillFilters(records) {
@@ -256,6 +366,7 @@ async function loadRecords() {
 async function init() {
   try {
     allRecords = window.EE_RECORDS || (await loadRecords());
+    renderChapterCards(allRecords);
     setSummary(allRecords);
     fillFilters(allRecords);
     renderRecords();

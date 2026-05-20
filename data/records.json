@@ -119,6 +119,40 @@
     ]
   },
   {
+    "id": "scowcroft-366551798",
+    "date": "1989-07-01",
+    "sortDate": "1989-07-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe July 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (July 1989)",
+    "subjectLine": "Regional Eastern Europe transition reporting around the Bush Poland-Hungary trip.",
+    "countries": ["Poland", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 1,
+      "name": "Poland"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-004; 41-bpr-scow-ussrch-svp-91124-004.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551798"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 66
+  },
+  {
     "id": "poland-1989-07-09-bush-visit",
     "date": "1989-07-09",
     "sortDate": "1989-07-09",
@@ -1384,6 +1418,74 @@
     ]
   },
   {
+    "id": "scowcroft-366551799",
+    "date": "1989-07-15",
+    "sortDate": "1989-07-15",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe July-August 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (July-August 1989)",
+    "subjectLine": "Follow-on regional transition reporting after the Poland-Hungary trip.",
+    "countries": ["Hungary", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 2,
+      "name": "Hungary"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-005; 41-bpr-scow-ussrch-svp-91124-005.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551799"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 102
+  },
+  {
+    "id": "scowcroft-366551801",
+    "date": "1989-09-01",
+    "sortDate": "1989-09-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe September 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (September 1989)",
+    "subjectLine": "Hungarian border/refugee developments and accelerating Soviet bloc transition.",
+    "countries": ["Hungary", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 2,
+      "name": "Hungary"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-007; 41-bpr-scow-ussrch-svp-91124-007.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "Hungary"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551801"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-007.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 107
+  },
+  {
     "id": "hungary-1989-09-10-east-german-refugees",
     "date": "1989-09-10",
     "sortDate": "1989-09-10",
@@ -2197,6 +2299,108 @@
     ]
   },
   {
+    "id": "scowcroft-366551762",
+    "date": "1989-03-01",
+    "sortDate": "1989-03-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe--SNF March 1989 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe--SNF [Short-range Nuclear Forces] March 1989",
+    "subjectLine": "Short-range nuclear forces, NATO consultations, and Eastern Europe security posture.",
+    "countries": ["Czechoslovakia", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91120-001; 41-bpr-scow-ussrch-snf-91120-001.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "SNF"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551762"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-001.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 85
+  },
+  {
+    "id": "scowcroft-366551773",
+    "date": "1989-04-01",
+    "sortDate": "1989-04-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe--CFE source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe--CFE [Conventional Forces in Europe] April-June 1989",
+    "subjectLine": "CFE, NATO, Warsaw Pact military transition, and early 1989 Eastern Europe security policy.",
+    "countries": ["Czechoslovakia", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91121-001; 41-bpr-scow-ussrch-cfe-91121-001.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "CFE"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551773"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-cfe-91121-001.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 150
+  },
+  {
+    "id": "scowcroft-366551804",
+    "date": "1989-11-09",
+    "sortDate": "1989-11-09",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe--Berlin Wall source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe--Berlin Wall (November 1989)",
+    "subjectLine": "Berlin Wall, German question, and Eastern Europe cascade in November 1989.",
+    "countries": ["Czechoslovakia", "Germany", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-010; 41-bpr-scow-ussrch-svp-91124-010.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "Berlin Wall"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551804"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-010.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 26
+  },
+  {
     "id": "czechoslovakia-1989-11-17-velvet",
     "date": "1989-11-17",
     "sortDate": "1989-11-17",
@@ -2249,6 +2453,40 @@
         "url": "https://catalog.archives.gov/search?q=Havel%20Bush%201989%201990"
       }
     ]
+  },
+  {
+    "id": "scowcroft-366552050",
+    "date": "1990-01-01",
+    "sortDate": "1990-01-01",
+    "type": "Source folder",
+    "title": "Scowcroft Memcons/Telcons 1990 source folder set begins",
+    "dateLine": "Memcons/Telcons (January-December) 1990 [1]",
+    "subjectLine": "General Scowcroft memcon/telcon folder for 1990; search for Poland, Hungary, Czechoslovakia, Romania, Bulgaria, Albania, Yugoslavia, CSCE, and Warsaw Pact terms.",
+    "countries": ["Czechoslovakia", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91156-001; 41-bpr-scow-mtg-memtel-91156-001.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366552050"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708328/41-bpr-scow-mtg-memtel-91156-001.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 69
   },
   {
     "id": "bush-ee-428080527",
@@ -3035,6 +3273,69 @@
     ]
   },
   {
+    "id": "regional-1990-11-21-charter-of-paris",
+    "date": "1990-11-21",
+    "sortDate": "1990-11-21",
+    "type": "Regional diplomacy",
+    "title": "CSCE Charter of Paris signed",
+    "dateLine": "Paris, November 21, 1990",
+    "subjectLine": "New Europe framework, CSCE, human rights, conventional forces, and post-Cold War order.",
+    "countries": ["Czechoslovakia", "United States", "Regional Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Cross-volume overlap",
+    "sourceFamily": "Western Europe crossovers",
+    "sourceNote": "This regional event likely appears in Western Europe, Germany, Soviet Union, NATO, and Eastern Europe records.",
+    "nextAction": "Connect Paris summit memcons and Western Europe leader conversations to Eastern Europe chapter themes.",
+    "topics": ["CSCE", "Charter of Paris", "post-Cold War order", "cross-volume"],
+    "links": [
+      {
+        "label": "Western Europe model",
+        "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+      },
+      {
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Charter%20of%20Paris%201990%20Bush%20CSCE"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-366551815",
+    "date": "1991-02-01",
+    "sortDate": "1991-02-01",
+    "type": "Source folder",
+    "title": "Soviet Power Collapse in Eastern Europe February-April 1991 source folder",
+    "dateLine": "Soviet Power Collapse in Eastern Europe (February-April 1991)",
+    "subjectLine": "Regional transition, Soviet troop withdrawal, and post-1989 consolidation.",
+    "countries": ["Czechoslovakia", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Source folder found",
+    "sourceFamily": "Brent Scowcroft Papers",
+    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91125-011; 41-bpr-scow-ussrch-svp-91125-011.pdf.",
+    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
+    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/366551815"
+      },
+      {
+        "label": "Source PDF",
+        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-011.pdf"
+      },
+      {
+        "label": "Search report",
+        "url": "reports/scowcroft-memcon-telcon-search.json"
+      }
+    ],
+    "pageCount": 112
+  },
+  {
     "id": "bush-ee-428081501",
     "date": "1991-02-26",
     "sortDate": "1991-02-26",
@@ -3238,6 +3539,31 @@
       {
         "label": "Coverage audit",
         "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
+    "id": "regional-1991-07-01-warsaw-pact",
+    "date": "1991-07-01",
+    "sortDate": "1991-07-01",
+    "type": "Regional diplomacy",
+    "title": "Warsaw Pact dissolves",
+    "dateLine": "Prague, July 1, 1991",
+    "subjectLine": "Security transition, Soviet troop withdrawal, NATO outreach, and alliance adaptation.",
+    "countries": ["Czechoslovakia", "Soviet Union", "United States", "Regional Eastern Europe"],
+    "chapter": {
+      "number": 3,
+      "name": "Czechoslovakia"
+    },
+    "status": "Harvest target",
+    "sourceFamily": "State Department and NSC country files",
+    "sourceNote": "Security-policy records should be tied to country chapters and to NATO/Soviet Union cross-volume records.",
+    "nextAction": "Search NSC and State security-policy files for Warsaw Pact termination, troop withdrawal, and NATO outreach memoranda.",
+    "topics": ["Warsaw Pact", "NATO", "Soviet troop withdrawal", "regional security"],
+    "links": [
+      {
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Warsaw%20Pact%20dissolution%201991%20Bush"
       }
     ]
   },
@@ -3553,7 +3879,7 @@
     "countries": ["Bulgaria"],
     "chapter": {
       "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
+      "name": "Bulgaria"
     },
     "status": "Harvest target",
     "sourceFamily": "State Department and NSC country files",
@@ -3564,56 +3890,6 @@
       {
         "label": "NARA search",
         "url": "https://catalog.archives.gov/search?q=Todor%20Zhivkov%20resigns%201989%20Bulgaria"
-      }
-    ]
-  },
-  {
-    "id": "romania-1989-12-22-ceausescu",
-    "date": "1989-12-22",
-    "sortDate": "1989-12-22",
-    "type": "Event anchor",
-    "title": "Ceausescu regime collapses",
-    "dateLine": "Bucharest, December 22, 1989",
-    "subjectLine": "Romanian revolution, violence, U.S. crisis monitoring, and humanitarian policy.",
-    "countries": ["Romania"],
-    "chapter": {
-      "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
-    },
-    "status": "Harvest target",
-    "sourceFamily": "State Department and NSC country files",
-    "sourceNote": "High-priority event for situation reports, crisis memoranda, embassy reporting, and White House reaction.",
-    "nextAction": "Build a December 1989-January 1990 crisis packet with State, NSC, public affairs, and humanitarian-assistance records.",
-    "topics": ["Romania", "revolution", "humanitarian policy", "crisis monitoring"],
-    "links": [
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Romania%20revolution%20December%201989%20Bush"
-      }
-    ]
-  },
-  {
-    "id": "romania-1990-05-20-election",
-    "date": "1990-05-20",
-    "sortDate": "1990-05-20",
-    "type": "Event anchor",
-    "title": "Romanian elections",
-    "dateLine": "Romania, May 20, 1990",
-    "subjectLine": "Post-revolution legitimacy, election monitoring, violence, and U.S. assistance posture.",
-    "countries": ["Romania"],
-    "chapter": {
-      "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
-    },
-    "status": "Gap check",
-    "sourceFamily": "State Department and NSC country files",
-    "sourceNote": "Needs comparison between election reporting, human-rights records, and U.S. assistance decisions.",
-    "nextAction": "Search May-June 1990 State and NSC files for election assessments and policy options.",
-    "topics": ["Romania", "elections", "human rights", "assistance policy"],
-    "links": [
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Romania%20elections%20May%2020%201990"
       }
     ]
   },
@@ -3629,7 +3905,7 @@
     "countries": ["United States", "Bulgaria"],
     "chapter": {
       "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
+      "name": "Bulgaria"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -3687,31 +3963,6 @@
     ]
   },
   {
-    "id": "albania-1991-03-31-election",
-    "date": "1991-03-31",
-    "sortDate": "1991-03-31",
-    "type": "Event anchor",
-    "title": "Albania holds multiparty elections",
-    "dateLine": "Albania, March 31, 1991",
-    "subjectLine": "Opening after isolation, U.S. diplomatic posture, refugee issues, and assistance planning.",
-    "countries": ["Albania"],
-    "chapter": {
-      "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
-    },
-    "status": "Gap check",
-    "sourceFamily": "State Department and NSC country files",
-    "sourceNote": "Likely requires State Department records because presidential-level documentation may be sparse.",
-    "nextAction": "Search State, embassy, refugee, and assistance records for March-May 1991 Albania coverage.",
-    "topics": ["Albania", "elections", "refugees", "assistance policy"],
-    "links": [
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Albania%20multiparty%20elections%201991%20State%20Department"
-      }
-    ]
-  },
-  {
     "id": "bulgaria-1991-07-12-constitution",
     "date": "1991-07-12",
     "sortDate": "1991-07-12",
@@ -3722,7 +3973,7 @@
     "countries": ["Bulgaria"],
     "chapter": {
       "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
+      "name": "Bulgaria"
     },
     "status": "Gap check",
     "sourceFamily": "State Department and NSC country files",
@@ -3748,7 +3999,7 @@
     "countries": ["United States", "Bulgaria"],
     "chapter": {
       "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
+      "name": "Bulgaria"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -3806,6 +4057,56 @@
     ]
   },
   {
+    "id": "romania-1989-12-22-ceausescu",
+    "date": "1989-12-22",
+    "sortDate": "1989-12-22",
+    "type": "Event anchor",
+    "title": "Ceausescu regime collapses",
+    "dateLine": "Bucharest, December 22, 1989",
+    "subjectLine": "Romanian revolution, violence, U.S. crisis monitoring, and humanitarian policy.",
+    "countries": ["Romania"],
+    "chapter": {
+      "number": 5,
+      "name": "Romania"
+    },
+    "status": "Harvest target",
+    "sourceFamily": "State Department and NSC country files",
+    "sourceNote": "High-priority event for situation reports, crisis memoranda, embassy reporting, and White House reaction.",
+    "nextAction": "Build a December 1989-January 1990 crisis packet with State, NSC, public affairs, and humanitarian-assistance records.",
+    "topics": ["Romania", "revolution", "humanitarian policy", "crisis monitoring"],
+    "links": [
+      {
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Romania%20revolution%20December%201989%20Bush"
+      }
+    ]
+  },
+  {
+    "id": "romania-1990-05-20-election",
+    "date": "1990-05-20",
+    "sortDate": "1990-05-20",
+    "type": "Event anchor",
+    "title": "Romanian elections",
+    "dateLine": "Romania, May 20, 1990",
+    "subjectLine": "Post-revolution legitimacy, election monitoring, violence, and U.S. assistance posture.",
+    "countries": ["Romania"],
+    "chapter": {
+      "number": 5,
+      "name": "Romania"
+    },
+    "status": "Gap check",
+    "sourceFamily": "State Department and NSC country files",
+    "sourceNote": "Needs comparison between election reporting, human-rights records, and U.S. assistance decisions.",
+    "nextAction": "Search May-June 1990 State and NSC files for election assessments and policy options.",
+    "topics": ["Romania", "elections", "human rights", "assistance policy"],
+    "links": [
+      {
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Romania%20elections%20May%2020%201990"
+      }
+    ]
+  },
+  {
     "id": "bush-ee-428082181",
     "date": "1992-05-05",
     "sortDate": "1992-05-05",
@@ -3816,8 +4117,8 @@
     "participants": ["George H. W. Bush", "Aurel Dragos Munteanu"],
     "countries": ["United States", "Romania"],
     "chapter": {
-      "number": 4,
-      "name": "Romania, Bulgaria, and Albania"
+      "number": 5,
+      "name": "Romania"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -3875,174 +4176,29 @@
     ]
   },
   {
-    "id": "scowcroft-366551762",
-    "date": "1989-03-01",
-    "sortDate": "1989-03-01",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe--SNF March 1989 source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe--SNF [Short-range Nuclear Forces] March 1989",
-    "subjectLine": "Short-range nuclear forces, NATO consultations, and Eastern Europe security posture.",
-    "countries": ["Regional Eastern Europe", "United States"],
+    "id": "albania-1991-03-31-election",
+    "date": "1991-03-31",
+    "sortDate": "1991-03-31",
+    "type": "Event anchor",
+    "title": "Albania holds multiparty elections",
+    "dateLine": "Albania, March 31, 1991",
+    "subjectLine": "Opening after isolation, U.S. diplomatic posture, refugee issues, and assistance planning.",
+    "countries": ["Albania"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 6,
+      "name": "Albania"
     },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91120-001; 41-bpr-scow-ussrch-snf-91120-001.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "SNF"],
+    "status": "Gap check",
+    "sourceFamily": "State Department and NSC country files",
+    "sourceNote": "Likely requires State Department records because presidential-level documentation may be sparse.",
+    "nextAction": "Search State, embassy, refugee, and assistance records for March-May 1991 Albania coverage.",
+    "topics": ["Albania", "elections", "refugees", "assistance policy"],
     "links": [
       {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551762"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-001.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Albania%20multiparty%20elections%201991%20State%20Department"
       }
-    ],
-    "pageCount": 85
-  },
-  {
-    "id": "scowcroft-366551773",
-    "date": "1989-04-01",
-    "sortDate": "1989-04-01",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe--CFE source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe--CFE [Conventional Forces in Europe] April-June 1989",
-    "subjectLine": "CFE, NATO, Warsaw Pact military transition, and early 1989 Eastern Europe security policy.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91121-001; 41-bpr-scow-ussrch-cfe-91121-001.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "CFE"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551773"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-cfe-91121-001.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 150
-  },
-  {
-    "id": "scowcroft-366551798",
-    "date": "1989-07-01",
-    "sortDate": "1989-07-01",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe July 1989 source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe (July 1989)",
-    "subjectLine": "Regional Eastern Europe transition reporting around the Bush Poland-Hungary trip.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-004; 41-bpr-scow-ussrch-svp-91124-004.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551798"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 66
-  },
-  {
-    "id": "scowcroft-366551799",
-    "date": "1989-07-15",
-    "sortDate": "1989-07-15",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe July-August 1989 source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe (July-August 1989)",
-    "subjectLine": "Follow-on regional transition reporting after the Poland-Hungary trip.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-005; 41-bpr-scow-ussrch-svp-91124-005.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551799"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 102
-  },
-  {
-    "id": "scowcroft-366551801",
-    "date": "1989-09-01",
-    "sortDate": "1989-09-01",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe September 1989 source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe (September 1989)",
-    "subjectLine": "Hungarian border/refugee developments and accelerating Soviet bloc transition.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-007; 41-bpr-scow-ussrch-svp-91124-007.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "Hungary"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551801"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-007.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 107
+    ]
   },
   {
     "id": "bush-ee-428080195",
@@ -4055,8 +4211,8 @@
     "participants": ["George H. W. Bush", "Janez Drnovsek"],
     "countries": ["United States", "Yugoslavia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 7,
+      "name": "Yugoslavia"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -4114,143 +4270,6 @@
     ]
   },
   {
-    "id": "scowcroft-366551804",
-    "date": "1989-11-09",
-    "sortDate": "1989-11-09",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe--Berlin Wall source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe--Berlin Wall (November 1989)",
-    "subjectLine": "Berlin Wall, German question, and Eastern Europe cascade in November 1989.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91124-010; 41-bpr-scow-ussrch-svp-91124-010.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe", "Berlin Wall"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551804"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-010.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 26
-  },
-  {
-    "id": "scowcroft-366552050",
-    "date": "1990-01-01",
-    "sortDate": "1990-01-01",
-    "type": "Source folder",
-    "title": "Scowcroft Memcons/Telcons 1990 source folder set begins",
-    "dateLine": "Memcons/Telcons (January-December) 1990 [1]",
-    "subjectLine": "General Scowcroft memcon/telcon folder for 1990; search for Poland, Hungary, Czechoslovakia, Romania, Bulgaria, Albania, Yugoslavia, CSCE, and Warsaw Pact terms.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91156-001; 41-bpr-scow-mtg-memtel-91156-001.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366552050"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708328/41-bpr-scow-mtg-memtel-91156-001.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 69
-  },
-  {
-    "id": "bush-ee-428080845",
-    "date": "1990-07-30",
-    "sortDate": "1990-07-30",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990",
-    "dateLine": "July 30, 1990",
-    "subjectLine": "President Bush and Ivars Godmanis",
-    "participants": ["George H. W. Bush", "Ivars Godmanis"],
-    "countries": ["United States", "Latvia"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 7/30/1990; Type Memcon; Participants Godmanis, Ivars; Country Latvia; Release Status Full; NAID 428080845. National Archives Catalog item: Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990, NAID 428080845. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 325541475. Digital object: 1990-07-30--Godmanis.pdf, object ID 428080846, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf. Access restriction: Unrestricted. Page count: 5 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Latvia"],
-    "naid": "428080845",
-    "catalogUrl": "https://catalog.archives.gov/id/428080845",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf",
-    "pageCount": 5,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 27,
-      "tableRow": {
-        "date": "7/30/1990",
-        "type": "Memcon",
-        "participants": "Godmanis, Ivars",
-        "country": "Latvia",
-        "status": "Full",
-        "naid": "428080845",
-        "tablePage": 27,
-        "catalogUrl": "https://catalog.archives.gov/id/428080845",
-        "isoDate": "1990-07-30",
-        "rowKey": "1990-07-30-Memcon-428080845"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
-      "fileUnitNaid": "325541475",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf",
-      "objectFilename": "1990-07-30--Godmanis.pdf",
-      "objectId": "428080846"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428080845"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428081101",
     "date": "1990-10-01",
     "sortDate": "1990-10-01",
@@ -4261,8 +4280,8 @@
     "participants": ["George H. W. Bush", "Borisav Jovic"],
     "countries": ["United States", "Yugoslavia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 7,
+      "name": "Yugoslavia"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -4320,138 +4339,6 @@
     ]
   },
   {
-    "id": "regional-1990-11-21-charter-of-paris",
-    "date": "1990-11-21",
-    "sortDate": "1990-11-21",
-    "type": "Regional diplomacy",
-    "title": "CSCE Charter of Paris signed",
-    "dateLine": "Paris, November 21, 1990",
-    "subjectLine": "New Europe framework, CSCE, human rights, conventional forces, and post-Cold War order.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Cross-volume overlap",
-    "sourceFamily": "Western Europe crossovers",
-    "sourceNote": "This regional event likely appears in Western Europe, Germany, Soviet Union, NATO, and Eastern Europe records.",
-    "nextAction": "Connect Paris summit memcons and Western Europe leader conversations to Eastern Europe chapter themes.",
-    "topics": ["CSCE", "Charter of Paris", "post-Cold War order", "cross-volume"],
-    "links": [
-      {
-        "label": "Western Europe model",
-        "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-      },
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Charter%20of%20Paris%201990%20Bush%20CSCE"
-      }
-    ]
-  },
-  {
-    "id": "scowcroft-366551815",
-    "date": "1991-02-01",
-    "sortDate": "1991-02-01",
-    "type": "Source folder",
-    "title": "Soviet Power Collapse in Eastern Europe February-April 1991 source folder",
-    "dateLine": "Soviet Power Collapse in Eastern Europe (February-April 1991)",
-    "subjectLine": "Regional transition, Soviet troop withdrawal, and post-1989 consolidation.",
-    "countries": ["Regional Eastern Europe", "United States"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Source folder found",
-    "sourceFamily": "Brent Scowcroft Papers",
-    "sourceNote": "Catalog hit from Brent Scowcroft Papers NAID 4522156. Folder 91125-011; 41-bpr-scow-ussrch-svp-91125-011.pdf.",
-    "nextAction": "Download or OCR this source-folder PDF, then extract date-specific memcons, telcons, Source notes, and page ranges for Eastern Europe candidate documents.",
-    "topics": ["Brent Scowcroft Papers", "declassified memcons and telcons", "source folder", "Eastern Europe"],
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/366551815"
-      },
-      {
-        "label": "Source PDF",
-        "url": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-011.pdf"
-      },
-      {
-        "label": "Search report",
-        "url": "reports/scowcroft-memcon-telcon-search.json"
-      }
-    ],
-    "pageCount": 112
-  },
-  {
-    "id": "bush-ee-428081545",
-    "date": "1991-03-29",
-    "sortDate": "1991-03-29",
-    "type": "Memcon",
-    "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
-    "dateLine": "March 29, 1991",
-    "subjectLine": "President Bush and Arnold Ruutel",
-    "participants": ["George H. W. Bush", "Arnold Ruutel"],
-    "countries": ["United States", "Estonia"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 3/29/1991; Type Memcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428081545. National Archives Catalog item: Meeting with Arnold Ruutel, President of Estonia, March 29, 1991, NAID 428081545. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 325542549. Digital object: 1991-03-29--Ruutel.pdf, object ID 428081546, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf. Access restriction: Unrestricted. Page count: 7 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Estonia"],
-    "naid": "428081545",
-    "catalogUrl": "https://catalog.archives.gov/id/428081545",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf",
-    "pageCount": 7,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 44,
-      "tableRow": {
-        "date": "3/29/1991",
-        "type": "Memcon",
-        "participants": "Ruutel, Arnold",
-        "country": "Estonia",
-        "status": "Full",
-        "naid": "428081545",
-        "tablePage": 44,
-        "catalogUrl": "https://catalog.archives.gov/id/428081545",
-        "isoDate": "1991-03-29",
-        "rowKey": "1991-03-29-Memcon-428081545"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991",
-      "fileUnitNaid": "325542549",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf",
-      "objectFilename": "1991-03-29--Ruutel.pdf",
-      "objectId": "428081546"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081545"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428081697",
     "date": "1991-05-20",
     "sortDate": "1991-05-20",
@@ -4462,8 +4349,8 @@
     "participants": ["George H. W. Bush", "Ante Markovic"],
     "countries": ["United States", "Yugoslavia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 7,
+      "name": "Yugoslavia"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -4521,182 +4408,188 @@
     ]
   },
   {
-    "id": "yugoslavia-1991-06-25-independence",
+    "id": "yugoslavia-1991-09-25-arms-embargo",
+    "date": "1991-09-25",
+    "sortDate": "1991-09-25",
+    "type": "Regional diplomacy",
+    "title": "UN arms embargo on Yugoslavia",
+    "dateLine": "New York, September 25, 1991",
+    "subjectLine": "United Nations policy, arms embargo, recognition debate, and U.S.-European coordination.",
+    "countries": ["Yugoslavia", "United States", "Regional Europe"],
+    "chapter": {
+      "number": 7,
+      "name": "Yugoslavia"
+    },
+    "status": "Gap check",
+    "sourceFamily": "State Department and NSC country files",
+    "sourceNote": "UN and European coordination records may sit outside presidential memcon holdings but are central to the Yugoslavia narrative.",
+    "nextAction": "Search State, UN mission, NSC, and EC coordination files for arms embargo deliberations and U.S. position papers.",
+    "topics": ["Yugoslavia", "United Nations", "arms embargo", "recognition policy"],
+    "links": [
+      {
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Yugoslavia%20arms%20embargo%20September%201991"
+      }
+    ]
+  },
+  {
+    "id": "slovenia-1991-06-25-independence",
     "date": "1991-06-25",
     "sortDate": "1991-06-25",
     "type": "Event anchor",
-    "title": "Slovenia and Croatia declare independence",
-    "dateLine": "Ljubljana and Zagreb, June 25, 1991",
+    "title": "Slovenia declares independence",
+    "dateLine": "Ljubljana, June 25, 1991",
     "subjectLine": "Yugoslav dissolution, U.S. recognition policy, EC mediation, and conflict prevention.",
-    "countries": ["Yugoslavia", "Slovenia", "Croatia"],
+    "countries": ["Slovenia", "Yugoslavia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 8,
+      "name": "Slovenia"
     },
     "status": "Harvest target",
     "sourceFamily": "State Department and NSC country files",
     "sourceNote": "A high-priority Yugoslavia packet should distinguish recognition, mediation, military conflict, and humanitarian concerns.",
-    "nextAction": "Compile June-August 1991 State, NSC, EC coordination, and embassy records on Slovenia and Croatia.",
-    "topics": ["Yugoslavia", "Slovenia", "Croatia", "recognition policy", "EC mediation"],
+    "nextAction": "Compile June-August 1991 State, NSC, EC coordination, and embassy records on Slovenia.",
+    "topics": ["Slovenia", "Yugoslavia", "recognition policy", "EC mediation"],
     "links": [
       {
         "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Yugoslavia%20Slovenia%20Croatia%20June%201991%20Bush"
+        "url": "https://catalog.archives.gov/search?q=Slovenia%20June%201991%20Bush%20Yugoslavia"
       }
     ]
   },
   {
-    "id": "regional-1991-07-01-warsaw-pact",
-    "date": "1991-07-01",
-    "sortDate": "1991-07-01",
-    "type": "Regional diplomacy",
-    "title": "Warsaw Pact dissolves",
-    "dateLine": "Prague, July 1, 1991",
-    "subjectLine": "Security transition, Soviet troop withdrawal, NATO outreach, and alliance adaptation.",
-    "countries": ["Regional Eastern Europe", "Soviet Union", "United States"],
+    "id": "croatia-1991-06-25-independence",
+    "date": "1991-06-25",
+    "sortDate": "1991-06-25",
+    "type": "Event anchor",
+    "title": "Croatia declares independence",
+    "dateLine": "Zagreb, June 25, 1991",
+    "subjectLine": "Yugoslav dissolution, U.S. recognition policy, EC mediation, and conflict prevention.",
+    "countries": ["Croatia", "Yugoslavia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 9,
+      "name": "Croatia"
     },
     "status": "Harvest target",
     "sourceFamily": "State Department and NSC country files",
-    "sourceNote": "Security-policy records should be tied to country chapters and to NATO/Soviet Union cross-volume records.",
-    "nextAction": "Search NSC and State security-policy files for Warsaw Pact termination, troop withdrawal, and NATO outreach memoranda.",
-    "topics": ["Warsaw Pact", "NATO", "Soviet troop withdrawal", "regional security"],
+    "sourceNote": "A high-priority Yugoslavia packet should distinguish recognition, mediation, military conflict, and humanitarian concerns.",
+    "nextAction": "Compile June-August 1991 State, NSC, EC coordination, and embassy records on Croatia.",
+    "topics": ["Croatia", "Yugoslavia", "recognition policy", "EC mediation"],
     "links": [
       {
         "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Warsaw%20Pact%20dissolution%201991%20Bush"
+        "url": "https://catalog.archives.gov/search?q=Croatia%20June%201991%20Bush%20Yugoslavia"
       }
     ]
   },
   {
-    "id": "bush-ee-428081807",
-    "date": "1991-08-01",
-    "sortDate": "1991-08-01",
-    "type": "Memcon",
-    "title": "Meeting with Ukrainian Supreme Soviet Chairman Leonid Kravchuk, August 1, 1991",
-    "dateLine": "August 1, 1991",
-    "subjectLine": "President Bush and Leonid Kravchuk",
-    "participants": ["George H. W. Bush", "Leonid Kravchuk"],
-    "countries": ["United States", "Ukraine"],
+    "id": "yugoslavia-1992-04-06-bosnia",
+    "date": "1992-04-06",
+    "sortDate": "1992-04-06",
+    "type": "Event anchor",
+    "title": "Bosnia crisis enters the recognition and war phase",
+    "dateLine": "Bosnia and Herzegovina, April 6, 1992",
+    "subjectLine": "Recognition, violence, refugees, sanctions, and U.S.-European response.",
+    "countries": ["Bosnia and Herzegovina", "Yugoslavia", "United States", "Regional Europe"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 10,
+      "name": "Bosnia and Herzegovina"
     },
-    "status": "Document found",
-    "releaseStatus": "Partial",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 8/1/1991; Type Memcon; Participants Kravchuk, Leonid; Country Ukraine; Release Status Partial; NAID 428081807. National Archives Catalog item: Meeting with Ukrainian Supreme Soviet Chairman Leonid Kravchuk, August 1, 1991, NAID 428081807. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1991-December 1991]: August 1991, NAID 325542556. Digital object: 1991-08-01--Kravchuk.pdf, object ID 428081808, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf. Access restriction: Restricted - Partly. Page count: 4 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Ukraine"],
-    "naid": "428081807",
-    "catalogUrl": "https://catalog.archives.gov/id/428081807",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf",
-    "pageCount": 4,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 50,
-      "tableRow": {
-        "date": "8/1/1991",
-        "type": "Memcon",
-        "participants": "Kravchuk, Leonid",
-        "country": "Ukraine",
-        "status": "Partial",
-        "naid": "428081807",
-        "tablePage": 50,
-        "catalogUrl": "https://catalog.archives.gov/id/428081807",
-        "isoDate": "1991-08-01",
-        "rowKey": "1991-08-01-Memcon-428081807"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: August 1991",
-      "fileUnitNaid": "325542556",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf",
-      "objectFilename": "1991-08-01--Kravchuk.pdf",
-      "objectId": "428081808"
-    },
+    "status": "Declassification priority",
+    "sourceFamily": "Declassification trail",
+    "sourceNote": "Potentially sensitive records should be marked separately for denied, partial, or later-opened materials.",
+    "nextAction": "Track April-December 1992 Bosnia records by release status and separate public policy, sanctions, humanitarian, and military-option files.",
+    "topics": ["Bosnia", "recognition", "refugees", "sanctions", "declassification"],
     "links": [
       {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081807"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Bosnia%20April%201992%20Bush%20Yugoslavia"
       }
     ]
   },
   {
-    "id": "bush-ee-428081867",
-    "date": "1991-08-31",
-    "sortDate": "1991-08-31",
-    "type": "Telcon",
-    "title": "Telcon with Lithuanian President Landsbergis on August 31, 1991",
-    "dateLine": "August 31, 1991",
-    "subjectLine": "President Bush and Vytautas Landsbergis",
-    "participants": ["George H. W. Bush", "Vytautas Landsbergis"],
-    "countries": ["United States", "Lithuania"],
+    "id": "yugoslavia-1992-05-30-sanctions",
+    "date": "1992-05-30",
+    "sortDate": "1992-05-30",
+    "type": "Event anchor",
+    "title": "UN sanctions against Serbia and Montenegro",
+    "dateLine": "New York, May 30, 1992",
+    "subjectLine": "Sanctions policy, humanitarian crisis, EC coordination, and enforcement questions.",
+    "countries": ["Serbia and Montenegro", "Yugoslavia", "United States", "Regional Europe"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 11,
+      "name": "Serbia and Montenegro"
+    },
+    "status": "Declassification priority",
+    "sourceFamily": "Declassification trail",
+    "sourceNote": "Sanctions deliberations may include partial releases and interagency records outside the Bush memcon/telcon stream.",
+    "nextAction": "Search State, NSC, Treasury, UN mission, and EC coordination files for sanctions deliberations and implementation records.",
+    "topics": ["Yugoslavia", "sanctions", "United Nations", "EC coordination"],
+    "links": [
+      {
+        "label": "NARA search",
+        "url": "https://catalog.archives.gov/search?q=Yugoslavia%20sanctions%20May%201992%20Bush"
+      }
+    ]
+  },
+  {
+    "id": "bush-ee-428081545",
+    "date": "1991-03-29",
+    "sortDate": "1991-03-29",
+    "type": "Memcon",
+    "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+    "dateLine": "March 29, 1991",
+    "subjectLine": "President Bush and Arnold Ruutel",
+    "participants": ["George H. W. Bush", "Arnold Ruutel"],
+    "countries": ["United States", "Estonia"],
+    "chapter": {
+      "number": 12,
+      "name": "Estonia"
     },
     "status": "Document found",
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 8/31/1991; Type Telcon; Participants Landsbergis, Vytautas; Country Lithuania; Release Status Full; NAID 428081867. National Archives Catalog item: Telcon with Lithuanian President Landsbergis on August 31, 1991, NAID 428081867. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Telcon Files, NAID 321498139. File unit: [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991, NAID 325592661. Digital object: 1991-08-31--Landsbergis.pdf, object ID 428081868, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf. Access restriction: Unrestricted. Page count: 3 pages, measured from the linked PDF scan with pdfinfo.",
+    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 3/29/1991; Type Memcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428081545. National Archives Catalog item: Meeting with Arnold Ruutel, President of Estonia, March 29, 1991, NAID 428081545. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 325542549. Digital object: 1991-03-29--Ruutel.pdf, object ID 428081546, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf. Access restriction: Unrestricted. Page count: 7 pages, measured from the linked PDF scan with pdfinfo.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": ["Bush Library Memcons and Telcons", "Telcon", "Eastern Europe", "Head of state or government", "Lithuania"],
-    "naid": "428081867",
-    "catalogUrl": "https://catalog.archives.gov/id/428081867",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf",
-    "pageCount": 3,
+    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Estonia"],
+    "naid": "428081545",
+    "catalogUrl": "https://catalog.archives.gov/id/428081545",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf",
+    "pageCount": 7,
     "source": {
       "name": "Records of the National Security Council (George H. W. Bush Administration)",
       "url": "https://catalog.archives.gov/id/2163580",
       "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 51,
+      "tablePage": 44,
       "tableRow": {
-        "date": "8/31/1991",
-        "type": "Telcon",
-        "participants": "Landsbergis, Vytautas",
-        "country": "Lithuania",
+        "date": "3/29/1991",
+        "type": "Memcon",
+        "participants": "Ruutel, Arnold",
+        "country": "Estonia",
         "status": "Full",
-        "naid": "428081867",
-        "tablePage": 51,
-        "catalogUrl": "https://catalog.archives.gov/id/428081867",
-        "isoDate": "1991-08-31",
-        "rowKey": "1991-08-31-Telcon-428081867"
+        "naid": "428081545",
+        "tablePage": 44,
+        "catalogUrl": "https://catalog.archives.gov/id/428081545",
+        "isoDate": "1991-03-29",
+        "rowKey": "1991-03-29-Memcon-428081545"
       },
-      "series": "Presidential Telcon Files",
-      "seriesNaid": "321498139",
-      "fileUnitTitle": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991",
-      "fileUnitNaid": "325592661",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf",
-      "objectFilename": "1991-08-31--Landsbergis.pdf",
-      "objectId": "428081868"
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991",
+      "fileUnitNaid": "325542549",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf",
+      "objectFilename": "1991-03-29--Ruutel.pdf",
+      "objectId": "428081546"
     },
     "links": [
       {
         "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081867"
+        "url": "https://catalog.archives.gov/id/428081545"
       },
       {
         "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf"
       },
       {
         "label": "Bush Library table",
@@ -4719,8 +4612,8 @@
     "participants": ["George H. W. Bush", "Arnold Ruutel"],
     "countries": ["United States", "Estonia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 12,
+      "name": "Estonia"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -4778,6 +4671,144 @@
     ]
   },
   {
+    "id": "bush-ee-428082301",
+    "date": "1992-07-10",
+    "sortDate": "1992-07-10",
+    "type": "Memcon",
+    "title": "Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania",
+    "dateLine": "July 10, 1992",
+    "subjectLine": "President Bush and the presidents of Estonia, Latvia, and Lithuania",
+    "participants": ["George H. W. Bush", "Arnold Ruutel", "Anatolijs Gorbunovs", "Vytautas Landsbergis"],
+    "countries": ["United States", "Estonia", "Latvia", "Lithuania"],
+    "chapter": {
+      "number": 12,
+      "name": "Estonia"
+    },
+    "status": "Document found",
+    "releaseStatus": "Full",
+    "coverageRole": "Head of state or government",
+    "sourceFamily": "Bush Library memcons/telcons",
+    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 7/10/1992; Type Memcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428082301. National Archives Catalog item: Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania, NAID 428082301. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 325592621. Digital object: 1992-07-10--Ruutel.pdf, object ID 428082302, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf. Access restriction: Unrestricted. Page count: 6 pages, measured from the linked PDF scan with pdfinfo.",
+    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
+    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Estonia", "Latvia", "Lithuania", "Baltic independence"],
+    "naid": "428082301",
+    "catalogUrl": "https://catalog.archives.gov/id/428082301",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf",
+    "pageCount": 6,
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+      "tablePage": 62,
+      "tableRow": {
+        "date": "7/10/1992",
+        "type": "Memcon",
+        "participants": "Ruutel, Arnold",
+        "country": "Estonia",
+        "status": "Full",
+        "naid": "428082301",
+        "tablePage": 62,
+        "catalogUrl": "https://catalog.archives.gov/id/428082301",
+        "isoDate": "1992-07-10",
+        "rowKey": "1992-07-10-Memcon-428082301"
+      },
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992",
+      "fileUnitNaid": "325592621",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf",
+      "objectFilename": "1992-07-10--Ruutel.pdf",
+      "objectId": "428082302"
+    },
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/428082301"
+      },
+      {
+        "label": "Open PDF",
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf"
+      },
+      {
+        "label": "Bush Library table",
+        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+      },
+      {
+        "label": "Coverage audit",
+        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
+    "id": "bush-ee-428080845",
+    "date": "1990-07-30",
+    "sortDate": "1990-07-30",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990",
+    "dateLine": "July 30, 1990",
+    "subjectLine": "President Bush and Ivars Godmanis",
+    "participants": ["George H. W. Bush", "Ivars Godmanis"],
+    "countries": ["United States", "Latvia"],
+    "chapter": {
+      "number": 13,
+      "name": "Latvia"
+    },
+    "status": "Document found",
+    "releaseStatus": "Full",
+    "coverageRole": "Head of state or government",
+    "sourceFamily": "Bush Library memcons/telcons",
+    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 7/30/1990; Type Memcon; Participants Godmanis, Ivars; Country Latvia; Release Status Full; NAID 428080845. National Archives Catalog item: Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990, NAID 428080845. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 325541475. Digital object: 1990-07-30--Godmanis.pdf, object ID 428080846, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf. Access restriction: Unrestricted. Page count: 5 pages, measured from the linked PDF scan with pdfinfo.",
+    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
+    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Latvia"],
+    "naid": "428080845",
+    "catalogUrl": "https://catalog.archives.gov/id/428080845",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf",
+    "pageCount": 5,
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+      "tablePage": 27,
+      "tableRow": {
+        "date": "7/30/1990",
+        "type": "Memcon",
+        "participants": "Godmanis, Ivars",
+        "country": "Latvia",
+        "status": "Full",
+        "naid": "428080845",
+        "tablePage": 27,
+        "catalogUrl": "https://catalog.archives.gov/id/428080845",
+        "isoDate": "1990-07-30",
+        "rowKey": "1990-07-30-Memcon-428080845"
+      },
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+      "fileUnitNaid": "325541475",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf",
+      "objectFilename": "1990-07-30--Godmanis.pdf",
+      "objectId": "428080846"
+    },
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/428080845"
+      },
+      {
+        "label": "Open PDF",
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf"
+      },
+      {
+        "label": "Bush Library table",
+        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+      },
+      {
+        "label": "Coverage audit",
+        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
     "id": "bush-ee-428081869",
     "date": "1991-09-02",
     "sortDate": "1991-09-02",
@@ -4788,8 +4819,8 @@
     "participants": ["George H. W. Bush", "Anatoliy Gorbunovs"],
     "countries": ["United States", "Latvia"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 13,
+      "name": "Latvia"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -4847,6 +4878,144 @@
     ]
   },
   {
+    "id": "bush-ee-428081867",
+    "date": "1991-08-31",
+    "sortDate": "1991-08-31",
+    "type": "Telcon",
+    "title": "Telcon with Lithuanian President Landsbergis on August 31, 1991",
+    "dateLine": "August 31, 1991",
+    "subjectLine": "President Bush and Vytautas Landsbergis",
+    "participants": ["George H. W. Bush", "Vytautas Landsbergis"],
+    "countries": ["United States", "Lithuania"],
+    "chapter": {
+      "number": 14,
+      "name": "Lithuania"
+    },
+    "status": "Document found",
+    "releaseStatus": "Full",
+    "coverageRole": "Head of state or government",
+    "sourceFamily": "Bush Library memcons/telcons",
+    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 8/31/1991; Type Telcon; Participants Landsbergis, Vytautas; Country Lithuania; Release Status Full; NAID 428081867. National Archives Catalog item: Telcon with Lithuanian President Landsbergis on August 31, 1991, NAID 428081867. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Telcon Files, NAID 321498139. File unit: [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991, NAID 325592661. Digital object: 1991-08-31--Landsbergis.pdf, object ID 428081868, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf. Access restriction: Unrestricted. Page count: 3 pages, measured from the linked PDF scan with pdfinfo.",
+    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
+    "topics": ["Bush Library Memcons and Telcons", "Telcon", "Eastern Europe", "Head of state or government", "Lithuania"],
+    "naid": "428081867",
+    "catalogUrl": "https://catalog.archives.gov/id/428081867",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf",
+    "pageCount": 3,
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+      "tablePage": 51,
+      "tableRow": {
+        "date": "8/31/1991",
+        "type": "Telcon",
+        "participants": "Landsbergis, Vytautas",
+        "country": "Lithuania",
+        "status": "Full",
+        "naid": "428081867",
+        "tablePage": 51,
+        "catalogUrl": "https://catalog.archives.gov/id/428081867",
+        "isoDate": "1991-08-31",
+        "rowKey": "1991-08-31-Telcon-428081867"
+      },
+      "series": "Presidential Telcon Files",
+      "seriesNaid": "321498139",
+      "fileUnitTitle": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991",
+      "fileUnitNaid": "325592661",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf",
+      "objectFilename": "1991-08-31--Landsbergis.pdf",
+      "objectId": "428081868"
+    },
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/428081867"
+      },
+      {
+        "label": "Open PDF",
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
+      },
+      {
+        "label": "Bush Library table",
+        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+      },
+      {
+        "label": "Coverage audit",
+        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
+    "id": "bush-ee-428081807",
+    "date": "1991-08-01",
+    "sortDate": "1991-08-01",
+    "type": "Memcon",
+    "title": "Meeting with Ukrainian Supreme Soviet Chairman Leonid Kravchuk, August 1, 1991",
+    "dateLine": "August 1, 1991",
+    "subjectLine": "President Bush and Leonid Kravchuk",
+    "participants": ["George H. W. Bush", "Leonid Kravchuk"],
+    "countries": ["United States", "Ukraine"],
+    "chapter": {
+      "number": 15,
+      "name": "Ukraine"
+    },
+    "status": "Document found",
+    "releaseStatus": "Partial",
+    "coverageRole": "Head of state or government",
+    "sourceFamily": "Bush Library memcons/telcons",
+    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 8/1/1991; Type Memcon; Participants Kravchuk, Leonid; Country Ukraine; Release Status Partial; NAID 428081807. National Archives Catalog item: Meeting with Ukrainian Supreme Soviet Chairman Leonid Kravchuk, August 1, 1991, NAID 428081807. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1991-December 1991]: August 1991, NAID 325542556. Digital object: 1991-08-01--Kravchuk.pdf, object ID 428081808, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf. Access restriction: Restricted - Partly. Page count: 4 pages, measured from the linked PDF scan with pdfinfo.",
+    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
+    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Ukraine"],
+    "naid": "428081807",
+    "catalogUrl": "https://catalog.archives.gov/id/428081807",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf",
+    "pageCount": 4,
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+      "tablePage": 50,
+      "tableRow": {
+        "date": "8/1/1991",
+        "type": "Memcon",
+        "participants": "Kravchuk, Leonid",
+        "country": "Ukraine",
+        "status": "Partial",
+        "naid": "428081807",
+        "tablePage": 50,
+        "catalogUrl": "https://catalog.archives.gov/id/428081807",
+        "isoDate": "1991-08-01",
+        "rowKey": "1991-08-01-Memcon-428081807"
+      },
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: August 1991",
+      "fileUnitNaid": "325542556",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf",
+      "objectFilename": "1991-08-01--Kravchuk.pdf",
+      "objectId": "428081808"
+    },
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/428081807"
+      },
+      {
+        "label": "Open PDF",
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-08-01--Kravchuk.pdf"
+      },
+      {
+        "label": "Bush Library table",
+        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+      },
+      {
+        "label": "Coverage audit",
+        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
     "id": "bush-ee-428081923",
     "date": "1991-09-25",
     "sortDate": "1991-09-25",
@@ -4857,8 +5026,8 @@
     "participants": ["George H. W. Bush", "Leonid Kravchuk"],
     "countries": ["United States", "Ukraine"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 15,
+      "name": "Ukraine"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -4916,31 +5085,6 @@
     ]
   },
   {
-    "id": "yugoslavia-1991-09-25-arms-embargo",
-    "date": "1991-09-25",
-    "sortDate": "1991-09-25",
-    "type": "Regional diplomacy",
-    "title": "UN arms embargo on Yugoslavia",
-    "dateLine": "New York, September 25, 1991",
-    "subjectLine": "United Nations policy, arms embargo, recognition debate, and U.S.-European coordination.",
-    "countries": ["Yugoslavia", "United States", "Regional Europe"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Gap check",
-    "sourceFamily": "State Department and NSC country files",
-    "sourceNote": "UN and European coordination records may sit outside presidential memcon holdings but are central to the Yugoslavia narrative.",
-    "nextAction": "Search State, UN mission, NSC, and EC coordination files for arms embargo deliberations and U.S. position papers.",
-    "topics": ["Yugoslavia", "United Nations", "arms embargo", "recognition policy"],
-    "links": [
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Yugoslavia%20arms%20embargo%20September%201991"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428082065",
     "date": "1991-12-03",
     "sortDate": "1991-12-03",
@@ -4951,8 +5095,8 @@
     "participants": ["George H. W. Bush", "Leonid Kravchuk"],
     "countries": ["United States", "Ukraine"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 15,
+      "name": "Ukraine"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -5010,31 +5154,6 @@
     ]
   },
   {
-    "id": "yugoslavia-1992-04-06-bosnia",
-    "date": "1992-04-06",
-    "sortDate": "1992-04-06",
-    "type": "Event anchor",
-    "title": "Bosnia crisis enters the recognition and war phase",
-    "dateLine": "Bosnia and Herzegovina, April 6, 1992",
-    "subjectLine": "Recognition, violence, refugees, sanctions, and U.S.-European response.",
-    "countries": ["Bosnia and Herzegovina", "Yugoslavia", "United States", "Regional Europe"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Declassification priority",
-    "sourceFamily": "Declassification trail",
-    "sourceNote": "Potentially sensitive records should be marked separately for denied, partial, or later-opened materials.",
-    "nextAction": "Track April-December 1992 Bosnia records by release status and separate public policy, sanctions, humanitarian, and military-option files.",
-    "topics": ["Bosnia", "recognition", "refugees", "sanctions", "declassification"],
-    "links": [
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Bosnia%20April%201992%20Bush%20Yugoslavia"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428082169",
     "date": "1992-04-10",
     "sortDate": "1992-04-10",
@@ -5045,8 +5164,8 @@
     "participants": ["George H. W. Bush", "Leonid Kravchuk"],
     "countries": ["United States", "Ukraine"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 15,
+      "name": "Ukraine"
     },
     "status": "Document found",
     "releaseStatus": "Full",
@@ -5114,8 +5233,8 @@
     "participants": ["George H. W. Bush", "Leonid Kravchuk"],
     "countries": ["United States", "Ukraine"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 15,
+      "name": "Ukraine"
     },
     "status": "Document found",
     "releaseStatus": "Partial",
@@ -5173,31 +5292,6 @@
     ]
   },
   {
-    "id": "yugoslavia-1992-05-30-sanctions",
-    "date": "1992-05-30",
-    "sortDate": "1992-05-30",
-    "type": "Regional diplomacy",
-    "title": "UN sanctions against Serbia and Montenegro",
-    "dateLine": "New York, May 30, 1992",
-    "subjectLine": "Sanctions policy, humanitarian crisis, EC coordination, and enforcement questions.",
-    "countries": ["Serbia and Montenegro", "Yugoslavia", "United States", "Regional Europe"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Declassification priority",
-    "sourceFamily": "Declassification trail",
-    "sourceNote": "Sanctions deliberations may include partial releases and interagency records outside the Bush memcon/telcon stream.",
-    "nextAction": "Search State, NSC, Treasury, UN mission, and EC coordination files for sanctions deliberations and implementation records.",
-    "topics": ["Yugoslavia", "sanctions", "United Nations", "EC coordination"],
-    "links": [
-      {
-        "label": "NARA search",
-        "url": "https://catalog.archives.gov/search?q=Yugoslavia%20sanctions%20May%201992%20Bush"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428082285",
     "date": "1992-07-09",
     "sortDate": "1992-07-09",
@@ -5208,8 +5302,8 @@
     "participants": ["George H. W. Bush", "Leonid Kravchuk"],
     "countries": ["United States", "Ukraine"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 15,
+      "name": "Ukraine"
     },
     "status": "Document found",
     "releaseStatus": "Partial",
@@ -5267,75 +5361,6 @@
     ]
   },
   {
-    "id": "bush-ee-428082301",
-    "date": "1992-07-10",
-    "sortDate": "1992-07-10",
-    "type": "Memcon",
-    "title": "Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania",
-    "dateLine": "July 10, 1992",
-    "subjectLine": "President Bush and Arnold Ruutel",
-    "participants": ["George H. W. Bush", "Arnold Ruutel"],
-    "countries": ["United States", "Estonia"],
-    "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 7/10/1992; Type Memcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428082301. National Archives Catalog item: Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania, NAID 428082301. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 325592621. Digital object: 1992-07-10--Ruutel.pdf, object ID 428082302, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf. Access restriction: Unrestricted. Page count: 6 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": ["Bush Library Memcons and Telcons", "Memcon", "Eastern Europe", "Head of state or government", "Estonia"],
-    "naid": "428082301",
-    "catalogUrl": "https://catalog.archives.gov/id/428082301",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf",
-    "pageCount": 6,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 62,
-      "tableRow": {
-        "date": "7/10/1992",
-        "type": "Memcon",
-        "participants": "Ruutel, Arnold",
-        "country": "Estonia",
-        "status": "Full",
-        "naid": "428082301",
-        "tablePage": 62,
-        "catalogUrl": "https://catalog.archives.gov/id/428082301",
-        "isoDate": "1992-07-10",
-        "rowKey": "1992-07-10-Memcon-428082301"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992",
-      "fileUnitNaid": "325592621",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf",
-      "objectFilename": "1992-07-10--Ruutel.pdf",
-      "objectId": "428082302"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428082301"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428082439",
     "date": "1992-12-24",
     "sortDate": "1992-12-24",
@@ -5346,8 +5371,8 @@
     "participants": ["George H. W. Bush", "Leonid Kravchuk"],
     "countries": ["United States", "Ukraine"],
     "chapter": {
-      "number": 5,
-      "name": "Yugoslavia and Regional"
+      "number": 15,
+      "name": "Ukraine"
     },
     "status": "Document found",
     "releaseStatus": "Full",
