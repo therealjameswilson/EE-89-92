@@ -53,6 +53,21 @@ only when a record has no Catalog identifier.
 The report in `reports/declassified-memcon-telcon-dedup.json` records the
 filtering and deduplication pass.
 
+## Compiler Usability
+
+The page is tuned to FRUS production practice described in the Office of the
+Historian's "About the Series" note:
+
+- Country chapters display only retained memcon/telcon documents.
+- Rows are chronological and carry stable candidate numbers for review.
+- Release status, NAID, Catalog link, PDF link, page count, source note, and
+  next action stay visible in each document packet.
+- Checklist badges flag source-note, Catalog, PDF, page-count, release-status,
+  and conversation-time verification needs.
+- Source-note and citation copy buttons reduce repetitive compiler transcription.
+- Filters support country chapter, document type, release status, and text/NAID
+  search.
+
 ## Source Strategy
 
 This workspace now starts from the Bush Library Memcons and Telcons table,

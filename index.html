@@ -19,6 +19,7 @@
       <nav aria-label="Primary navigation">
         <a href="#chapters">Chapters</a>
         <a href="#sources">Sources</a>
+        <a href="#method">Method</a>
         <a href="#chronology">Documents</a>
         <a href="#dedup">Dedup</a>
       </nav>
@@ -65,8 +66,12 @@
           <p>country chapters</p>
         </div>
         <div>
-          <span id="release-status-count">0</span>
-          <p>release statuses</p>
+          <span id="full-release-count">0</span>
+          <p>full releases</p>
+        </div>
+        <div>
+          <span id="partial-release-count">0</span>
+          <p>partial releases</p>
         </div>
         <div>
           <span id="total-pages">0</span>
@@ -135,6 +140,67 @@
         </div>
       </section>
 
+      <section class="section method-section" id="method" aria-labelledby="method-title">
+        <div class="section-heading">
+          <p class="kicker">FRUS Production Lens</p>
+          <h2 id="method-title">Compiler Checks Built Into the Page</h2>
+        </div>
+        <div class="source-grid">
+          <article>
+            <h3>Chronology</h3>
+            <p>
+              FRUS memcons are placed by the date and time of the conversation,
+              not the drafting date. Rows use the conversation date and flag time
+              verification for PDF review.
+            </p>
+          </article>
+          <article>
+            <h3>Source Note</h3>
+            <p>
+              Each row keeps collection, series, file unit, digital object,
+              access/release status, and page count together for first-footnote
+              preparation.
+            </p>
+          </article>
+          <article>
+            <h3>Declassification</h3>
+            <p>
+              Full and partial releases remain filterable so excisions and page
+              counts can be checked before a record is promoted into a draft.
+            </p>
+          </article>
+          <article>
+            <h3>Annotation</h3>
+            <p>
+              Search spans leaders, countries, NAIDs, topics, source notes, and
+              next actions to help locate related documents and editorial-note
+              leads.
+            </p>
+          </article>
+          <article>
+            <h3>Comprehensive Record</h3>
+            <p>
+              Deduping protects the document list from double-counting while
+              preserving cross-border country metadata for volume-level coverage
+              checks.
+            </p>
+          </article>
+          <article>
+            <h3>Production Speed</h3>
+            <p>
+              Copy buttons generate source-note and citation text directly from
+              the row metadata, reducing repetitive hand transcription.
+            </p>
+          </article>
+        </div>
+        <p class="records-intro method-note">
+          Method source: Office of the Historian,
+          <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries" rel="noreferrer">
+            About the Foreign Relations Series
+          </a>.
+        </p>
+      </section>
+
       <section class="section browse-section" aria-labelledby="browse-title">
         <div class="section-heading">
           <p class="kicker">Finding Map</p>
@@ -176,17 +242,26 @@
               <option value="all">All chapters</option>
             </select>
           </label>
+          <label for="type-filter">
+            <span>Type</span>
+            <select id="type-filter">
+              <option value="all">All types</option>
+            </select>
+          </label>
           <label for="release-filter">
             <span>Release</span>
             <select id="release-filter">
               <option value="all">All releases</option>
             </select>
           </label>
+          <button id="reset-filters" class="button utility" type="button">Reset</button>
         </div>
         <p class="records-intro">
           Rows are sorted chronologically within each country chapter. The dataset
           excludes non-memcon/telcon leads and broader policy scaffolding so the
-          public page stays focused on declassified memcons and telcons.
+          public page stays focused on declassified memcons and telcons. Checklist
+          badges distinguish verified metadata from items that still need PDF-level
+          review.
         </p>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading declassified memcons and telcons...</p>
@@ -253,6 +328,9 @@
             rel="noreferrer"
           >
             FOIA 2000-0429-F finding aid
+          </a>
+          <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries" rel="noreferrer">
+            FRUS production methodology
           </a>
           <a href="reports/declassified-memcon-telcon-dedup.json" rel="noreferrer">
             Declassified memcon/telcon dedup report
