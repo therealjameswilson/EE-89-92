@@ -4133,499 +4133,6 @@ window.EE_RECORDS = [
     ]
   },
   {
-    "id": "bush-ee-428081545",
-    "date": "1991-03-29",
-    "sortDate": "1991-03-29",
-    "type": "Memcon",
-    "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
-    "dateLine": "March 29, 1991",
-    "subjectLine": "President Bush and Arnold Ruutel",
-    "participants": [
-      "George H. W. Bush",
-      "Arnold Ruutel"
-    ],
-    "countries": [
-      "United States",
-      "Estonia"
-    ],
-    "chapter": {
-      "number": 12,
-      "name": "Estonia"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 3/29/1991; Type Memcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428081545. National Archives Catalog item: Meeting with Arnold Ruutel, President of Estonia, March 29, 1991, NAID 428081545. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 325542549. Digital object: 1991-03-29--Ruutel.pdf, object ID 428081546, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf. Access restriction: Unrestricted. Page count: 7 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": [
-      "Bush Library Memcons and Telcons",
-      "Memcon",
-      "Eastern Europe",
-      "Head of state or government",
-      "Estonia"
-    ],
-    "naid": "428081545",
-    "catalogUrl": "https://catalog.archives.gov/id/428081545",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf",
-    "pageCount": 7,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 44,
-      "tableRow": {
-        "date": "3/29/1991",
-        "type": "Memcon",
-        "participants": "Ruutel, Arnold",
-        "country": "Estonia",
-        "status": "Full",
-        "naid": "428081545",
-        "tablePage": 44,
-        "catalogUrl": "https://catalog.archives.gov/id/428081545",
-        "isoDate": "1991-03-29",
-        "rowKey": "1991-03-29-Memcon-428081545"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991",
-      "fileUnitNaid": "325542549",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf",
-      "objectFilename": "1991-03-29--Ruutel.pdf",
-      "objectId": "428081546"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081545"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
-    "id": "bush-ee-428081907",
-    "date": "1991-09-02",
-    "sortDate": "1991-09-02",
-    "type": "Telcon",
-    "title": "Telcon with Estonian President Arnold Ruutel, September 2, 1991",
-    "dateLine": "September 2, 1991",
-    "subjectLine": "President Bush and Arnold Ruutel",
-    "participants": [
-      "George H. W. Bush",
-      "Arnold Ruutel"
-    ],
-    "countries": [
-      "United States",
-      "Estonia"
-    ],
-    "chapter": {
-      "number": 12,
-      "name": "Estonia"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 9/2/1991; Type Telcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428081907. National Archives Catalog item: Telcon with Estonian President Arnold Ruutel, September 2, 1991, NAID 428081907. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Telcon Files, NAID 321498139. File unit: [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  September 1991, NAID 325592662. Digital object: 1991-09-02--Ruutel.pdf, object ID 428081908, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf. Access restriction: Unrestricted. Page count: 3 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": [
-      "Bush Library Memcons and Telcons",
-      "Telcon",
-      "Eastern Europe",
-      "Head of state or government",
-      "Estonia"
-    ],
-    "naid": "428081907",
-    "catalogUrl": "https://catalog.archives.gov/id/428081907",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf",
-    "pageCount": 3,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 52,
-      "tableRow": {
-        "date": "9/2/1991",
-        "type": "Telcon",
-        "participants": "Ruutel, Arnold",
-        "country": "Estonia",
-        "status": "Full",
-        "naid": "428081907",
-        "tablePage": 52,
-        "catalogUrl": "https://catalog.archives.gov/id/428081907",
-        "isoDate": "1991-09-02",
-        "rowKey": "1991-09-02-Telcon-428081907"
-      },
-      "series": "Presidential Telcon Files",
-      "seriesNaid": "321498139",
-      "fileUnitTitle": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  September 1991",
-      "fileUnitNaid": "325592662",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf",
-      "objectFilename": "1991-09-02--Ruutel.pdf",
-      "objectId": "428081908"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081907"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
-    "id": "bush-ee-428082301",
-    "date": "1992-07-10",
-    "sortDate": "1992-07-10",
-    "type": "Memcon",
-    "title": "Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania",
-    "dateLine": "July 10, 1992",
-    "subjectLine": "President Bush and the presidents of Estonia, Latvia, and Lithuania",
-    "participants": [
-      "George H. W. Bush",
-      "Arnold Ruutel",
-      "Anatolijs Gorbunovs",
-      "Vytautas Landsbergis"
-    ],
-    "countries": [
-      "United States",
-      "Estonia",
-      "Latvia",
-      "Lithuania"
-    ],
-    "chapter": {
-      "number": 12,
-      "name": "Estonia"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 7/10/1992; Type Memcon; Participants Ruutel, Arnold; Country Estonia; Release Status Full; NAID 428082301. National Archives Catalog item: Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania, NAID 428082301. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 325592621. Digital object: 1992-07-10--Ruutel.pdf, object ID 428082302, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf. Access restriction: Unrestricted. Page count: 6 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": [
-      "Bush Library Memcons and Telcons",
-      "Memcon",
-      "Eastern Europe",
-      "Head of state or government",
-      "Estonia",
-      "Latvia",
-      "Lithuania",
-      "Baltic independence"
-    ],
-    "naid": "428082301",
-    "catalogUrl": "https://catalog.archives.gov/id/428082301",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf",
-    "pageCount": 6,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 62,
-      "tableRow": {
-        "date": "7/10/1992",
-        "type": "Memcon",
-        "participants": "Ruutel, Arnold",
-        "country": "Estonia",
-        "status": "Full",
-        "naid": "428082301",
-        "tablePage": 62,
-        "catalogUrl": "https://catalog.archives.gov/id/428082301",
-        "isoDate": "1992-07-10",
-        "rowKey": "1992-07-10-Memcon-428082301"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992",
-      "fileUnitNaid": "325592621",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf",
-      "objectFilename": "1992-07-10--Ruutel.pdf",
-      "objectId": "428082302"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428082301"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
-    "id": "bush-ee-428080845",
-    "date": "1990-07-30",
-    "sortDate": "1990-07-30",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990",
-    "dateLine": "July 30, 1990",
-    "subjectLine": "President Bush and Ivars Godmanis",
-    "participants": [
-      "George H. W. Bush",
-      "Ivars Godmanis"
-    ],
-    "countries": [
-      "United States",
-      "Latvia"
-    ],
-    "chapter": {
-      "number": 13,
-      "name": "Latvia"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 7/30/1990; Type Memcon; Participants Godmanis, Ivars; Country Latvia; Release Status Full; NAID 428080845. National Archives Catalog item: Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990, NAID 428080845. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 325541475. Digital object: 1990-07-30--Godmanis.pdf, object ID 428080846, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf. Access restriction: Unrestricted. Page count: 5 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": [
-      "Bush Library Memcons and Telcons",
-      "Memcon",
-      "Eastern Europe",
-      "Head of state or government",
-      "Latvia"
-    ],
-    "naid": "428080845",
-    "catalogUrl": "https://catalog.archives.gov/id/428080845",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf",
-    "pageCount": 5,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 27,
-      "tableRow": {
-        "date": "7/30/1990",
-        "type": "Memcon",
-        "participants": "Godmanis, Ivars",
-        "country": "Latvia",
-        "status": "Full",
-        "naid": "428080845",
-        "tablePage": 27,
-        "catalogUrl": "https://catalog.archives.gov/id/428080845",
-        "isoDate": "1990-07-30",
-        "rowKey": "1990-07-30-Memcon-428080845"
-      },
-      "series": "Presidential Memcon Files",
-      "seriesNaid": "321498039",
-      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
-      "fileUnitNaid": "325541475",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf",
-      "objectFilename": "1990-07-30--Godmanis.pdf",
-      "objectId": "428080846"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428080845"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
-    "id": "bush-ee-428081869",
-    "date": "1991-09-02",
-    "sortDate": "1991-09-02",
-    "type": "Telcon",
-    "title": "Telcon with Latvian President Gorbunovs, September 2, 1991",
-    "dateLine": "September 2, 1991",
-    "subjectLine": "President Bush and Anatoliy Gorbunovs",
-    "participants": [
-      "George H. W. Bush",
-      "Anatoliy Gorbunovs"
-    ],
-    "countries": [
-      "United States",
-      "Latvia"
-    ],
-    "chapter": {
-      "number": 13,
-      "name": "Latvia"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 9/2/1991; Type Telcon; Participants Gorbunovs, Anatoliy; Country Latvia; Release Status Full; NAID 428081869. National Archives Catalog item: Telcon with Latvian President Gorbunovs, September 2, 1991, NAID 428081869. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Telcon Files, NAID 321498139. File unit: [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  September 1991, NAID 325592662. Digital object: 1991-09-02--Gorbunovs.pdf, object ID 428081870, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf. Access restriction: Unrestricted. Page count: 3 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": [
-      "Bush Library Memcons and Telcons",
-      "Telcon",
-      "Eastern Europe",
-      "Head of state or government",
-      "Latvia"
-    ],
-    "naid": "428081869",
-    "catalogUrl": "https://catalog.archives.gov/id/428081869",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf",
-    "pageCount": 3,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 52,
-      "tableRow": {
-        "date": "9/2/1991",
-        "type": "Telcon",
-        "participants": "Gorbunovs, Anatoliy",
-        "country": "Latvia",
-        "status": "Full",
-        "naid": "428081869",
-        "tablePage": 52,
-        "catalogUrl": "https://catalog.archives.gov/id/428081869",
-        "isoDate": "1991-09-02",
-        "rowKey": "1991-09-02-Telcon-428081869"
-      },
-      "series": "Presidential Telcon Files",
-      "seriesNaid": "321498139",
-      "fileUnitTitle": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  September 1991",
-      "fileUnitNaid": "325592662",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf",
-      "objectFilename": "1991-09-02--Gorbunovs.pdf",
-      "objectId": "428081870"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081869"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
-    "id": "bush-ee-428081867",
-    "date": "1991-08-31",
-    "sortDate": "1991-08-31",
-    "type": "Telcon",
-    "title": "Telcon with Lithuanian President Landsbergis on August 31, 1991",
-    "dateLine": "August 31, 1991",
-    "subjectLine": "President Bush and Vytautas Landsbergis",
-    "participants": [
-      "George H. W. Bush",
-      "Vytautas Landsbergis"
-    ],
-    "countries": [
-      "United States",
-      "Lithuania"
-    ],
-    "chapter": {
-      "number": 14,
-      "name": "Lithuania"
-    },
-    "status": "Document found",
-    "releaseStatus": "Full",
-    "coverageRole": "Head of state or government",
-    "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 8/31/1991; Type Telcon; Participants Landsbergis, Vytautas; Country Lithuania; Release Status Full; NAID 428081867. National Archives Catalog item: Telcon with Lithuanian President Landsbergis on August 31, 1991, NAID 428081867. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Telcon Files, NAID 321498139. File unit: [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991, NAID 325592661. Digital object: 1991-08-31--Landsbergis.pdf, object ID 428081868, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf. Access restriction: Unrestricted. Page count: 3 pages, measured from the linked PDF scan with pdfinfo.",
-    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
-    "topics": [
-      "Bush Library Memcons and Telcons",
-      "Telcon",
-      "Eastern Europe",
-      "Head of state or government",
-      "Lithuania"
-    ],
-    "naid": "428081867",
-    "catalogUrl": "https://catalog.archives.gov/id/428081867",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf",
-    "pageCount": 3,
-    "source": {
-      "name": "Records of the National Security Council (George H. W. Bush Administration)",
-      "url": "https://catalog.archives.gov/id/2163580",
-      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
-      "tablePage": 51,
-      "tableRow": {
-        "date": "8/31/1991",
-        "type": "Telcon",
-        "participants": "Landsbergis, Vytautas",
-        "country": "Lithuania",
-        "status": "Full",
-        "naid": "428081867",
-        "tablePage": 51,
-        "catalogUrl": "https://catalog.archives.gov/id/428081867",
-        "isoDate": "1991-08-31",
-        "rowKey": "1991-08-31-Telcon-428081867"
-      },
-      "series": "Presidential Telcon Files",
-      "seriesNaid": "321498139",
-      "fileUnitTitle": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991",
-      "fileUnitNaid": "325592661",
-      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf",
-      "objectFilename": "1991-08-31--Landsbergis.pdf",
-      "objectId": "428081868"
-    },
-    "links": [
-      {
-        "label": "Catalog",
-        "url": "https://catalog.archives.gov/id/428081867"
-      },
-      {
-        "label": "Open PDF",
-        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
-      },
-      {
-        "label": "Bush Library table",
-        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
-      },
-      {
-        "label": "Coverage audit",
-        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
-      }
-    ]
-  },
-  {
     "id": "bush-ee-428081807",
     "date": "1991-08-01",
     "sortDate": "1991-08-01",
@@ -4642,7 +4149,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",
@@ -4723,7 +4230,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",
@@ -4804,7 +4311,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",
@@ -4885,7 +4392,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",
@@ -4966,7 +4473,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",
@@ -5047,7 +4554,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",
@@ -5128,7 +4635,7 @@ window.EE_RECORDS = [
       "Ukraine"
     ],
     "chapter": {
-      "number": 15,
+      "number": 12,
       "name": "Ukraine"
     },
     "status": "Document found",

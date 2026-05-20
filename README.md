@@ -30,10 +30,7 @@ scan with `pdfinfo`.
 9. Croatia
 10. Bosnia and Herzegovina
 11. Serbia and Montenegro
-12. Estonia
-13. Latvia
-14. Lithuania
-15. Ukraine
+12. Ukraine
 
 Only country chapters with retained declassified memcons or telcons appear on
 the public page. Records inside each chapter are arranged chronologically by
@@ -41,9 +38,10 @@ the public page. Records inside each chapter are arranged chronologically by
 
 ## Current Dataset
 
-- 64 retained declassified memcons/telcons
-- 288 counted PDF pages
-- 59 full releases and 5 partial releases
+- 58 retained declassified memcons/telcons
+- 261 counted PDF pages
+- 53 full releases and 5 partial releases
+- 6 Estonia/Latvia/Lithuania records excluded for former-SSR volume scope
 - 0 duplicate document records removed in the current pass
 - 36 scaffolding/candidate records removed from the public chronology
 
@@ -85,7 +83,9 @@ It found 64 Eastern Europe memcon/telcon rows, including 56 head-of-state or
 head-of-government rows and 8 adjacent senior-official or delegation rows. Those
 64 official PDF records total 288 counted pages. The audit also runs a broad
 sanity search for Baltic, Ukraine, and Balkan leader names so cross-border
-records are not missed by strict country labels.
+records are not missed by strict country labels. The public page excludes the
+six Estonia/Latvia/Lithuania records from that audit because former SSR material
+belongs in another volume.
 
 ## Local Preview
 

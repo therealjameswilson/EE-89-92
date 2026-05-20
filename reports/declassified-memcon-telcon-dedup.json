@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-20T00:50:35.403Z",
-  "scope": "Public chronology filtered to declassified/released memcons and telcons only. Event anchors, source-folder leads, presidential trip scaffolding, and regional diplomacy cues are excluded.",
+  "generatedAt": "2026-05-20T09:17:51.736Z",
+  "scope": "Public chronology filtered to declassified/released memcons and telcons only, excluding Estonia, Latvia, and Lithuania because former SSR material belongs in another volume. Event anchors, source-folder leads, presidential trip scaffolding, and regional diplomacy cues are excluded.",
   "deduplicationKey": "NAID first, then PDF URL, then date/type/title fallback.",
   "inputRecords": 100,
   "candidateMemconTelconRecords": 64,
-  "retainedRecords": 64,
-  "retainedPages": 288,
+  "retainedRecords": 58,
+  "retainedPages": 261,
   "duplicatesRemoved": 0,
   "duplicateRecords": [],
   "droppedRecords": {
-    "total": 36,
+    "total": 42,
     "byType": {
       "Event anchor": {
         "records": 21,
@@ -26,23 +26,27 @@
       "Regional diplomacy": {
         "records": 3,
         "pages": 0
+      },
+      "Volume scope exclusion": {
+        "records": 6,
+        "pages": 27
       }
     }
   },
   "retainedByType": {
     "Memcon": {
-      "records": 50,
-      "pages": 233
+      "records": 47,
+      "pages": 215
     },
     "Telcon": {
-      "records": 14,
-      "pages": 55
+      "records": 11,
+      "pages": 46
     }
   },
   "retainedByReleaseStatus": {
     "Full": {
-      "records": 59,
-      "pages": 261
+      "records": 53,
+      "pages": 234
     },
     "Partial": {
       "records": 5,
@@ -74,21 +78,122 @@
       "records": 3,
       "pages": 11
     },
-    "Estonia": {
-      "records": 3,
-      "pages": 16
-    },
-    "Latvia": {
-      "records": 2,
-      "pages": 8
-    },
-    "Lithuania": {
-      "records": 1,
-      "pages": 3
-    },
     "Ukraine": {
       "records": 7,
       "pages": 34
     }
+  },
+  "volumeScopeExclusions": {
+    "rule": "Exclude Estonia, Latvia, and Lithuania from this Eastern Europe volume workspace.",
+    "excludedRecords": 6,
+    "excludedPages": 27,
+    "excludedByChapter": {
+      "Estonia": {
+        "records": 3,
+        "pages": 16
+      },
+      "Latvia": {
+        "records": 2,
+        "pages": 8
+      },
+      "Lithuania": {
+        "records": 1,
+        "pages": 3
+      }
+    },
+    "records": [
+      {
+        "id": "bush-ee-428081545",
+        "naid": "428081545",
+        "date": "1991-03-29",
+        "type": "Memcon",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "countries": [
+          "United States",
+          "Estonia"
+        ],
+        "chapter": "Estonia",
+        "pageCount": 7,
+        "catalogUrl": "https://catalog.archives.gov/id/428081545",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428081907",
+        "naid": "428081907",
+        "date": "1991-09-02",
+        "type": "Telcon",
+        "title": "Telcon with Estonian President Arnold Ruutel, September 2, 1991",
+        "countries": [
+          "United States",
+          "Estonia"
+        ],
+        "chapter": "Estonia",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081907",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428082301",
+        "naid": "428082301",
+        "date": "1992-07-10",
+        "type": "Memcon",
+        "title": "Meeting With Presidents Arnold Ruutel of Estonia, Gorbunovs of Latvia and Landsbergis of Lithuania",
+        "countries": [
+          "United States",
+          "Estonia",
+          "Latvia",
+          "Lithuania"
+        ],
+        "chapter": "Estonia",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428082301",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428080845",
+        "naid": "428080845",
+        "date": "1990-07-30",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Ivars Godmanis of Latvia, July 30, 1990",
+        "countries": [
+          "United States",
+          "Latvia"
+        ],
+        "chapter": "Latvia",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080845",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-30--Godmanis.pdf"
+      },
+      {
+        "id": "bush-ee-428081869",
+        "naid": "428081869",
+        "date": "1991-09-02",
+        "type": "Telcon",
+        "title": "Telcon with Latvian President Gorbunovs, September 2, 1991",
+        "countries": [
+          "United States",
+          "Latvia"
+        ],
+        "chapter": "Latvia",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081869",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf"
+      },
+      {
+        "id": "bush-ee-428081867",
+        "naid": "428081867",
+        "date": "1991-08-31",
+        "type": "Telcon",
+        "title": "Telcon with Lithuanian President Landsbergis on August 31, 1991",
+        "countries": [
+          "United States",
+          "Lithuania"
+        ],
+        "chapter": "Lithuania",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081867",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
+      }
+    ]
   }
 }

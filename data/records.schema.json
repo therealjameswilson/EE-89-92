@@ -55,7 +55,7 @@
         "number": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 15
+          "maximum": 12
         },
         "name": {
           "type": "string",
@@ -71,9 +71,6 @@
             "Croatia",
             "Bosnia and Herzegovina",
             "Serbia and Montenegro",
-            "Estonia",
-            "Latvia",
-            "Lithuania",
             "Ukraine"
           ]
         }

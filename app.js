@@ -55,21 +55,6 @@ const CHAPTERS = [
       "Sanctions, arms embargo questions, Belgrade policy, and Yugoslav conflict diplomacy."
   },
   {
-    name: "Estonia",
-    description:
-      "Restored independence, Ruutel contacts, Baltic recognition, and Soviet collapse boundary records."
-  },
-  {
-    name: "Latvia",
-    description:
-      "Godmanis and Gorbunovs contacts, restored independence, Baltic recognition, and Soviet collapse boundary records."
-  },
-  {
-    name: "Lithuania",
-    description:
-      "Landsbergis contacts, restored independence, Baltic recognition, and Soviet collapse boundary records."
-  },
-  {
     name: "Ukraine",
     description:
       "Kravchuk contacts, independence recognition, nuclear and Soviet succession issues, and post-Soviet transition."
