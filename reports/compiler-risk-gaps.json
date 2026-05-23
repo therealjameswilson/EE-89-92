@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-05-23",
+  "stance": "Compiler-risk pass: identify what could make the public memcon/telcon page misleading if treated as sufficient FRUS coverage.",
+  "currentPublicSet": {
+    "retainedRecords": 50,
+    "retainedPages": 227,
+    "chapters": {
+      "Poland": {
+        "records": 13,
+        "pages": 63
+      },
+      "Hungary": {
+        "records": 14,
+        "pages": 60
+      },
+      "Czechoslovakia": {
+        "records": 18,
+        "pages": 81
+      },
+      "Bulgaria": {
+        "records": 2,
+        "pages": 9
+      },
+      "Romania": {
+        "records": 1,
+        "pages": 3
+      },
+      "East Germany": {
+        "records": 2,
+        "pages": 11
+      }
+    }
+  },
+  "sourceUniverse": {
+    "bushLibraryMemconTelconRows": 66,
+    "bushLibraryMemconTelconPages": 299,
+    "retainedRows": 50,
+    "retainedPages": 227,
+    "adjacentVolumeRowsExcluded": 16,
+    "adjacentVolumePagesExcluded": 72,
+    "scowcroftSourceFoldersCounted": 10,
+    "scowcroftSourceFolderPages": 927
+  },
+  "fixedInThisPass": [
+    {
+      "gap": "East Germany/GDR was absent because the Bush Library table catalogs de Maiziere rows under country Germany.",
+      "resolution": "Added East Germany chapter and retained both June 11, 1990 Lothar de Maiziere memcons.",
+      "recordsAdded": ["428080745", "428080747"],
+      "pagesAdded": 11
+    }
+  ],
+  "remainingGaps": [
+    {
+      "severity": "high",
+      "title": "This is not a comprehensive FRUS source universe",
+      "risk": "The public page is limited to released Bush Library presidential memcons and telcons. It does not cover State Department central files, Executive Secretariat files, embassy files, NSC staff files, intelligence records, Defense/JCS records, or other agencies required for comprehensive FRUS documentation.",
+      "nextAction": "Use this page as a presidential-conversation index only. Build separate searches for State, NSC, post, intelligence, and interagency records before document selection."
+    },
+    {
+      "severity": "high",
+      "title": "Country coverage is sharply uneven",
+      "risk": "Poland, Hungary, and Czechoslovakia dominate the retained set. Bulgaria has 2 records, Romania has 1, and Albania has no retained released Bush presidential memcon/telcon record.",
+      "nextAction": "Treat Bulgaria, Romania, and Albania as active gaps. Search non-presidential collections and source folders for revolution, transition, election, human-rights, aid, and recognition policy records."
+    },
+    {
+      "severity": "high",
+      "title": "Event coverage is incomplete",
+      "risk": "The retained memcons/telcons do not by themselves document the Romanian revolution, Albania's opening, the fall of Zhivkov, Warsaw Pact and CMEA dissolution, Berlin Wall/GDR transition context, or U.S. assistance and recognition policy in depth.",
+      "nextAction": "Create event-level search packets keyed to 1989-1992 turning points and reconcile each event against retained conversations and folder-level leads."
+    },
+    {
+      "severity": "high",
+      "title": "Folder-level leads are not itemized",
+      "risk": "The Scowcroft search identifies 10 relevant source folders totaling 927 pages, but those folders are excluded from the public chronology and have not been itemized into document-level candidates.",
+      "nextAction": "Open and index the 927 pages at item level; promote document-level candidates with date, author, recipients, classification, and page count."
+    },
+    {
+      "severity": "medium",
+      "title": "Source-note metadata still needs PDF verification",
+      "risk": "The page gives FRUS-style source notes, but classification, distribution, drafting information, marginalia, and conversation time remain verification tasks because the scans are image PDFs and have not been keyed page by page.",
+      "nextAction": "Manually review each retained PDF before final selection and key classification, distribution, drafting data, marginalia, excisions, and Washington conversation time."
+    },
+    {
+      "severity": "medium",
+      "title": "Adjacent-volume exclusions are deliberate but material",
+      "risk": "Sixteen declassified memcons/telcons totaling 72 pages are excluded for Estonia, Latvia, Lithuania, Yugoslavia, and Ukraine. They should not be lost; they are adjacent-volume material.",
+      "nextAction": "Keep the exclusions report synchronized and reusable for the former-SSR and Yugoslavia/Ukraine volumes."
+    }
+  ]
+}

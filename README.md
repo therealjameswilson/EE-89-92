@@ -24,6 +24,7 @@ scan with `pdfinfo`.
 3. Czechoslovakia
 4. Bulgaria
 5. Romania
+6. East Germany
 
 Only country chapters with retained declassified memcons or telcons appear on
 the public page. Records inside each chapter are arranged chronologically by
@@ -31,9 +32,9 @@ the public page. Records inside each chapter are arranged chronologically by
 
 ## Current Dataset
 
-- 48 retained declassified memcons/telcons
-- 216 counted PDF pages
-- 46 full releases and 2 partial releases
+- 50 retained declassified memcons/telcons
+- 227 counted PDF pages
+- 48 full releases and 2 partial releases
 - 16 Estonia/Latvia/Lithuania/Yugoslavia/Ukraine records excluded for adjacent-volume scope
 - 0 duplicate document records removed in the current pass
 - 36 scaffolding/candidate records removed from the public chronology
@@ -42,7 +43,8 @@ Deduplication uses NAID first, PDF URL second, and a date/type/title fallback
 only when a record has no Catalog identifier.
 
 The report in `reports/declassified-memcon-telcon-dedup.json` records the
-filtering and deduplication pass.
+filtering and deduplication pass. The report in
+`reports/compiler-risk-gaps.json` records remaining compiler-risk gaps.
 
 ## Compiler Usability
 
@@ -75,13 +77,13 @@ research, but source folders are no longer part of `data/records.json`.
 
 The report in `reports/bush-eastern-europe-leader-memcon-telcon-audit.json`
 records a full pass through the Bush Library public Memcons and Telcons table.
-It found 64 Eastern Europe memcon/telcon rows, including 56 head-of-state or
+It found 66 Eastern Europe memcon/telcon rows, including 58 head-of-state or
 head-of-government rows and 8 adjacent senior-official or delegation rows. Those
-64 official PDF records total 288 counted pages. The audit also runs a broad
-sanity search for Baltic, Ukraine, and Balkan leader names so cross-border
-records are not missed by strict country labels. The public page excludes the
-Estonia/Latvia/Lithuania, Yugoslavia, and Ukraine records from that audit
-because they belong in adjacent volume scopes.
+66 official PDF records total 299 counted pages. The audit also runs a broad
+sanity search for Baltic, Ukraine, Balkan, and East Germany/GDR leader names so
+cross-border records are not missed by strict country labels. The public page
+excludes the Estonia/Latvia/Lithuania, Yugoslavia, and Ukraine records from that
+audit because they belong in adjacent volume scopes.
 
 ## Local Preview
 

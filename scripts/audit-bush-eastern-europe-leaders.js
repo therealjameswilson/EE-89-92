@@ -14,7 +14,10 @@ const EASTERN_EUROPE_COUNTRIES = new Set([
   "Czech Republic",
   "Czech and Slovak Federal Republic",
   "Czechoslovakia",
+  "East Germany",
   "Estonia",
+  "German Democratic Republic",
+  "GDR",
   "Hungary",
   "Latvia",
   "Lithuania",
@@ -37,6 +40,7 @@ const LEADER_ALIASES = {
   Croatia: ["Tudjman"],
   "Czech Republic": ["Havel", "Klaus"],
   Czechoslovakia: ["Havel", "Dubcek", "Calfa"],
+  "German Democratic Republic": ["Honecker", "Krenz", "Modrow", "Maiziere", "de Maiziere"],
   Estonia: ["Ruutel"],
   Hungary: ["Goncz", "Grosz", "Nemeth", "Antall", "Szűrös", "Szuros"],
   Latvia: ["Godmanis", "Gorbunovs"],
@@ -58,16 +62,23 @@ const BROAD_SANITY_TERMS = [
   "Berisha",
   "Bosnia",
   "Croatia",
+  "East Germany",
   "Estonia",
+  "GDR",
+  "German Democratic Republic",
   "Gligorov",
+  "Honecker",
   "Izetbegovic",
+  "Krenz",
   "Kravchuk",
   "Kucan",
   "Landsbergis",
   "Latvia",
   "Lithuania",
   "Macedonia",
+  "Maiziere",
   "Milosevic",
+  "Modrow",
   "Serbia",
   "Slovenia",
   "Tudjman",
@@ -145,6 +156,9 @@ async function fetchText(url) {
 }
 
 async function main() {
+  const existingReport = fs.existsSync(REPORT_PATH)
+    ? JSON.parse(fs.readFileSync(REPORT_PATH, "utf8"))
+    : {};
   const allRows = [];
   const relevantRows = [];
 
@@ -195,7 +209,8 @@ async function main() {
       totalRows: broadSanityRows.length,
       notAlreadyIncluded: broadSanityRows.filter((row) => !row.alreadyIncluded)
     },
-    rows: normalizedRows
+    rows: normalizedRows,
+    ...(existingReport.harvestedRecords ? { harvestedRecords: existingReport.harvestedRecords } : {})
   };
 
   fs.mkdirSync(path.dirname(REPORT_PATH), { recursive: true });

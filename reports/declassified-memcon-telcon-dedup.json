@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-20T09:26:05.825Z",
+  "generatedAt": "2026-05-23T13:33:51.690Z",
   "scope": "Public chronology filtered to declassified/released memcons and telcons only, excluding Estonia, Latvia, Lithuania, Yugoslavia, and Ukraine for adjacent-volume scope. Event anchors, source-folder leads, presidential trip scaffolding, and regional diplomacy cues are excluded.",
   "deduplicationKey": "NAID first, then PDF URL, then date/type/title fallback.",
-  "inputRecords": 100,
-  "candidateMemconTelconRecords": 64,
-  "retainedRecords": 48,
-  "retainedPages": 216,
+  "inputRecords": 102,
+  "candidateMemconTelconRecords": 66,
+  "retainedRecords": 50,
+  "retainedPages": 227,
   "duplicatesRemoved": 0,
   "duplicateRecords": [],
   "droppedRecords": {
@@ -35,8 +35,8 @@
   },
   "retainedByType": {
     "Memcon": {
-      "records": 41,
-      "pages": 184
+      "records": 43,
+      "pages": 195
     },
     "Telcon": {
       "records": 7,
@@ -45,8 +45,8 @@
   },
   "retainedByReleaseStatus": {
     "Full": {
-      "records": 46,
-      "pages": 206
+      "records": 48,
+      "pages": 217
     },
     "Partial": {
       "records": 2,
@@ -73,6 +73,10 @@
     "Romania": {
       "records": 1,
       "pages": 3
+    },
+    "East Germany": {
+      "records": 2,
+      "pages": 11
     }
   },
   "volumeScopeExclusions": {

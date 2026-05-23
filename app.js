@@ -23,6 +23,11 @@ const CHAPTERS = [
     name: "Romania",
     description:
       "Ceausescu's fall, elections, Iliescu-era transition, credentials, human rights, and assistance questions."
+  },
+  {
+    name: "East Germany",
+    description:
+      "German Democratic Republic transition diplomacy, de Maiziere contacts, and unification-era Eastern Europe implications."
   }
 ];
 

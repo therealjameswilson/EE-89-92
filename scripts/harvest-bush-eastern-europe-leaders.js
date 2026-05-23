@@ -33,7 +33,11 @@ const CHAPTER_ALIASES = [
     countries: ["Romania"]
   },
   {
-    chapter: { number: 6, name: "Albania" },
+    chapter: { number: 6, name: "East Germany" },
+    countries: ["German Democratic Republic", "East Germany", "GDR", "Germany"]
+  },
+  {
+    chapter: { number: 7, name: "Albania" },
     countries: ["Albania"]
   },
   {
@@ -79,6 +83,7 @@ const HEAD_OF_STATE_OR_GOVERNMENT_TERMS = [
   "Bielecki",
   "Calfa",
   "Dimitrov",
+  "De Maiziere",
   "Drnovsek",
   "Godmanis",
   "Gorbunovs",
@@ -159,7 +164,12 @@ function participantDisplay(tableName) {
 function countryList(rowCountry) {
   const countries = rowCountry
     .split(",")
-    .map((country) => (country.trim() === "Ukrainian" ? "Ukraine" : country.trim()))
+    .map((country) => {
+      const trimmed = country.trim();
+      if (trimmed === "Ukrainian") return "Ukraine";
+      if (trimmed === "Germany") return "German Democratic Republic";
+      return trimmed;
+    })
     .filter(Boolean);
   return [...new Set(["United States", ...countries])];
 }
@@ -245,7 +255,11 @@ function pageCount(pdfPath) {
 }
 
 function cleanFileUnitTitle(title = "") {
-  return title.replace(/^\[(.*)\](:?\s*)/, "$1$2").replace(/\s+/g, " ").trim();
+  return title
+    .replace(/^\[(.*)\](:?\s*)/, "$1$2")
+    .replace(/\)\s*-\s*/g, ") - ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function releasePhrase(status = "") {

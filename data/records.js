@@ -428,7 +428,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: March 1990. National Archives Catalog, NAID 428080591; digital object 1990-03-21--Mazowiecki-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: March 1990. National Archives Catalog, NAID 428080591; digital object 1990-03-21--Mazowiecki-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -509,7 +509,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: March 1990. National Archives Catalog, NAID 428080589; digital object 1990-03-21--Mazowiecki-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: March 1990. National Archives Catalog, NAID 428080589; digital object 1990-03-21--Mazowiecki-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -590,7 +590,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: March 1990. National Archives Catalog, NAID 428080593; digital object 1990-03-22--Mazowiecki.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: March 1990. National Archives Catalog, NAID 428080593; digital object 1990-03-22--Mazowiecki.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -671,7 +671,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: September 1990. National Archives Catalog, NAID 428081081; digital object 1990-09-29--Mazowiecki.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: September 1990. National Archives Catalog, NAID 428081081; digital object 1990-09-29--Mazowiecki.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -752,7 +752,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1991-June 1991: March 1991. National Archives Catalog, NAID 428081539; digital object 1991-03-20--Walesa.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1991-June 1991: March 1991. National Archives Catalog, NAID 428081539; digital object 1991-03-20--Walesa.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -914,7 +914,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1991-December 1991: September 1991. National Archives Catalog, NAID 428081875; digital object 1991-09-11--Bielecki.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1991-December 1991: September 1991. National Archives Catalog, NAID 428081875; digital object 1991-09-11--Bielecki.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -995,7 +995,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1992-June 1992: April 1992. National Archives Catalog, NAID 428082159; digital object 1992-04-13--Olszewski.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1992-June 1992: April 1992. National Archives Catalog, NAID 428082159; digital object 1992-04-13--Olszewski.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -1562,7 +1562,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: May 1990. National Archives Catalog, NAID 428080701; digital object 1990-05-18--Goncz.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: May 1990. National Archives Catalog, NAID 428080701; digital object 1990-05-18--Goncz.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -1643,7 +1643,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: October 1990. National Archives Catalog, NAID 428081125; digital object 1990-10-18--Antall-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: October 1990. National Archives Catalog, NAID 428081125; digital object 1990-10-18--Antall-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -1724,7 +1724,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: October 1990. National Archives Catalog, NAID 428081127; digital object 1990-10-18--Antall-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: October 1990. National Archives Catalog, NAID 428081127; digital object 1990-10-18--Antall-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -1805,7 +1805,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1991-June 1991: May 1991. National Archives Catalog, NAID 428081677; digital object 1991-05-23--Goncz.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1991-June 1991: May 1991. National Archives Catalog, NAID 428081677; digital object 1991-05-23--Goncz.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2131,7 +2131,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1992-December 1992: July 1992. National Archives Catalog, NAID 428082299; digital object 1992-07-10--Antall.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1992-December 1992: July 1992. National Archives Catalog, NAID 428082299; digital object 1992-07-10--Antall.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2212,7 +2212,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080527; digital object 1990-02-20--Havel-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080527; digital object 1990-02-20--Havel-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2293,7 +2293,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080529; digital object 1990-02-20--Havel-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080529; digital object 1990-02-20--Havel-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2374,7 +2374,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080531; digital object 1990-02-20--Havel-3.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080531; digital object 1990-02-20--Havel-3.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2455,7 +2455,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080535; digital object 1990-02-21--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: February 1990. National Archives Catalog, NAID 428080535; digital object 1990-02-21--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2536,7 +2536,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: September 1990. National Archives Catalog, NAID 428081089; digital object 1990-09-30--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: September 1990. National Archives Catalog, NAID 428081089; digital object 1990-09-30--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2617,7 +2617,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081179; digital object 1990-11-17--Czech-Leaders.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081179; digital object 1990-11-17--Czech-Leaders.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2698,7 +2698,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081181; digital object 1990-11-17--Federal-Leaders.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081181; digital object 1990-11-17--Federal-Leaders.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2779,7 +2779,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081183; digital object 1990-11-17--Havel-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081183; digital object 1990-11-17--Havel-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2860,7 +2860,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081187; digital object 1990-11-17--Slovak-Leaders.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081187; digital object 1990-11-17--Slovak-Leaders.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -2941,7 +2941,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081185; digital object 1990-11-17--Havel-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081185; digital object 1990-11-17--Havel-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3022,7 +3022,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081189; digital object 1990-11-18--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: November 1990. National Archives Catalog, NAID 428081189; digital object 1990-11-18--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3265,7 +3265,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Senior official or delegation",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1991-June 1991: April 1991. National Archives Catalog, NAID 428081583; digital object 1991-04-16--Dienstbier.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1991-June 1991: April 1991. National Archives Catalog, NAID 428081583; digital object 1991-04-16--Dienstbier.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3427,7 +3427,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1991-December 1991: October 1991. National Archives Catalog, NAID 428081983; digital object 1991-10-22--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1991-December 1991: October 1991. National Archives Catalog, NAID 428081983; digital object 1991-10-22--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3508,7 +3508,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1992-June 1992: April 1992. National Archives Catalog, NAID 428082157; digital object 1992-04-10--Calfa.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1992-June 1992: April 1992. National Archives Catalog, NAID 428082157; digital object 1992-04-10--Calfa.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3589,7 +3589,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1992-December 1992: July 1992. National Archives Catalog, NAID 428082287; digital object 1992-07-09--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1992-December 1992: July 1992. National Archives Catalog, NAID 428082287; digital object 1992-07-09--Havel.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3670,7 +3670,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-July 1990-December 1990: September 1990. National Archives Catalog, NAID 428081041; digital object 1990-09-28--Zhelev.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - July 1990-December 1990: September 1990. National Archives Catalog, NAID 428081041; digital object 1990-09-28--Zhelev.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3751,7 +3751,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Head of state or government",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1992-June 1992: March 1992. National Archives Catalog, NAID 428082137; digital object 1992-03-03--Dimitrov.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1992-June 1992: March 1992. National Archives Catalog, NAID 428082137; digital object 1992-03-03--Dimitrov.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3832,7 +3832,7 @@ window.EE_RECORDS = [
     "releaseStatus": "Full",
     "coverageRole": "Senior official or delegation",
     "sourceFamily": "Bush Library memcons/telcons",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons)-January 1992-June 1992: May 1992. National Archives Catalog, NAID 428082181; digital object 1992-05-05--Munteanu.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1992-June 1992: May 1992. National Archives Catalog, NAID 428082181; digital object 1992-05-05--Munteanu.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
     "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
     "topics": [
       "Bush Library Memcons and Telcons",
@@ -3878,6 +3878,170 @@ window.EE_RECORDS = [
       {
         "label": "Open PDF",
         "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-05--Munteanu.pdf"
+      },
+      {
+        "label": "Bush Library table",
+        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+      },
+      {
+        "label": "Coverage audit",
+        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
+    "id": "bush-ee-428080747",
+    "date": "1990-06-11",
+    "sortDate": "1990-06-11",
+    "type": "Memcon",
+    "title": "Luncheon Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (2 of 2)",
+    "dateLine": "June 11, 1990",
+    "subjectLine": "President Bush and Lothar de Maiziere",
+    "participants": [
+      "George H. W. Bush",
+      "Lothar de Maiziere"
+    ],
+    "countries": [
+      "United States",
+      "German Democratic Republic"
+    ],
+    "chapter": {
+      "number": 6,
+      "name": "East Germany"
+    },
+    "status": "Document found",
+    "releaseStatus": "Full",
+    "coverageRole": "Head of state or government",
+    "sourceFamily": "Bush Library memcons/telcons",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: June 1990. National Archives Catalog, NAID 428080747; digital object 1990-06-11--de-Maiziere-2.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
+    "topics": [
+      "Bush Library Memcons and Telcons",
+      "Memcon",
+      "Eastern Europe",
+      "Head of state or government",
+      "East Germany",
+      "German Democratic Republic"
+    ],
+    "naid": "428080747",
+    "catalogUrl": "https://catalog.archives.gov/id/428080747",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf",
+    "pageCount": 6,
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+      "tablePage": 25,
+      "tableRow": {
+        "date": "6/11/1990",
+        "type": "Memcon",
+        "participants": "De Maiziere, Lothar",
+        "country": "Germany",
+        "status": "Full",
+        "naid": "428080747",
+        "tablePage": 25,
+        "catalogUrl": "https://catalog.archives.gov/id/428080747",
+        "isoDate": "1990-06-11",
+        "rowKey": "1990-06-11-Memcon-428080747"
+      },
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+      "fileUnitNaid": "325541473",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf",
+      "objectFilename": "1990-06-11--de-Maiziere-2.pdf",
+      "objectId": "428080748"
+    },
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/428080747"
+      },
+      {
+        "label": "Open PDF",
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf"
+      },
+      {
+        "label": "Bush Library table",
+        "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
+      },
+      {
+        "label": "Coverage audit",
+        "url": "reports/bush-eastern-europe-leader-memcon-telcon-audit.json"
+      }
+    ]
+  },
+  {
+    "id": "bush-ee-428080745",
+    "date": "1990-06-11",
+    "sortDate": "1990-06-11",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (1 of 2)",
+    "dateLine": "June 11, 1990",
+    "subjectLine": "President Bush and Lothar de Maiziere",
+    "participants": [
+      "George H. W. Bush",
+      "Lothar de Maiziere"
+    ],
+    "countries": [
+      "United States",
+      "German Democratic Republic"
+    ],
+    "chapter": {
+      "number": 6,
+      "name": "East Germany"
+    },
+    "status": "Document found",
+    "releaseStatus": "Full",
+    "coverageRole": "Head of state or government",
+    "sourceFamily": "Bush Library memcons/telcons",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H.W. Bush Administration), Presidential Memcon Files, Memorandum of Conversations (Memcons) - January 1990-June 1990: June 1990. National Archives Catalog, NAID 428080745; digital object 1990-06-11--de-Maiziere-1.pdf. Full release. Classification, distribution, drafting information, marginalia, and conversation time remain to be verified against the PDF scan.",
+    "nextAction": "Review the linked PDF, verify page-level provenance and context, and decide whether this item should be promoted into the final FRUS document sequence.",
+    "topics": [
+      "Bush Library Memcons and Telcons",
+      "Memcon",
+      "Eastern Europe",
+      "Head of state or government",
+      "East Germany",
+      "German Democratic Republic"
+    ],
+    "naid": "428080745",
+    "catalogUrl": "https://catalog.archives.gov/id/428080745",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf",
+    "pageCount": 5,
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+      "tablePage": 25,
+      "tableRow": {
+        "date": "6/11/1990",
+        "type": "Memcon",
+        "participants": "De Maiziere, Lothar",
+        "country": "Germany",
+        "status": "Full",
+        "naid": "428080745",
+        "tablePage": 25,
+        "catalogUrl": "https://catalog.archives.gov/id/428080745",
+        "isoDate": "1990-06-11",
+        "rowKey": "1990-06-11-Memcon-428080745"
+      },
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "fileUnitTitle": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+      "fileUnitNaid": "325541473",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf",
+      "objectFilename": "1990-06-11--de-Maiziere-1.pdf",
+      "objectId": "428080746"
+    },
+    "links": [
+      {
+        "label": "Catalog",
+        "url": "https://catalog.archives.gov/id/428080745"
+      },
+      {
+        "label": "Open PDF",
+        "url": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf"
       },
       {
         "label": "Bush Library table",

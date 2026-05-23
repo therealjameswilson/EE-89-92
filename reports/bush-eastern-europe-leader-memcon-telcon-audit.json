@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-05-19T22:03:37.854Z",
+  "generatedAt": "2026-05-23T13:31:39.358Z",
   "source": {
     "name": "George H. W. Bush Presidential Library Memcons and Telcons table",
     "url": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons"
   },
   "scope": "All table rows with Type Memcon or Telcon and an Eastern Europe country/leader signal. This is the authoritative Bush Library public table pass before item-level Catalog enrichment.",
   "totalTableRows": 1365,
-  "totalEasternEuropeLeaderRows": 64,
+  "totalEasternEuropeLeaderRows": 66,
   "rowsByCountry": {
     "Bulgaria": 2,
     "Czech and Slovak Federal Republic": 1,
     "Czechoslovakia": 16,
     "Estonia": 3,
+    "Germany": 2,
     "Hungary": 13,
     "Hungary, Canada": 1,
     "Latvia": 2,
@@ -30,22 +31,29 @@
       "Berisha",
       "Bosnia",
       "Croatia",
+      "East Germany",
       "Estonia",
+      "GDR",
+      "German Democratic Republic",
       "Gligorov",
+      "Honecker",
       "Izetbegovic",
+      "Krenz",
       "Kravchuk",
       "Kucan",
       "Landsbergis",
       "Latvia",
       "Lithuania",
       "Macedonia",
+      "Maiziere",
       "Milosevic",
+      "Modrow",
       "Serbia",
       "Slovenia",
       "Tudjman",
       "Ukraine"
     ],
-    "totalRows": 13,
+    "totalRows": 15,
     "notAlreadyIncluded": []
   },
   "rows": [
@@ -288,6 +296,30 @@
       "catalogUrl": "https://catalog.archives.gov/id/428080701",
       "isoDate": "1990-05-18",
       "rowKey": "1990-05-18-Memcon-428080701"
+    },
+    {
+      "date": "6/11/1990",
+      "type": "Memcon",
+      "participants": "De Maiziere, Lothar",
+      "country": "Germany",
+      "status": "Full",
+      "naid": "428080745",
+      "tablePage": 25,
+      "catalogUrl": "https://catalog.archives.gov/id/428080745",
+      "isoDate": "1990-06-11",
+      "rowKey": "1990-06-11-Memcon-428080745"
+    },
+    {
+      "date": "6/11/1990",
+      "type": "Memcon",
+      "participants": "De Maiziere, Lothar",
+      "country": "Germany",
+      "status": "Full",
+      "naid": "428080747",
+      "tablePage": 25,
+      "catalogUrl": "https://catalog.archives.gov/id/428080747",
+      "isoDate": "1990-06-11",
+      "rowKey": "1990-06-11-Memcon-428080747"
     },
     {
       "date": "7/30/1990",
@@ -820,8 +852,8 @@
   ],
   "harvestedRecords": {
     "generatedAt": "2026-05-19T22:04:26.084Z",
-    "totalRecords": 64,
-    "totalPages": 288,
+    "totalRecords": 66,
+    "totalPages": 299,
     "headOfStateOrGovernmentRows": 56,
     "seniorOfficialOrDelegationRows": 8,
     "records": [
@@ -911,23 +943,6 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-11--Straub.pdf"
       },
       {
-        "id": "bush-ee-428080091",
-        "naid": "428080091",
-        "date": "1989-07-12",
-        "type": "Memcon",
-        "title": "Meeting with Miklos Nemeth, Prime Minister of Hungary",
-        "countries": [
-          "United States",
-          "Hungary"
-        ],
-        "chapter": "Hungary",
-        "coverageRole": "Head of state or government",
-        "releaseStatus": "Full",
-        "pageCount": 5,
-        "catalogUrl": "https://catalog.archives.gov/id/428080091",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-12--Nemeth.pdf"
-      },
-      {
         "id": "bush-ee-428080093",
         "naid": "428080093",
         "date": "1989-07-12",
@@ -945,21 +960,21 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-12--Poszgay.pdf"
       },
       {
-        "id": "bush-ee-428080195",
-        "naid": "428080195",
-        "date": "1989-09-25",
+        "id": "bush-ee-428080091",
+        "naid": "428080091",
+        "date": "1989-07-12",
         "type": "Memcon",
-        "title": "Meeting with President Janez Drnovsek of Yugoslavia, September 25, 1989",
+        "title": "Meeting with Miklos Nemeth, Prime Minister of Hungary",
         "countries": [
           "United States",
-          "Yugoslavia"
+          "Hungary"
         ],
-        "chapter": "Yugoslavia",
+        "chapter": "Hungary",
         "coverageRole": "Head of state or government",
         "releaseStatus": "Full",
-        "pageCount": 3,
-        "catalogUrl": "https://catalog.archives.gov/id/428080195",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Drnovsek.pdf"
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080091",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-12--Nemeth.pdf"
       },
       {
         "id": "bush-ee-428080225",
@@ -994,6 +1009,23 @@
         "pageCount": 3,
         "catalogUrl": "https://catalog.archives.gov/id/428080233",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Skubiszewski.pdf"
+      },
+      {
+        "id": "bush-ee-428080195",
+        "naid": "428080195",
+        "date": "1989-09-25",
+        "type": "Memcon",
+        "title": "Meeting with President Janez Drnovsek of Yugoslavia, September 25, 1989",
+        "countries": [
+          "United States",
+          "Yugoslavia"
+        ],
+        "chapter": "Yugoslavia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428080195",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Drnovsek.pdf"
       },
       {
         "id": "bush-ee-428080279",
@@ -1098,23 +1130,6 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-21--Havel.pdf"
       },
       {
-        "id": "bush-ee-428080589",
-        "naid": "428080589",
-        "date": "1990-03-21",
-        "type": "Memcon",
-        "title": "Meeting with Prime Minister Tadeusz Mazowiecki of Poland, March 21, 1990 (1 of 2)",
-        "countries": [
-          "United States",
-          "Poland"
-        ],
-        "chapter": "Poland",
-        "coverageRole": "Head of state or government",
-        "releaseStatus": "Full",
-        "pageCount": 5,
-        "catalogUrl": "https://catalog.archives.gov/id/428080589",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-21--Mazowiecki-1.pdf"
-      },
-      {
         "id": "bush-ee-428080591",
         "naid": "428080591",
         "date": "1990-03-21",
@@ -1130,6 +1145,23 @@
         "pageCount": 4,
         "catalogUrl": "https://catalog.archives.gov/id/428080591",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-21--Mazowiecki-2.pdf"
+      },
+      {
+        "id": "bush-ee-428080589",
+        "naid": "428080589",
+        "date": "1990-03-21",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Tadeusz Mazowiecki of Poland, March 21, 1990 (1 of 2)",
+        "countries": [
+          "United States",
+          "Poland"
+        ],
+        "chapter": "Poland",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080589",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-21--Mazowiecki-1.pdf"
       },
       {
         "id": "bush-ee-428080593",
@@ -1164,6 +1196,40 @@
         "pageCount": 5,
         "catalogUrl": "https://catalog.archives.gov/id/428080701",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-18--Goncz.pdf"
+      },
+      {
+        "id": "bush-ee-428080747",
+        "naid": "428080747",
+        "date": "1990-06-11",
+        "type": "Memcon",
+        "title": "Luncheon Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (2 of 2)",
+        "countries": [
+          "United States",
+          "German Democratic Republic"
+        ],
+        "chapter": "East Germany",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 6,
+        "catalogUrl": "https://catalog.archives.gov/id/428080747",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf"
+      },
+      {
+        "id": "bush-ee-428080745",
+        "naid": "428080745",
+        "date": "1990-06-11",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (1 of 2)",
+        "countries": [
+          "United States",
+          "German Democratic Republic"
+        ],
+        "chapter": "East Germany",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428080745",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf"
       },
       {
         "id": "bush-ee-428080845",
@@ -1336,23 +1402,6 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-1.pdf"
       },
       {
-        "id": "bush-ee-428081185",
-        "naid": "428081185",
-        "date": "1990-11-17",
-        "type": "Memcon",
-        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
-        "countries": [
-          "United States",
-          "Czechoslovakia"
-        ],
-        "chapter": "Czechoslovakia",
-        "coverageRole": "Head of state or government",
-        "releaseStatus": "Full",
-        "pageCount": 5,
-        "catalogUrl": "https://catalog.archives.gov/id/428081185",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-2.pdf"
-      },
-      {
         "id": "bush-ee-428081187",
         "naid": "428081187",
         "date": "1990-11-17",
@@ -1368,6 +1417,23 @@
         "pageCount": 3,
         "catalogUrl": "https://catalog.archives.gov/id/428081187",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Slovak-Leaders.pdf"
+      },
+      {
+        "id": "bush-ee-428081185",
+        "naid": "428081185",
+        "date": "1990-11-17",
+        "type": "Memcon",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428081185",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-2.pdf"
       },
       {
         "id": "bush-ee-428081189",
@@ -1540,23 +1606,6 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Antall.pdf"
       },
       {
-        "id": "bush-ee-428081823",
-        "naid": "428081823",
-        "date": "1991-08-19",
-        "type": "Telcon",
-        "title": "Telcon with Vaclav Havel, President of Czechoslovakia, August 19, 1991",
-        "countries": [
-          "United States",
-          "Czechoslovakia"
-        ],
-        "chapter": "Czechoslovakia",
-        "coverageRole": "Head of state or government",
-        "releaseStatus": "Full",
-        "pageCount": 4,
-        "catalogUrl": "https://catalog.archives.gov/id/428081823",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Havel.pdf"
-      },
-      {
         "id": "bush-ee-428081815",
         "naid": "428081815",
         "date": "1991-08-19",
@@ -1572,6 +1621,23 @@
         "pageCount": 3,
         "catalogUrl": "https://catalog.archives.gov/id/428081815",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Walesa.pdf"
+      },
+      {
+        "id": "bush-ee-428081823",
+        "naid": "428081823",
+        "date": "1991-08-19",
+        "type": "Telcon",
+        "title": "Telcon with Vaclav Havel, President of Czechoslovakia, August 19, 1991",
+        "countries": [
+          "United States",
+          "Czechoslovakia"
+        ],
+        "chapter": "Czechoslovakia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 4,
+        "catalogUrl": "https://catalog.archives.gov/id/428081823",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-19--Havel.pdf"
       },
       {
         "id": "bush-ee-428081853",
@@ -1609,23 +1675,6 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-31--Landsbergis.pdf"
       },
       {
-        "id": "bush-ee-428081869",
-        "naid": "428081869",
-        "date": "1991-09-02",
-        "type": "Telcon",
-        "title": "Telcon with Latvian President Gorbunovs, September 2, 1991",
-        "countries": [
-          "United States",
-          "Latvia"
-        ],
-        "chapter": "Latvia",
-        "coverageRole": "Head of state or government",
-        "releaseStatus": "Full",
-        "pageCount": 3,
-        "catalogUrl": "https://catalog.archives.gov/id/428081869",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf"
-      },
-      {
         "id": "bush-ee-428081907",
         "naid": "428081907",
         "date": "1991-09-02",
@@ -1641,6 +1690,23 @@
         "pageCount": 3,
         "catalogUrl": "https://catalog.archives.gov/id/428081907",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428081869",
+        "naid": "428081869",
+        "date": "1991-09-02",
+        "type": "Telcon",
+        "title": "Telcon with Latvian President Gorbunovs, September 2, 1991",
+        "countries": [
+          "United States",
+          "Latvia"
+        ],
+        "chapter": "Latvia",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 3,
+        "catalogUrl": "https://catalog.archives.gov/id/428081869",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-02--Gorbunovs.pdf"
       },
       {
         "id": "bush-ee-428081875",
@@ -1864,23 +1930,6 @@
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-09--Kravchuk.pdf"
       },
       {
-        "id": "bush-ee-428082299",
-        "naid": "428082299",
-        "date": "1992-07-10",
-        "type": "Memcon",
-        "title": "Meeting with Prime Minister Antall of Hungary, July 10, 1992",
-        "countries": [
-          "United States",
-          "Hungary"
-        ],
-        "chapter": "Hungary",
-        "coverageRole": "Head of state or government",
-        "releaseStatus": "Full",
-        "pageCount": 5,
-        "catalogUrl": "https://catalog.archives.gov/id/428082299",
-        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Antall.pdf"
-      },
-      {
         "id": "bush-ee-428082301",
         "naid": "428082301",
         "date": "1992-07-10",
@@ -1898,6 +1947,23 @@
         "pageCount": 6,
         "catalogUrl": "https://catalog.archives.gov/id/428082301",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Ruutel.pdf"
+      },
+      {
+        "id": "bush-ee-428082299",
+        "naid": "428082299",
+        "date": "1992-07-10",
+        "type": "Memcon",
+        "title": "Meeting with Prime Minister Antall of Hungary, July 10, 1992",
+        "countries": [
+          "United States",
+          "Hungary"
+        ],
+        "chapter": "Hungary",
+        "coverageRole": "Head of state or government",
+        "releaseStatus": "Full",
+        "pageCount": 5,
+        "catalogUrl": "https://catalog.archives.gov/id/428082299",
+        "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-10--Antall.pdf"
       },
       {
         "id": "bush-ee-428082439",
