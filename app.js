@@ -321,6 +321,149 @@ function createSourceDetails(record) {
   return details;
 }
 
+// BEGIN PRESIDENTIAL CITATION CROSS-CHECK
+let bushCitationAuditPromise;
+function loadBushCitationAudit() {
+  if (!bushCitationAuditPromise) {
+    bushCitationAuditPromise = fetch("data/bush-presidential-citation-matches.json?v=20261031")
+      .then(response => {
+        if (!response.ok) throw new Error("Citation cross-check unavailable");
+        return response.json();
+      })
+      .then(audit => {
+        if (audit.schemaVersion !== 1 || !audit.matchesByRecordId) throw new Error("Citation cross-check format unavailable");
+        return audit;
+      })
+      .catch(error => { bushCitationAuditPromise = undefined; throw error; });
+  }
+  return bushCitationAuditPromise;
+}
+function bushCitationText(tag, text, className = "") {
+  const node = document.createElement(tag);
+  node.textContent = text;
+  if (className) node.className = className;
+  return node;
+}
+function bushCitationLink(text, href) {
+  const node = bushCitationText("a", text);
+  node.href = href;
+  node.target = "_blank";
+  node.rel = "noopener noreferrer";
+  return node;
+}
+async function copyBushCitationSource(text) {
+  if (navigator.clipboard?.writeText) {
+    try { await navigator.clipboard.writeText(text); return; } catch { /* Use the fallback below. */ }
+  }
+  const field = document.createElement("textarea");
+  field.value = text;
+  field.readOnly = true;
+  field.style.position = "fixed";
+  field.style.left = "-9999px";
+  document.body.append(field);
+  try {
+    field.select();
+    if (!document.execCommand("copy")) throw new Error("Copy unavailable");
+  } finally { field.remove(); }
+}
+function createBushCitationCandidate(candidate, match) {
+  const card = bushCitationText("section", "", "bush-citation-candidate");
+  const inferred = match.status === "candidate-existing-inference";
+  card.append(bushCitationText("h4", `${inferred ? "Candidate folder reference" : "Canonical folder reference"} · ${candidate.id}`));
+  const label = bushCitationText("label", "Plain Source: stem — not a verified document citation", "bush-citation-label");
+  const source = document.createElement("textarea");
+  source.className = "bush-citation-source";
+  source.readOnly = true;
+  source.rows = 4;
+  source.value = candidate.n;
+  source.setAttribute("aria-label", `Source stem for canonical row ${candidate.id}`);
+  label.append(source);
+  const actions = bushCitationText("div", "", "bush-citation-actions");
+  const copy = bushCitationText("button", inferred ? "Copy candidate Source stem" : "Copy folder Source stem");
+  copy.type = "button";
+  const status = bushCitationText("p", "", "bush-citation-status");
+  status.setAttribute("role", "status");
+  copy.addEventListener("click", async () => {
+    try {
+      await copyBushCitationSource(candidate.n);
+      status.textContent = "Source stem copied. Review flags and match evidence are not included.";
+    } catch {
+      source.focus(); source.select();
+      status.textContent = "Automatic copy is unavailable. The Source stem is selected; use your device’s Copy command.";
+    }
+  });
+  actions.append(copy, bushCitationLink("View canonical source row ↗", `https://therealjameswilson.github.io/bush41-nsc-source-notes/?id=${encodeURIComponent(candidate.id)}`));
+  card.append(label, actions, status);
+  const reference = [candidate.g, candidate.ss || candidate.st, candidate.oa ? `OA/ID ${candidate.oa}` : "", candidate.na ? `File-unit NAID ${candidate.na}` : "", candidate.sn ? `Series NAID ${candidate.sn}` : ""].filter(Boolean).join(" · ");
+  card.append(bushCitationText("p", reference, "bush-citation-metadata"));
+  card.append(bushCitationText("p", `Source level: ${candidate.t || "unspecified"}. Availability in the source: ${candidate.a || "not stated"}. Availability is separate from the document’s original classification and release status.`, "bush-citation-metadata"));
+  const evidence = (match.matchingEvidence || []).find(item => item.canonicalRowId === candidate.id);
+  if (evidence?.identifiers?.length) {
+    card.append(bushCitationText("p", `Identifier evidence: ${evidence.identifiers.map(item => `${item.field} = ${item.value} (${item.comparison})`).join("; ")}.`, "bush-citation-metadata"));
+  }
+  for (const warning of evidence?.cautions || []) card.append(bushCitationText("p", warning, "bush-citation-warning"));
+  const links = bushCitationText("div", "", "bush-citation-actions");
+  if (candidate.c) links.append(bushCitationLink("Canonical folder catalog reference ↗", candidate.c));
+  if (candidate.o) links.append(bushCitationLink("Canonical folder’s linked object — may be another document ↗", candidate.o));
+  card.append(links);
+  return card;
+}
+function createBushCitationDetails(record) {
+  const details = bushCitationText("details", "", "bush-citation-details");
+  const summary = bushCitationText("summary", "Check copyable Bush 41 folder reference");
+  const content = bushCitationText("div", "", "bush-citation-content");
+  const status = bushCitationText("p", "Citation evidence loads when this section opens.");
+  status.setAttribute("role", "status");
+  content.append(status); details.append(summary, content);
+  let loaded = false; let loading = false;
+  details.addEventListener("toggle", async () => {
+    if (!details.open || loaded || loading) return;
+    loading = true;
+    status.textContent = "Loading the canonical folder-reference cross-check…";
+    try {
+      const audit = await loadBushCitationAudit();
+      const match = audit.matchesByRecordId[record.id];
+      if (!match) {
+        summary.textContent = "Record outside this citation cross-check";
+        content.replaceChildren(bushCitationText("p", `This record is not among the ${audit.counts.records} records in the checked source set. No match assessment or citation has been inferred. Preserve its existing source note and document links; use the full collection for further research.`));
+        content.append(bushCitationLink("Search the complete Bush 41 collection ↗", "https://therealjameswilson.github.io/bush41-nsc-source-notes/"));
+        content.append(bushCitationText("p", audit.scope, "bush-citation-metadata"));
+        content.append(bushCitationLink("Download the audited record list and source version", "data/bush-presidential-citation-matches.json"));
+        loaded = true;
+        return;
+      }
+      const rows = match.canonicalRows || [];
+      const inferred = match.status === "candidate-existing-inference";
+      summary.textContent = inferred ? "Candidate folder reference · prior inference remains unverified"
+        : rows.length ? "Exact folder identifier reference · document attribution unverified"
+        : "No exact folder reference in the checked collection";
+      content.replaceChildren(bushCitationText("p", match.matchBasis));
+      if (rows.length) {
+        content.append(bushCitationText("p", "This checks recorded folder identifiers, not the document image or the document’s attribution to that folder. Zero item citations were verified. Keep the original document PDF, existing source/classification notes and stronger item citations; do not replace State Department FOIA provenance.", "bush-citation-warning"));
+        if (inferred) content.append(bushCitationText("p", `Candidate only: this record already used an inferential attribution${match.existingEvidence?.priorMatchMethod ? ` (${match.existingEvidence.priorMatchMethod})` : ""}. Matching the recorded folder identifier does not validate that earlier inference.`, "bush-citation-warning"));
+        for (const warning of match.reviewFlags || []) content.append(bushCitationText("p", warning, "bush-citation-warning"));
+        if (rows.length > 1) content.append(bushCitationText("p", "All canonical candidate rows are retained below. No candidate was selected automatically.", "bush-citation-warning"));
+        rows.forEach(candidate => content.append(createBushCitationCandidate(candidate, match)));
+      } else {
+        content.append(bushCitationText("p", "No citation has been inferred. Preserve the existing source note and document links. Search the complete collection and verify the repository, series, folder and document identity before using a stem."));
+        content.append(bushCitationLink("Search the complete Bush 41 collection ↗", "https://therealjameswilson.github.io/bush41-nsc-source-notes/"));
+      }
+      const counts = audit.counts;
+      const coverage = `${counts.matchedFolderReferences || 0} of ${counts.records} records have canonical folder references${counts['candidate-existing-inference'] ? `, including ${counts['candidate-existing-inference']} prior inferential candidates` : ""}; ${counts.unmatched || 0} remain unmatched. Zero verified item citations.`;
+      content.append(bushCitationText("p", coverage, "bush-citation-metadata"));
+      const version = bushCitationText("p", `Checked source: ${audit.sourceVersion.entryCount.toLocaleString()} canonical rows, generated ${audit.sourceVersion.generatedAt}. `, "bush-citation-metadata");
+      version.append(bushCitationLink("Download cross-check, input hashes and match rules", "data/bush-presidential-citation-matches.json"));
+      content.append(version);
+      loaded = true;
+    } catch {
+      status.textContent = "Citation evidence could not load. Close and reopen this section to retry, or open the complete source collection.";
+      if (!content.querySelector("a")) content.append(bushCitationLink("Open the complete Bush 41 collection ↗", "https://therealjameswilson.github.io/bush41-nsc-source-notes/"));
+    } finally { loading = false; }
+  });
+  return details;
+}
+// END PRESIDENTIAL CITATION CROSS-CHECK
+
 function createRecordRow(record, candidateNumber) {
   const row = document.createElement("article");
   row.className = "record-row";
@@ -357,6 +500,8 @@ function createRecordRow(record, candidateNumber) {
   subject.textContent = record.subjectLine || record.topics.join(", ");
 
   body.append(title, dateLine, subject, createMeta(record), createReadiness(record), createSourceDetails(record));
+
+  body.append(createBushCitationDetails(record));
 
   row.append(dateCell, body, createLinks(record));
   return row;

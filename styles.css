@@ -802,3 +802,20 @@ footer a {
     grid-template-columns: 1fr;
   }
 }
+
+/* Presidential citation cross-check: independent of existing document controls. */
+.bush-citation-details{min-width:0;margin-top:14px;padding:10px 12px;border:1px solid #bcc9cd;border-radius:6px;background:#f8faf8;color:#263b42;font-size:.86rem;line-height:1.55;overflow-wrap:anywhere;}
+.bush-citation-details>summary{cursor:pointer;font-weight:750;min-height:28px;color:#264f5f;}
+.bush-citation-content p{margin:10px 0;}
+.bush-citation-warning{padding-left:10px;border-left:3px solid #a87b37;}
+.bush-citation-candidate{min-width:0;margin-top:14px;padding-top:14px;border-top:1px solid #cbd6d7;}
+.bush-citation-candidate h4{margin:0 0 10px;font-size:.88rem;line-height:1.45;}
+.bush-citation-label{display:block;font-weight:650;}
+.bush-citation-source{display:block;box-sizing:border-box;width:100%;max-width:100%;min-height:106px;margin-top:6px;padding:9px 10px;border:1px solid #a9bcc1;border-radius:4px;background:#fff;color:#233b43;font:inherit;font-size:.86rem;font-weight:400;line-height:1.55;resize:vertical;}
+.bush-citation-actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;margin-top:8px;}
+.bush-citation-actions button{min-height:44px;margin:0;padding:8px 12px;border:1px solid #315568;border-radius:5px;background:#fff;color:#244a5b;font:inherit;font-weight:650;cursor:pointer;white-space:normal;}
+.bush-citation-details a{color:#1f5d70;text-decoration:underline;text-underline-offset:2px;}
+.bush-citation-details :is(button,a,textarea,summary):focus-visible{outline:3px solid #b77622;outline-offset:3px;}
+.bush-citation-status{min-height:1.5em;font-weight:650;}
+.bush-citation-metadata{font-size:.8rem;}
+@media(max-width:600px){.bush-citation-details{padding:10px;}.bush-citation-actions{align-items:flex-start;flex-direction:column;}}
